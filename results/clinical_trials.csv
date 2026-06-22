@@ -1,0 +1,2401 @@
+nct_id,phase,therapeutic_area,enrollment,duration_months,sponsor_type,start_year,success,status
+NCT75682867,Phase IV,Neurology,5284,84,NIH,2014,1,Completed-Success
+NCT66755036,Phase III,Oncology,513,71,Industry,2014,1,Completed-Success
+NCT66882282,Phase II,Oncology,845,80,Industry,2010,0,Withdrawn
+NCT31081788,Phase II,Other,69,50,Industry,2016,1,Completed-Success
+NCT23315092,Phase II,Oncology,31,92,Industry,2021,0,Terminated
+NCT45788921,Phase III,Infectious Disease,162,79,Industry,2017,0,Terminated
+NCT36735830,Phase III,Cardiology,174,72,NIH,2020,1,Completed-Success
+NCT41632483,Phase I,Infectious Disease,29,74,Academic,2014,1,Completed-Success
+NCT86737383,Phase I,Oncology,114,8,Academic,2006,1,Completed-Success
+NCT98358551,Phase I,Oncology,270,43,Academic,2006,0,Completed-Failed
+NCT98409749,Phase III,Oncology,254,82,Academic,2011,0,Completed-Failed
+NCT14981505,Phase III,Cardiology,316,47,Industry,2010,1,Completed-Success
+NCT23953367,Phase II,Infectious Disease,229,88,NIH,2005,1,Completed-Success
+NCT95652971,Phase I,Oncology,69,45,Industry,2016,0,Withdrawn
+NCT14521373,Phase I,Cardiology,68,55,NIH,2017,0,Completed-Failed
+NCT13344769,Phase IV,Neurology,24,40,Academic,2016,1,Completed-Success
+NCT86893497,Phase II,Oncology,2158,29,Industry,2013,1,Completed-Success
+NCT40349564,Phase III,Infectious Disease,151,93,Academic,2014,0,Completed-Failed
+NCT52860080,Phase III,Cardiology,105,22,Industry,2021,0,Completed-Failed
+NCT87751354,Phase II,Oncology,36,45,Industry,2022,0,Terminated
+NCT72250665,Phase I,Oncology,12130,79,Academic,2012,1,Completed-Success
+NCT76209791,Phase I,Cardiology,29,71,Industry,2011,0,Completed-Failed
+NCT56792155,Phase III,Other,78,49,Industry,2013,0,Completed-Failed
+NCT31498555,Phase III,Neurology,276,28,NIH,2014,1,Completed-Success
+NCT70221198,Phase III,Cardiology,365,11,Academic,2016,0,Completed-Failed
+NCT89757501,Phase II,Neurology,624,71,NIH,2019,1,Completed-Success
+NCT26861870,Phase I,Infectious Disease,2233,26,Academic,2019,1,Completed-Success
+NCT62286002,Phase IV,Cardiology,317,40,Industry,2008,1,Completed-Success
+NCT42049003,Phase III,Infectious Disease,30,118,Industry,2008,1,Completed-Success
+NCT71136438,Phase II,Oncology,100,34,Academic,2005,1,Completed-Success
+NCT72194931,Phase IV,Cardiology,235,12,NIH,2016,0,Completed-Failed
+NCT75285250,Phase III,Cardiology,3302,98,Industry,2006,1,Completed-Success
+NCT79537252,Phase III,Infectious Disease,18,58,NIH,2019,0,Completed-Failed
+NCT69248434,Phase III,Other,901,42,NIH,2021,0,Completed-Failed
+NCT71306900,Phase III,Oncology,194,28,Academic,2011,0,Withdrawn
+NCT65831368,Phase III,Oncology,521,102,NIH,2010,0,Withdrawn
+NCT20959014,Phase I,Oncology,127,13,Industry,2016,1,Completed-Success
+NCT66972561,Phase II,Neurology,41,81,NIH,2005,0,Completed-Failed
+NCT58900483,Phase IV,Cardiology,457,115,Academic,2018,1,Completed-Success
+NCT30193880,Phase I,Oncology,396,53,Industry,2008,1,Completed-Success
+NCT13385357,Phase II,Cardiology,637,15,NIH,2009,1,Completed-Success
+NCT54738553,Phase II,Infectious Disease,145,84,Industry,2005,0,Terminated
+NCT78574553,Phase II,Neurology,60,29,Industry,2005,0,Terminated
+NCT26845364,Phase III,Infectious Disease,14,95,Academic,2010,0,Completed-Failed
+NCT62157313,Phase IV,Infectious Disease,507,52,Industry,2009,0,Completed-Failed
+NCT21392366,Phase I,Other,280,111,Industry,2006,0,Completed-Failed
+NCT79778859,Phase I,Oncology,34,58,Academic,2009,0,Completed-Failed
+NCT98883975,Phase I,Oncology,66,44,Industry,2013,1,Completed-Success
+NCT23479854,Phase IV,Cardiology,73,72,Industry,2019,0,Completed-Failed
+NCT83506850,Phase III,Other,16,71,Industry,2017,0,Terminated
+NCT23187277,Phase II,Infectious Disease,43,11,Industry,2016,1,Completed-Success
+NCT78979792,Phase III,Oncology,27,26,Academic,2009,1,Completed-Success
+NCT47709731,Phase IV,Oncology,79,78,Academic,2006,1,Completed-Success
+NCT36939239,Phase III,Infectious Disease,49,79,NIH,2008,0,Completed-Failed
+NCT33027075,Phase IV,Oncology,12,41,Academic,2022,1,Completed-Success
+NCT91200125,Phase II,Cardiology,3083,8,Industry,2014,0,Terminated
+NCT96191493,Phase III,Other,971,110,NIH,2017,1,Completed-Success
+NCT97796277,Phase II,Infectious Disease,46,93,Academic,2016,1,Completed-Success
+NCT76401385,Phase III,Infectious Disease,223,91,Academic,2006,1,Completed-Success
+NCT32335235,Phase III,Infectious Disease,277,118,Academic,2019,0,Completed-Failed
+NCT10271836,Phase III,Oncology,885,83,NIH,2018,0,Completed-Failed
+NCT13584702,Phase III,Other,43,47,Academic,2014,0,Completed-Failed
+NCT62631083,Phase I,Infectious Disease,763,50,Industry,2012,1,Completed-Success
+NCT18585377,Phase II,Infectious Disease,65,49,Academic,2019,0,Completed-Failed
+NCT96544585,Phase IV,Cardiology,20,96,Industry,2017,1,Completed-Success
+NCT95157821,Phase IV,Infectious Disease,439,38,Industry,2012,1,Completed-Success
+NCT97655395,Phase I,Cardiology,1028,65,Industry,2018,0,Terminated
+NCT27824013,Phase I,Oncology,7200,91,Industry,2005,1,Completed-Success
+NCT46601694,Phase I,Neurology,24,98,Industry,2017,0,Terminated
+NCT77105583,Phase III,Other,423,88,Industry,2012,0,Completed-Failed
+NCT70304654,Phase III,Cardiology,80,88,Academic,2022,0,Terminated
+NCT44119117,Phase I,Other,480,75,Academic,2013,0,Withdrawn
+NCT46433622,Phase II,Oncology,16,114,NIH,2017,1,Completed-Success
+NCT99482491,Phase III,Infectious Disease,22,88,Industry,2007,0,Terminated
+NCT70031992,Phase III,Cardiology,46,82,Academic,2022,0,Completed-Failed
+NCT65105831,Phase II,Cardiology,167,31,NIH,2014,0,Terminated
+NCT13366612,Phase III,Infectious Disease,56,91,Industry,2009,0,Completed-Failed
+NCT68743503,Phase II,Oncology,398,26,Academic,2010,1,Completed-Success
+NCT46258670,Phase II,Oncology,692,105,Academic,2012,0,Withdrawn
+NCT79739572,Phase III,Infectious Disease,364,7,Industry,2011,0,Completed-Failed
+NCT65848857,Phase III,Oncology,1682,52,NIH,2022,1,Completed-Success
+NCT67055419,Phase IV,Neurology,276,113,Academic,2018,1,Completed-Success
+NCT59160571,Phase III,Oncology,23,35,Industry,2019,0,Completed-Failed
+NCT78394024,Phase III,Oncology,1147,32,Industry,2014,0,Completed-Failed
+NCT74525468,Phase I,Cardiology,59,76,Industry,2016,1,Completed-Success
+NCT99966606,Phase II,Cardiology,581,25,Industry,2011,0,Completed-Failed
+NCT48727468,Phase I,Other,1572,55,Industry,2011,1,Completed-Success
+NCT61757120,Phase I,Cardiology,294,100,Industry,2015,1,Completed-Success
+NCT77157848,Phase III,Oncology,15,28,Industry,2017,1,Completed-Success
+NCT87897542,Phase IV,Neurology,37,18,NIH,2019,0,Withdrawn
+NCT83665032,Phase I,Infectious Disease,1079,86,Industry,2022,0,Completed-Failed
+NCT95390464,Phase II,Oncology,115,9,Industry,2011,1,Completed-Success
+NCT58170987,Phase III,Cardiology,167,19,Industry,2010,0,Completed-Failed
+NCT62562567,Phase I,Other,463,25,Industry,2015,1,Completed-Success
+NCT33717335,Phase III,Infectious Disease,421,18,Industry,2012,1,Completed-Success
+NCT70472382,Phase III,Oncology,225,8,Industry,2005,0,Withdrawn
+NCT22719242,Phase III,Oncology,108,95,Industry,2012,0,Completed-Failed
+NCT58715250,Phase I,Oncology,92,95,Academic,2012,1,Completed-Success
+NCT93139152,Phase II,Infectious Disease,537,87,NIH,2007,0,Completed-Failed
+NCT54054178,Phase III,Cardiology,340,101,Industry,2009,0,Terminated
+NCT48334882,Phase III,Oncology,100,83,Industry,2007,1,Completed-Success
+NCT62441466,Phase I,Other,752,52,Academic,2019,0,Completed-Failed
+NCT59583876,Phase III,Neurology,122,8,Academic,2018,1,Completed-Success
+NCT96117865,Phase I,Cardiology,41,6,Industry,2019,0,Completed-Failed
+NCT73203558,Phase III,Neurology,47,95,NIH,2021,1,Completed-Success
+NCT47407771,Phase I,Oncology,34,29,Academic,2022,1,Completed-Success
+NCT93122310,Phase IV,Infectious Disease,98,118,Industry,2006,1,Completed-Success
+NCT37009224,Phase II,Cardiology,944,40,Academic,2016,1,Completed-Success
+NCT61327755,Phase II,Neurology,44,19,NIH,2020,0,Completed-Failed
+NCT89018913,Phase I,Neurology,196,72,Academic,2008,1,Completed-Success
+NCT17130144,Phase II,Oncology,55,18,Industry,2006,0,Terminated
+NCT14545583,Phase IV,Other,100,52,Industry,2018,1,Completed-Success
+NCT64079037,Phase IV,Oncology,15,55,Industry,2015,1,Completed-Success
+NCT64474455,Phase II,Other,106,83,Industry,2017,0,Withdrawn
+NCT51542436,Phase II,Other,110,90,Academic,2011,0,Completed-Failed
+NCT56626914,Phase III,Oncology,333,31,Academic,2014,1,Completed-Success
+NCT63933927,Phase IV,Cardiology,207,8,Academic,2005,1,Completed-Success
+NCT62453338,Phase III,Oncology,24,56,NIH,2008,1,Completed-Success
+NCT24881728,Phase II,Infectious Disease,754,45,Industry,2022,0,Completed-Failed
+NCT44045666,Phase II,Infectious Disease,203,73,NIH,2010,0,Completed-Failed
+NCT22722094,Phase III,Cardiology,199,41,Academic,2006,0,Terminated
+NCT32178434,Phase I,Other,146,56,Industry,2007,1,Completed-Success
+NCT56321408,Phase III,Cardiology,68,112,Academic,2018,0,Completed-Failed
+NCT22796932,Phase II,Infectious Disease,205,6,Industry,2012,1,Completed-Success
+NCT84023414,Phase III,Neurology,302,109,Academic,2020,1,Completed-Success
+NCT36063245,Phase I,Other,10,116,Industry,2022,0,Withdrawn
+NCT49443226,Phase III,Oncology,66,38,Industry,2010,0,Completed-Failed
+NCT83619289,Phase II,Other,101,12,Academic,2018,0,Withdrawn
+NCT17887739,Phase III,Oncology,217,57,Academic,2007,0,Terminated
+NCT70736972,Phase I,Neurology,888,16,Industry,2020,1,Completed-Success
+NCT71071026,Phase III,Oncology,46,32,Industry,2005,0,Terminated
+NCT10769598,Phase III,Oncology,70,19,Industry,2016,0,Completed-Failed
+NCT99178975,Phase III,Infectious Disease,68,91,Academic,2018,0,Terminated
+NCT59007334,Phase III,Cardiology,44,85,NIH,2013,0,Completed-Failed
+NCT38433648,Phase III,Infectious Disease,88,51,NIH,2011,0,Completed-Failed
+NCT17971379,Phase III,Oncology,471,81,Industry,2018,0,Completed-Failed
+NCT13331068,Phase II,Cardiology,30,118,Academic,2009,1,Completed-Success
+NCT46810847,Phase III,Other,281,115,Industry,2022,0,Withdrawn
+NCT44428803,Phase II,Infectious Disease,11,15,Academic,2013,1,Completed-Success
+NCT15654237,Phase I,Oncology,63,29,Industry,2011,1,Completed-Success
+NCT71553124,Phase I,Infectious Disease,90,66,Industry,2013,1,Completed-Success
+NCT55816038,Phase II,Oncology,1830,115,Academic,2008,0,Terminated
+NCT27750764,Phase III,Neurology,98,23,Industry,2021,1,Completed-Success
+NCT46898446,Phase III,Neurology,5,91,Academic,2016,1,Completed-Success
+NCT33841962,Phase III,Cardiology,7,14,Academic,2010,0,Completed-Failed
+NCT76834972,Phase II,Infectious Disease,156,22,Industry,2022,0,Terminated
+NCT53156515,Phase II,Neurology,372,107,Industry,2012,1,Completed-Success
+NCT32993420,Phase I,Cardiology,260,109,NIH,2019,1,Completed-Success
+NCT72190751,Phase II,Neurology,190,63,Academic,2007,1,Completed-Success
+NCT31970758,Phase II,Cardiology,848,18,Industry,2006,0,Completed-Failed
+NCT46513466,Phase I,Neurology,66,55,Industry,2013,1,Completed-Success
+NCT41288562,Phase I,Cardiology,568,106,Academic,2012,0,Terminated
+NCT31351509,Phase III,Infectious Disease,12,11,Academic,2008,0,Terminated
+NCT33484187,Phase III,Other,38,90,Industry,2006,0,Terminated
+NCT71777469,Phase IV,Infectious Disease,9,56,Industry,2018,1,Completed-Success
+NCT46093880,Phase IV,Cardiology,98,41,NIH,2006,1,Completed-Success
+NCT60441204,Phase III,Oncology,138,76,Academic,2006,1,Completed-Success
+NCT91752859,Phase II,Cardiology,176,105,NIH,2011,0,Completed-Failed
+NCT54066131,Phase III,Cardiology,162,30,Academic,2016,0,Withdrawn
+NCT85415325,Phase III,Oncology,36,16,NIH,2010,1,Completed-Success
+NCT45563453,Phase I,Oncology,111,49,Industry,2022,1,Completed-Success
+NCT44755914,Phase II,Cardiology,15,19,Academic,2008,0,Withdrawn
+NCT60873983,Phase III,Neurology,1146,114,Industry,2017,0,Terminated
+NCT63892568,Phase II,Infectious Disease,94,34,Academic,2006,1,Completed-Success
+NCT33637222,Phase III,Oncology,71,79,Industry,2012,0,Completed-Failed
+NCT12484413,Phase III,Cardiology,1609,55,Industry,2013,0,Terminated
+NCT80016224,Phase I,Oncology,23,117,NIH,2008,0,Terminated
+NCT49449976,Phase II,Infectious Disease,27,10,NIH,2020,1,Completed-Success
+NCT99583549,Phase II,Oncology,28,77,Industry,2014,1,Completed-Success
+NCT12235000,Phase I,Oncology,134,115,Academic,2010,1,Completed-Success
+NCT33685747,Phase I,Oncology,283,74,Industry,2020,1,Completed-Success
+NCT47876684,Phase III,Infectious Disease,450,93,Industry,2014,0,Completed-Failed
+NCT82931048,Phase II,Oncology,7030,109,Academic,2017,1,Completed-Success
+NCT39859174,Phase II,Infectious Disease,5,62,Industry,2013,1,Completed-Success
+NCT46102853,Phase II,Infectious Disease,369,31,NIH,2011,0,Completed-Failed
+NCT56159303,Phase IV,Infectious Disease,64,11,Industry,2008,1,Completed-Success
+NCT22195226,Phase II,Infectious Disease,61,21,Academic,2008,0,Completed-Failed
+NCT57936136,Phase II,Neurology,58,65,Academic,2016,1,Completed-Success
+NCT79062973,Phase IV,Oncology,37,105,Industry,2017,1,Completed-Success
+NCT24421668,Phase III,Infectious Disease,1857,17,Industry,2008,0,Terminated
+NCT31200096,Phase I,Oncology,525,80,Academic,2014,1,Completed-Success
+NCT93375337,Phase III,Oncology,153,8,Academic,2011,0,Completed-Failed
+NCT33234510,Phase II,Cardiology,1126,68,Industry,2009,0,Completed-Failed
+NCT61715898,Phase II,Cardiology,15,113,Industry,2021,1,Completed-Success
+NCT55968757,Phase I,Other,20,69,Industry,2022,0,Terminated
+NCT10061087,Phase I,Cardiology,5,67,Industry,2015,1,Completed-Success
+NCT90705119,Phase III,Other,51,106,Industry,2019,0,Completed-Failed
+NCT76653416,Phase II,Oncology,189,11,Industry,2011,1,Completed-Success
+NCT95382256,Phase II,Oncology,173,24,Academic,2022,0,Completed-Failed
+NCT20274621,Phase III,Oncology,185,23,Academic,2010,0,Completed-Failed
+NCT23022704,Phase III,Oncology,17,85,NIH,2022,1,Completed-Success
+NCT26816569,Phase I,Infectious Disease,495,92,Academic,2020,0,Withdrawn
+NCT17654909,Phase III,Cardiology,212,48,NIH,2006,1,Completed-Success
+NCT47814054,Phase I,Oncology,445,106,Academic,2005,1,Completed-Success
+NCT94302960,Phase III,Other,8,78,Academic,2015,0,Terminated
+NCT25421040,Phase III,Neurology,236,8,NIH,2009,0,Completed-Failed
+NCT34210512,Phase IV,Oncology,24,77,Academic,2020,1,Completed-Success
+NCT82073914,Phase I,Oncology,81,43,Industry,2005,0,Withdrawn
+NCT77922032,Phase I,Oncology,330,73,Academic,2018,1,Completed-Success
+NCT43779713,Phase II,Oncology,170,81,NIH,2007,1,Completed-Success
+NCT21506305,Phase II,Oncology,41,49,Academic,2006,0,Completed-Failed
+NCT30560091,Phase I,Infectious Disease,149,100,Academic,2009,1,Completed-Success
+NCT96881845,Phase IV,Oncology,14,94,Academic,2021,0,Withdrawn
+NCT17734102,Phase I,Infectious Disease,833,85,NIH,2022,1,Completed-Success
+NCT15674719,Phase II,Other,109,68,Industry,2005,0,Completed-Failed
+NCT18658144,Phase III,Cardiology,794,47,Academic,2019,0,Completed-Failed
+NCT50163712,Phase II,Other,67,69,Industry,2013,0,Completed-Failed
+NCT99386386,Phase III,Oncology,67,59,Academic,2009,0,Completed-Failed
+NCT95447809,Phase I,Infectious Disease,47,83,Academic,2017,1,Completed-Success
+NCT98917675,Phase II,Cardiology,552,82,Industry,2014,1,Completed-Success
+NCT54165849,Phase I,Oncology,51,110,Industry,2018,0,Completed-Failed
+NCT82586911,Phase I,Oncology,390,76,Academic,2016,1,Completed-Success
+NCT78227907,Phase IV,Cardiology,83,81,Industry,2015,1,Completed-Success
+NCT88826934,Phase I,Cardiology,7,42,Industry,2011,1,Completed-Success
+NCT59905866,Phase II,Infectious Disease,63,119,Academic,2021,0,Terminated
+NCT91121402,Phase II,Infectious Disease,25,9,Industry,2022,1,Completed-Success
+NCT50657662,Phase II,Infectious Disease,156,7,Industry,2011,1,Completed-Success
+NCT16659908,Phase IV,Oncology,24,104,NIH,2010,1,Completed-Success
+NCT41378291,Phase I,Oncology,595,49,Industry,2015,0,Terminated
+NCT73020641,Phase III,Oncology,129,72,Industry,2016,1,Completed-Success
+NCT46634821,Phase IV,Oncology,113,73,Academic,2020,0,Completed-Failed
+NCT29433354,Phase III,Other,396,107,Academic,2015,0,Completed-Failed
+NCT26887294,Phase IV,Cardiology,630,81,NIH,2020,1,Completed-Success
+NCT83422991,Phase I,Cardiology,144,88,NIH,2016,0,Completed-Failed
+NCT45562619,Phase II,Oncology,46,79,Academic,2012,0,Completed-Failed
+NCT45213498,Phase II,Infectious Disease,10,67,Industry,2007,1,Completed-Success
+NCT45703247,Phase III,Oncology,53,6,Industry,2006,0,Terminated
+NCT50910172,Phase IV,Oncology,58,22,Industry,2010,1,Completed-Success
+NCT72744322,Phase II,Oncology,174,21,Industry,2020,1,Completed-Success
+NCT67805563,Phase III,Neurology,88,14,Academic,2019,1,Completed-Success
+NCT16404003,Phase I,Cardiology,416,58,Academic,2018,0,Completed-Failed
+NCT81244178,Phase III,Infectious Disease,59,78,Industry,2006,1,Completed-Success
+NCT61939266,Phase II,Infectious Disease,136,64,Academic,2022,0,Terminated
+NCT43267858,Phase IV,Other,876,14,Industry,2018,1,Completed-Success
+NCT31114003,Phase III,Oncology,247,17,Industry,2022,1,Completed-Success
+NCT96641503,Phase II,Oncology,135,46,Academic,2006,0,Completed-Failed
+NCT20421958,Phase I,Oncology,60,20,Industry,2005,0,Completed-Failed
+NCT87809459,Phase I,Neurology,57,71,Industry,2006,1,Completed-Success
+NCT22984808,Phase I,Other,41,80,Industry,2013,1,Completed-Success
+NCT24764960,Phase II,Oncology,65,16,Industry,2013,0,Completed-Failed
+NCT60402943,Phase IV,Other,461,13,Academic,2020,1,Completed-Success
+NCT86241446,Phase III,Neurology,106,60,NIH,2015,1,Completed-Success
+NCT63777024,Phase II,Oncology,19,101,Industry,2010,1,Completed-Success
+NCT93494666,Phase I,Infectious Disease,2105,11,Industry,2016,1,Completed-Success
+NCT80721464,Phase IV,Infectious Disease,239,58,Academic,2007,1,Completed-Success
+NCT94711896,Phase III,Other,17,25,NIH,2016,0,Completed-Failed
+NCT89214742,Phase I,Oncology,76,44,Industry,2005,1,Completed-Success
+NCT53799966,Phase III,Neurology,175,104,Industry,2013,0,Completed-Failed
+NCT20047453,Phase II,Oncology,1913,77,Academic,2010,0,Terminated
+NCT45581225,Phase I,Neurology,28,119,Academic,2015,1,Completed-Success
+NCT44109026,Phase II,Infectious Disease,641,118,Industry,2007,0,Completed-Failed
+NCT52090758,Phase II,Cardiology,1211,112,Academic,2008,0,Completed-Failed
+NCT26037627,Phase I,Neurology,57,39,Industry,2014,1,Completed-Success
+NCT90337039,Phase IV,Neurology,97,62,Industry,2010,1,Completed-Success
+NCT30281689,Phase III,Neurology,31,24,Industry,2005,0,Terminated
+NCT67631343,Phase III,Oncology,109,76,NIH,2012,0,Completed-Failed
+NCT81450611,Phase II,Cardiology,140,36,Industry,2012,1,Completed-Success
+NCT56510960,Phase II,Oncology,399,87,Industry,2010,0,Terminated
+NCT42797855,Phase III,Infectious Disease,761,45,Industry,2021,1,Completed-Success
+NCT44795514,Phase II,Infectious Disease,48,19,NIH,2005,0,Completed-Failed
+NCT15184502,Phase I,Infectious Disease,7,108,Industry,2019,0,Completed-Failed
+NCT33448674,Phase II,Infectious Disease,143,105,Industry,2017,0,Withdrawn
+NCT65223954,Phase III,Other,230,86,Industry,2007,1,Completed-Success
+NCT40948143,Phase II,Oncology,215,42,Academic,2006,0,Terminated
+NCT22503247,Phase I,Cardiology,90,49,Industry,2007,0,Completed-Failed
+NCT64006163,Phase III,Infectious Disease,178,14,Industry,2013,0,Completed-Failed
+NCT61910807,Phase I,Oncology,1441,63,Industry,2020,1,Completed-Success
+NCT64847136,Phase II,Oncology,263,25,NIH,2017,1,Completed-Success
+NCT83150359,Phase I,Other,84,114,Academic,2022,1,Completed-Success
+NCT40831219,Phase II,Other,70,97,Academic,2016,1,Completed-Success
+NCT33101383,Phase III,Other,115,55,NIH,2016,0,Withdrawn
+NCT27569187,Phase II,Other,1728,25,NIH,2005,0,Completed-Failed
+NCT64710375,Phase I,Oncology,112,110,Industry,2012,0,Completed-Failed
+NCT64456147,Phase IV,Infectious Disease,144,41,NIH,2021,1,Completed-Success
+NCT88110973,Phase IV,Cardiology,71,32,Industry,2011,1,Completed-Success
+NCT49501026,Phase IV,Infectious Disease,771,77,Industry,2013,0,Terminated
+NCT43163773,Phase I,Infectious Disease,2806,37,NIH,2021,0,Terminated
+NCT21310552,Phase II,Infectious Disease,291,6,Industry,2014,1,Completed-Success
+NCT41146082,Phase IV,Cardiology,168,22,Industry,2008,1,Completed-Success
+NCT31104792,Phase III,Cardiology,156,14,Industry,2011,0,Terminated
+NCT31739356,Phase I,Oncology,5,89,Academic,2011,1,Completed-Success
+NCT21471761,Phase I,Infectious Disease,453,50,Industry,2012,1,Completed-Success
+NCT29576703,Phase II,Cardiology,181,101,Academic,2012,1,Completed-Success
+NCT85092305,Phase IV,Cardiology,282,71,NIH,2020,1,Completed-Success
+NCT82429249,Phase II,Oncology,51,37,Academic,2016,0,Terminated
+NCT28877237,Phase II,Neurology,83,50,Industry,2019,0,Terminated
+NCT56918818,Phase I,Oncology,80,14,NIH,2012,0,Terminated
+NCT33705256,Phase III,Infectious Disease,687,35,Industry,2013,1,Completed-Success
+NCT94504547,Phase III,Neurology,84,89,Industry,2007,0,Terminated
+NCT87633091,Phase II,Cardiology,3374,43,Industry,2020,0,Completed-Failed
+NCT89452960,Phase III,Oncology,283,65,Academic,2019,1,Completed-Success
+NCT65403796,Phase IV,Cardiology,21,6,Industry,2008,1,Completed-Success
+NCT33508102,Phase I,Cardiology,122,10,Industry,2020,1,Completed-Success
+NCT19405634,Phase II,Neurology,55,68,Industry,2014,0,Completed-Failed
+NCT15853584,Phase II,Neurology,5,104,Industry,2015,0,Terminated
+NCT34947744,Phase III,Cardiology,1634,41,Academic,2009,0,Withdrawn
+NCT58491183,Phase III,Infectious Disease,426,70,Academic,2015,1,Completed-Success
+NCT47856186,Phase III,Oncology,330,83,Academic,2017,0,Completed-Failed
+NCT58673237,Phase III,Oncology,190,78,Industry,2019,0,Completed-Failed
+NCT75293686,Phase II,Infectious Disease,18,99,Industry,2010,1,Completed-Success
+NCT11983509,Phase IV,Cardiology,71,29,NIH,2020,0,Withdrawn
+NCT28298917,Phase II,Infectious Disease,524,9,Industry,2019,1,Completed-Success
+NCT53563237,Phase I,Oncology,30,119,NIH,2015,1,Completed-Success
+NCT87729132,Phase III,Oncology,5,83,Industry,2006,0,Terminated
+NCT87275698,Phase III,Infectious Disease,105,94,NIH,2006,0,Completed-Failed
+NCT83214389,Phase II,Oncology,119,73,Industry,2016,0,Terminated
+NCT36365210,Phase IV,Neurology,181,30,Industry,2020,1,Completed-Success
+NCT68245345,Phase IV,Oncology,442,79,Academic,2006,1,Completed-Success
+NCT37180308,Phase II,Cardiology,386,104,Academic,2021,0,Withdrawn
+NCT21326237,Phase IV,Other,218,12,Industry,2018,1,Completed-Success
+NCT96343264,Phase I,Oncology,891,111,Academic,2020,1,Completed-Success
+NCT71864219,Phase I,Infectious Disease,15,18,Academic,2009,1,Completed-Success
+NCT64434670,Phase I,Oncology,316,73,Industry,2014,1,Completed-Success
+NCT97692768,Phase IV,Cardiology,379,119,Industry,2021,1,Completed-Success
+NCT43255876,Phase III,Cardiology,23,48,Industry,2017,0,Terminated
+NCT59114107,Phase I,Infectious Disease,15,62,Industry,2020,1,Completed-Success
+NCT25900476,Phase II,Infectious Disease,48,41,Academic,2013,0,Terminated
+NCT50820227,Phase III,Other,55,19,Industry,2008,0,Completed-Failed
+NCT89688895,Phase I,Oncology,459,87,Industry,2020,0,Withdrawn
+NCT97927856,Phase IV,Oncology,59,77,Industry,2015,0,Completed-Failed
+NCT63059071,Phase III,Neurology,41,101,Industry,2011,0,Withdrawn
+NCT99595920,Phase II,Cardiology,59,32,Industry,2021,1,Completed-Success
+NCT22707035,Phase IV,Other,794,111,Industry,2017,1,Completed-Success
+NCT15130397,Phase II,Cardiology,151,42,Industry,2008,0,Completed-Failed
+NCT80560220,Phase IV,Neurology,113,92,NIH,2018,0,Completed-Failed
+NCT46998516,Phase III,Infectious Disease,125,76,Industry,2014,0,Completed-Failed
+NCT46481541,Phase III,Neurology,1030,81,Academic,2014,0,Completed-Failed
+NCT76385640,Phase I,Other,48,30,Industry,2014,1,Completed-Success
+NCT76880548,Phase IV,Cardiology,1067,72,Industry,2016,1,Completed-Success
+NCT88384476,Phase II,Oncology,203,95,Industry,2006,1,Completed-Success
+NCT52058334,Phase I,Oncology,116,9,Industry,2013,1,Completed-Success
+NCT59742523,Phase I,Oncology,6319,111,NIH,2009,1,Completed-Success
+NCT49769056,Phase III,Oncology,30,105,NIH,2012,0,Terminated
+NCT65174259,Phase II,Oncology,87,84,Academic,2018,0,Withdrawn
+NCT66688830,Phase III,Cardiology,23,101,Academic,2011,1,Completed-Success
+NCT53369428,Phase IV,Cardiology,619,98,Industry,2011,0,Terminated
+NCT24650271,Phase I,Infectious Disease,1870,79,Industry,2013,1,Completed-Success
+NCT41725526,Phase III,Cardiology,1816,90,NIH,2007,0,Withdrawn
+NCT89348896,Phase I,Oncology,930,21,Academic,2018,0,Completed-Failed
+NCT28992383,Phase IV,Oncology,110,116,Academic,2021,1,Completed-Success
+NCT80995266,Phase III,Oncology,85,24,Industry,2022,0,Terminated
+NCT66877183,Phase II,Infectious Disease,12,34,Industry,2016,0,Terminated
+NCT94574185,Phase III,Oncology,3145,56,NIH,2018,1,Completed-Success
+NCT11989173,Phase II,Oncology,299,23,Industry,2017,0,Terminated
+NCT46635193,Phase II,Infectious Disease,70,63,Industry,2018,0,Completed-Failed
+NCT42474983,Phase III,Neurology,1087,49,Industry,2013,0,Terminated
+NCT43999533,Phase II,Oncology,34,21,Academic,2006,0,Terminated
+NCT24716695,Phase II,Cardiology,273,70,Industry,2015,0,Completed-Failed
+NCT73967150,Phase II,Cardiology,114,117,Academic,2021,0,Terminated
+NCT73981206,Phase III,Neurology,386,7,Industry,2006,0,Withdrawn
+NCT74785345,Phase II,Other,134,61,NIH,2011,0,Completed-Failed
+NCT27882750,Phase I,Oncology,16,84,Academic,2022,1,Completed-Success
+NCT88725274,Phase III,Oncology,166,108,Industry,2017,1,Completed-Success
+NCT70303849,Phase III,Other,715,33,Academic,2009,1,Completed-Success
+NCT20192257,Phase I,Infectious Disease,142,70,Industry,2022,1,Completed-Success
+NCT53167705,Phase I,Cardiology,474,10,Industry,2020,1,Completed-Success
+NCT31130343,Phase I,Cardiology,30,111,NIH,2019,1,Completed-Success
+NCT50869792,Phase II,Cardiology,142,27,Industry,2012,1,Completed-Success
+NCT59913224,Phase II,Other,58,105,Industry,2019,1,Completed-Success
+NCT74356138,Phase III,Other,455,115,Industry,2005,0,Terminated
+NCT77607727,Phase III,Cardiology,155,18,Industry,2021,0,Terminated
+NCT63007836,Phase III,Oncology,417,70,NIH,2019,0,Terminated
+NCT75541801,Phase II,Other,758,21,Industry,2018,1,Completed-Success
+NCT68114585,Phase III,Oncology,418,110,NIH,2018,0,Completed-Failed
+NCT36658609,Phase II,Oncology,223,91,NIH,2014,0,Withdrawn
+NCT86294551,Phase IV,Other,33,69,Industry,2006,1,Completed-Success
+NCT40024204,Phase III,Oncology,147,37,Industry,2010,1,Completed-Success
+NCT92008891,Phase I,Oncology,66,85,NIH,2021,0,Completed-Failed
+NCT58715257,Phase III,Oncology,88,56,Industry,2009,0,Completed-Failed
+NCT32268806,Phase II,Neurology,84,84,Industry,2009,0,Terminated
+NCT16512440,Phase III,Infectious Disease,34,63,Industry,2019,0,Terminated
+NCT22431395,Phase I,Cardiology,7,51,Academic,2019,1,Completed-Success
+NCT83208492,Phase I,Oncology,54,57,Academic,2015,1,Completed-Success
+NCT39093907,Phase IV,Neurology,198,111,Industry,2009,1,Completed-Success
+NCT46253447,Phase I,Neurology,19,68,Industry,2005,1,Completed-Success
+NCT72134783,Phase III,Oncology,151,81,NIH,2015,1,Completed-Success
+NCT72460303,Phase II,Infectious Disease,2566,65,Academic,2015,0,Terminated
+NCT93831437,Phase III,Oncology,688,70,Academic,2010,0,Completed-Failed
+NCT74447435,Phase III,Other,1746,86,Academic,2012,0,Completed-Failed
+NCT59895282,Phase II,Cardiology,266,110,Industry,2006,1,Completed-Success
+NCT12503771,Phase II,Other,855,60,Academic,2019,0,Withdrawn
+NCT80286689,Phase I,Oncology,50,62,Industry,2013,0,Completed-Failed
+NCT10996161,Phase I,Neurology,56,119,Industry,2019,1,Completed-Success
+NCT14183839,Phase II,Neurology,5,97,Academic,2012,1,Completed-Success
+NCT77775190,Phase III,Cardiology,879,76,Industry,2020,1,Completed-Success
+NCT77758014,Phase IV,Other,1495,78,NIH,2018,1,Completed-Success
+NCT30153173,Phase IV,Infectious Disease,64,91,Industry,2019,0,Terminated
+NCT77227698,Phase III,Oncology,101,31,NIH,2017,0,Terminated
+NCT58939582,Phase III,Cardiology,47,17,NIH,2013,0,Terminated
+NCT66224957,Phase III,Cardiology,263,76,Industry,2005,0,Completed-Failed
+NCT32725756,Phase II,Cardiology,802,51,Academic,2010,0,Terminated
+NCT81531065,Phase IV,Oncology,10,52,Industry,2012,0,Withdrawn
+NCT11079600,Phase III,Infectious Disease,274,84,NIH,2022,1,Completed-Success
+NCT36191539,Phase III,Oncology,98,43,Industry,2022,0,Completed-Failed
+NCT42576169,Phase I,Infectious Disease,175,26,Academic,2021,1,Completed-Success
+NCT53381573,Phase II,Cardiology,295,19,Industry,2020,0,Completed-Failed
+NCT80612021,Phase II,Neurology,111,7,Industry,2017,1,Completed-Success
+NCT35050090,Phase IV,Oncology,127,77,Industry,2008,1,Completed-Success
+NCT18849851,Phase II,Infectious Disease,107,114,Industry,2008,1,Completed-Success
+NCT70779108,Phase II,Oncology,636,75,Academic,2018,0,Completed-Failed
+NCT76009351,Phase IV,Oncology,278,106,Academic,2009,1,Completed-Success
+NCT95871668,Phase I,Neurology,206,106,Academic,2020,0,Completed-Failed
+NCT94890726,Phase II,Other,22,38,Industry,2018,0,Withdrawn
+NCT97753580,Phase I,Infectious Disease,84,110,Industry,2018,1,Completed-Success
+NCT39549535,Phase III,Neurology,571,11,Industry,2018,0,Withdrawn
+NCT10449395,Phase IV,Other,157,95,Academic,2018,1,Completed-Success
+NCT31921117,Phase II,Neurology,399,108,NIH,2007,1,Completed-Success
+NCT50308782,Phase IV,Oncology,2100,110,Industry,2021,1,Completed-Success
+NCT61592034,Phase II,Other,704,42,Industry,2018,0,Withdrawn
+NCT63386038,Phase IV,Infectious Disease,170,19,Industry,2014,1,Completed-Success
+NCT67351079,Phase III,Oncology,68,42,Academic,2017,0,Terminated
+NCT41530803,Phase III,Oncology,5,13,Academic,2008,1,Completed-Success
+NCT43266319,Phase I,Infectious Disease,115,108,Academic,2015,0,Terminated
+NCT40503180,Phase IV,Oncology,91,82,Industry,2019,0,Completed-Failed
+NCT13379569,Phase III,Oncology,266,18,Academic,2019,0,Terminated
+NCT80009467,Phase II,Oncology,117,45,Academic,2006,0,Terminated
+NCT54910237,Phase III,Neurology,91,112,Industry,2015,0,Withdrawn
+NCT52165906,Phase II,Other,10,97,Industry,2006,1,Completed-Success
+NCT69855504,Phase IV,Oncology,36,63,Industry,2009,1,Completed-Success
+NCT99473854,Phase I,Neurology,303,23,Industry,2017,1,Completed-Success
+NCT16319707,Phase III,Neurology,1946,62,NIH,2005,1,Completed-Success
+NCT78532150,Phase II,Neurology,128,88,Industry,2011,0,Terminated
+NCT13695961,Phase I,Oncology,242,43,Academic,2011,1,Completed-Success
+NCT88911293,Phase I,Cardiology,619,37,Academic,2014,1,Completed-Success
+NCT46396424,Phase I,Other,43,91,Industry,2010,1,Completed-Success
+NCT14294539,Phase II,Cardiology,257,71,Academic,2016,0,Withdrawn
+NCT21609076,Phase II,Oncology,48,82,Industry,2017,0,Withdrawn
+NCT83204793,Phase III,Infectious Disease,543,92,Industry,2015,0,Withdrawn
+NCT48498937,Phase II,Cardiology,186,30,Industry,2022,0,Completed-Failed
+NCT10803328,Phase II,Infectious Disease,232,97,Industry,2006,1,Completed-Success
+NCT30840174,Phase III,Oncology,45,63,Industry,2020,0,Terminated
+NCT11043233,Phase I,Oncology,428,80,Industry,2006,0,Terminated
+NCT87209213,Phase IV,Neurology,3384,38,Industry,2010,1,Completed-Success
+NCT10529525,Phase IV,Neurology,32,93,Industry,2005,1,Completed-Success
+NCT26953831,Phase III,Oncology,89,71,NIH,2015,1,Completed-Success
+NCT66996736,Phase III,Other,210,35,Industry,2022,0,Completed-Failed
+NCT84583311,Phase IV,Oncology,482,86,Academic,2014,1,Completed-Success
+NCT81709884,Phase I,Cardiology,64,109,Industry,2022,0,Completed-Failed
+NCT92235366,Phase I,Neurology,5,39,Academic,2005,1,Completed-Success
+NCT13699391,Phase I,Neurology,1140,107,Industry,2020,1,Completed-Success
+NCT87183765,Phase III,Other,464,91,NIH,2011,0,Terminated
+NCT58487260,Phase I,Oncology,10,74,Industry,2019,0,Completed-Failed
+NCT67338102,Phase III,Neurology,59,53,Academic,2005,1,Completed-Success
+NCT80721474,Phase IV,Oncology,1559,45,Industry,2013,1,Completed-Success
+NCT25192217,Phase IV,Cardiology,1302,56,Industry,2006,1,Completed-Success
+NCT62496015,Phase II,Neurology,606,85,Academic,2021,0,Completed-Failed
+NCT20292658,Phase I,Cardiology,113,18,Industry,2014,1,Completed-Success
+NCT43698788,Phase III,Oncology,168,95,Industry,2010,0,Terminated
+NCT71819576,Phase III,Other,121,36,Industry,2009,0,Withdrawn
+NCT73362116,Phase I,Oncology,806,44,Academic,2012,1,Completed-Success
+NCT11748014,Phase I,Oncology,39,68,NIH,2012,1,Completed-Success
+NCT50711152,Phase IV,Cardiology,44,53,Industry,2009,0,Terminated
+NCT60296557,Phase III,Infectious Disease,675,92,Academic,2016,0,Completed-Failed
+NCT56216125,Phase III,Neurology,138,53,Industry,2011,0,Completed-Failed
+NCT79397491,Phase IV,Infectious Disease,1173,66,Industry,2017,1,Completed-Success
+NCT91949124,Phase III,Oncology,54,17,NIH,2017,1,Completed-Success
+NCT33295179,Phase II,Neurology,136,83,NIH,2021,1,Completed-Success
+NCT83706383,Phase II,Infectious Disease,37,61,Academic,2008,1,Completed-Success
+NCT27541337,Phase II,Oncology,150,23,Industry,2022,0,Completed-Failed
+NCT67399769,Phase II,Cardiology,16,32,Industry,2014,1,Completed-Success
+NCT30279846,Phase III,Infectious Disease,71,33,Industry,2007,0,Completed-Failed
+NCT20970723,Phase III,Cardiology,17,87,Industry,2016,0,Completed-Failed
+NCT82807712,Phase IV,Infectious Disease,420,85,Industry,2005,1,Completed-Success
+NCT82193785,Phase II,Neurology,434,57,Academic,2015,1,Completed-Success
+NCT60018037,Phase III,Neurology,11,21,NIH,2022,1,Completed-Success
+NCT53351876,Phase III,Cardiology,1097,82,Industry,2017,1,Completed-Success
+NCT60166883,Phase III,Oncology,6286,63,Industry,2021,1,Completed-Success
+NCT70361505,Phase III,Neurology,159,98,NIH,2012,0,Withdrawn
+NCT56787763,Phase I,Cardiology,56,14,Industry,2021,1,Completed-Success
+NCT75732489,Phase II,Cardiology,10265,31,Academic,2006,0,Terminated
+NCT13693305,Phase I,Infectious Disease,20,33,Industry,2007,0,Completed-Failed
+NCT23470137,Phase II,Other,152,110,Industry,2007,0,Completed-Failed
+NCT14466271,Phase II,Cardiology,194,82,NIH,2010,1,Completed-Success
+NCT64717184,Phase III,Oncology,1116,41,Industry,2014,0,Completed-Failed
+NCT44907127,Phase IV,Infectious Disease,254,14,Industry,2022,1,Completed-Success
+NCT20495300,Phase III,Other,70,52,Industry,2022,0,Completed-Failed
+NCT38709379,Phase III,Oncology,35,83,NIH,2018,0,Completed-Failed
+NCT44654999,Phase II,Other,88,56,NIH,2020,1,Completed-Success
+NCT37451727,Phase III,Cardiology,32,81,Industry,2011,0,Withdrawn
+NCT84815222,Phase I,Cardiology,159,62,Industry,2005,1,Completed-Success
+NCT38997889,Phase II,Oncology,63,37,Academic,2021,0,Completed-Failed
+NCT58978079,Phase II,Oncology,15,107,Industry,2009,0,Completed-Failed
+NCT21726298,Phase II,Other,975,72,Academic,2005,0,Completed-Failed
+NCT94607827,Phase I,Oncology,70,62,Industry,2021,1,Completed-Success
+NCT65723671,Phase I,Neurology,22,59,Industry,2014,0,Terminated
+NCT99843595,Phase II,Infectious Disease,115,21,Academic,2016,0,Completed-Failed
+NCT66564401,Phase IV,Oncology,164,67,Industry,2006,1,Completed-Success
+NCT56673570,Phase II,Oncology,10,89,NIH,2020,0,Completed-Failed
+NCT88547323,Phase II,Infectious Disease,244,101,Industry,2019,0,Completed-Failed
+NCT25033888,Phase I,Other,30,61,Industry,2017,1,Completed-Success
+NCT99132960,Phase III,Infectious Disease,1932,28,NIH,2022,0,Terminated
+NCT71704882,Phase II,Infectious Disease,325,22,Industry,2018,0,Completed-Failed
+NCT44958762,Phase I,Oncology,81,85,Academic,2022,0,Completed-Failed
+NCT27028708,Phase II,Infectious Disease,48,43,Industry,2006,0,Completed-Failed
+NCT14035851,Phase I,Infectious Disease,126,77,Academic,2006,0,Completed-Failed
+NCT57685442,Phase I,Other,372,88,Academic,2007,0,Completed-Failed
+NCT44045504,Phase I,Infectious Disease,142,35,Industry,2009,1,Completed-Success
+NCT92396202,Phase I,Infectious Disease,107,63,Academic,2020,1,Completed-Success
+NCT45610155,Phase I,Oncology,161,103,Academic,2019,1,Completed-Success
+NCT39469068,Phase II,Other,59,83,Industry,2016,0,Completed-Failed
+NCT40185054,Phase III,Oncology,88,27,Academic,2013,1,Completed-Success
+NCT19702701,Phase III,Oncology,6,113,Academic,2018,1,Completed-Success
+NCT88262145,Phase II,Cardiology,639,22,Industry,2020,0,Completed-Failed
+NCT43127676,Phase II,Cardiology,232,20,Industry,2015,0,Completed-Failed
+NCT12976242,Phase IV,Infectious Disease,46,119,Industry,2010,1,Completed-Success
+NCT47317456,Phase II,Infectious Disease,2560,53,Industry,2014,0,Completed-Failed
+NCT37812615,Phase I,Neurology,169,37,Academic,2012,0,Completed-Failed
+NCT54653148,Phase III,Oncology,31,82,Industry,2020,0,Completed-Failed
+NCT14833177,Phase I,Neurology,536,90,NIH,2007,1,Completed-Success
+NCT18454561,Phase II,Cardiology,269,118,Industry,2006,1,Completed-Success
+NCT55932658,Phase II,Infectious Disease,268,45,Industry,2020,0,Withdrawn
+NCT12597480,Phase IV,Infectious Disease,78,102,Academic,2013,1,Completed-Success
+NCT33151417,Phase II,Oncology,291,62,Industry,2020,0,Terminated
+NCT49673332,Phase III,Neurology,100,63,Industry,2008,0,Terminated
+NCT29699313,Phase IV,Infectious Disease,341,96,Industry,2014,1,Completed-Success
+NCT26934380,Phase I,Oncology,8,104,Industry,2017,0,Withdrawn
+NCT20617244,Phase II,Cardiology,77,21,Industry,2022,0,Withdrawn
+NCT44086263,Phase II,Other,1964,33,NIH,2019,1,Completed-Success
+NCT80098339,Phase II,Infectious Disease,46,103,Industry,2008,0,Terminated
+NCT60234072,Phase II,Other,59,116,NIH,2013,1,Completed-Success
+NCT13369720,Phase IV,Oncology,75,6,Academic,2008,0,Terminated
+NCT81819939,Phase III,Oncology,23,46,Industry,2020,0,Completed-Failed
+NCT83963364,Phase III,Oncology,5,53,Industry,2019,1,Completed-Success
+NCT12640328,Phase II,Infectious Disease,105,36,Academic,2006,0,Completed-Failed
+NCT35856919,Phase III,Oncology,181,41,NIH,2018,0,Terminated
+NCT67658082,Phase IV,Oncology,137,113,Industry,2007,1,Completed-Success
+NCT65395426,Phase III,Other,119,38,Industry,2008,1,Completed-Success
+NCT37348975,Phase I,Neurology,158,38,Industry,2005,0,Withdrawn
+NCT21552291,Phase III,Neurology,688,108,Industry,2013,0,Completed-Failed
+NCT10070640,Phase I,Oncology,111,87,Academic,2021,1,Completed-Success
+NCT87498463,Phase II,Oncology,62,28,NIH,2018,0,Terminated
+NCT72976036,Phase I,Oncology,97,65,Industry,2021,0,Completed-Failed
+NCT95241611,Phase III,Cardiology,353,92,Academic,2005,0,Completed-Failed
+NCT13741196,Phase III,Other,1234,84,Academic,2014,1,Completed-Success
+NCT29511512,Phase I,Infectious Disease,57,95,Industry,2020,1,Completed-Success
+NCT93692386,Phase II,Oncology,172,35,Industry,2007,1,Completed-Success
+NCT50260456,Phase II,Infectious Disease,246,94,Academic,2016,0,Completed-Failed
+NCT21720477,Phase II,Oncology,33,50,NIH,2007,1,Completed-Success
+NCT23217648,Phase I,Infectious Disease,153,85,Academic,2019,1,Completed-Success
+NCT32558781,Phase II,Cardiology,16,44,Industry,2021,1,Completed-Success
+NCT69946863,Phase III,Cardiology,10,117,Industry,2022,0,Completed-Failed
+NCT72784216,Phase I,Oncology,257,50,Industry,2011,1,Completed-Success
+NCT42425301,Phase I,Oncology,83,83,Academic,2011,0,Completed-Failed
+NCT80373772,Phase II,Other,201,86,Academic,2009,1,Completed-Success
+NCT98146618,Phase IV,Oncology,144,17,Industry,2012,0,Terminated
+NCT36778642,Phase III,Oncology,34,98,Academic,2020,0,Withdrawn
+NCT70995760,Phase III,Oncology,138,37,Academic,2020,0,Withdrawn
+NCT56547339,Phase II,Oncology,23,61,Academic,2019,0,Completed-Failed
+NCT24573458,Phase III,Infectious Disease,1195,29,NIH,2011,0,Withdrawn
+NCT57911176,Phase I,Neurology,19,18,Industry,2009,0,Completed-Failed
+NCT39264326,Phase III,Oncology,110,25,NIH,2015,0,Completed-Failed
+NCT92896667,Phase IV,Infectious Disease,31,84,Industry,2014,1,Completed-Success
+NCT63953229,Phase III,Cardiology,349,61,Industry,2013,0,Terminated
+NCT98132318,Phase IV,Infectious Disease,90,58,NIH,2005,1,Completed-Success
+NCT66294783,Phase III,Neurology,68,73,NIH,2005,0,Completed-Failed
+NCT69145779,Phase I,Neurology,533,59,Industry,2012,1,Completed-Success
+NCT56977874,Phase IV,Oncology,155,39,Academic,2007,1,Completed-Success
+NCT39365614,Phase I,Neurology,322,33,Academic,2006,1,Completed-Success
+NCT99268367,Phase II,Infectious Disease,34,55,Academic,2008,1,Completed-Success
+NCT57010676,Phase I,Other,18,7,Industry,2015,1,Completed-Success
+NCT61371106,Phase I,Infectious Disease,174,116,Academic,2009,1,Completed-Success
+NCT47327243,Phase II,Other,91,99,Industry,2014,1,Completed-Success
+NCT79426200,Phase II,Neurology,379,31,Industry,2012,1,Completed-Success
+NCT79872506,Phase II,Oncology,131,56,Industry,2017,1,Completed-Success
+NCT20198499,Phase III,Infectious Disease,201,52,Industry,2009,1,Completed-Success
+NCT47342772,Phase I,Other,12,31,NIH,2016,1,Completed-Success
+NCT54362902,Phase I,Neurology,2521,89,Industry,2017,0,Completed-Failed
+NCT10197775,Phase III,Oncology,116,111,NIH,2012,0,Completed-Failed
+NCT45940920,Phase II,Cardiology,422,97,Industry,2019,0,Terminated
+NCT94673574,Phase III,Oncology,42,89,Academic,2017,1,Completed-Success
+NCT33614649,Phase III,Oncology,235,80,Academic,2005,0,Completed-Failed
+NCT88507230,Phase III,Infectious Disease,21,79,Academic,2010,0,Terminated
+NCT27310852,Phase III,Oncology,292,66,Academic,2015,1,Completed-Success
+NCT88535842,Phase II,Neurology,87,28,Academic,2017,0,Terminated
+NCT64564054,Phase III,Oncology,155,42,NIH,2005,1,Completed-Success
+NCT72989020,Phase II,Neurology,422,46,Academic,2015,0,Terminated
+NCT40773482,Phase II,Oncology,23,57,Industry,2015,0,Withdrawn
+NCT88733130,Phase III,Oncology,53,88,Academic,2012,1,Completed-Success
+NCT87273675,Phase II,Oncology,294,114,Industry,2007,0,Completed-Failed
+NCT12276360,Phase III,Oncology,3454,87,Industry,2016,1,Completed-Success
+NCT59437769,Phase III,Oncology,120,54,NIH,2010,0,Completed-Failed
+NCT41665404,Phase IV,Oncology,360,32,Industry,2012,1,Completed-Success
+NCT95218477,Phase IV,Cardiology,126,11,Academic,2009,0,Completed-Failed
+NCT67849484,Phase II,Oncology,2733,79,Industry,2014,0,Completed-Failed
+NCT26434343,Phase II,Infectious Disease,10,71,Industry,2020,0,Terminated
+NCT54079273,Phase III,Infectious Disease,171,29,Industry,2016,0,Completed-Failed
+NCT50201137,Phase II,Other,12,43,Industry,2021,1,Completed-Success
+NCT82571674,Phase III,Other,5,33,Academic,2010,0,Completed-Failed
+NCT90497273,Phase III,Infectious Disease,231,33,Industry,2013,1,Completed-Success
+NCT90954884,Phase III,Oncology,182,114,Industry,2014,0,Terminated
+NCT67235484,Phase II,Oncology,96,119,Industry,2018,1,Completed-Success
+NCT72182821,Phase I,Other,126,108,Industry,2018,0,Terminated
+NCT86835154,Phase II,Oncology,15482,71,Academic,2021,0,Terminated
+NCT90768647,Phase I,Oncology,100,66,Industry,2020,1,Completed-Success
+NCT93273068,Phase IV,Oncology,318,51,Academic,2008,0,Terminated
+NCT33020885,Phase II,Oncology,56,74,NIH,2006,1,Completed-Success
+NCT11286643,Phase I,Oncology,231,119,Academic,2020,1,Completed-Success
+NCT87031056,Phase I,Neurology,103,80,Academic,2005,1,Completed-Success
+NCT51869822,Phase III,Oncology,80,79,Industry,2007,1,Completed-Success
+NCT16200646,Phase III,Cardiology,2271,48,Industry,2015,1,Completed-Success
+NCT84092760,Phase II,Oncology,867,64,NIH,2020,1,Completed-Success
+NCT24509187,Phase I,Oncology,182,7,Academic,2022,1,Completed-Success
+NCT37780899,Phase II,Other,5,20,Academic,2019,1,Completed-Success
+NCT15409861,Phase II,Oncology,86,108,Academic,2013,0,Terminated
+NCT98825083,Phase III,Neurology,8557,110,Industry,2016,0,Terminated
+NCT65478034,Phase III,Infectious Disease,105,42,Industry,2022,0,Completed-Failed
+NCT22831595,Phase II,Oncology,776,76,Academic,2009,0,Withdrawn
+NCT85524262,Phase I,Other,1290,25,Academic,2012,1,Completed-Success
+NCT87189210,Phase IV,Oncology,206,103,Industry,2007,1,Completed-Success
+NCT10448345,Phase II,Neurology,41,40,NIH,2006,0,Terminated
+NCT86246546,Phase III,Oncology,5,39,Industry,2012,0,Completed-Failed
+NCT84936358,Phase I,Neurology,414,91,Industry,2006,1,Completed-Success
+NCT25814828,Phase II,Oncology,43,36,NIH,2005,0,Completed-Failed
+NCT58763532,Phase I,Infectious Disease,193,92,Academic,2017,1,Completed-Success
+NCT48538877,Phase II,Neurology,22,24,Industry,2021,0,Terminated
+NCT83851335,Phase IV,Other,99,73,Industry,2007,1,Completed-Success
+NCT54196734,Phase II,Other,156,29,Industry,2013,0,Withdrawn
+NCT99630668,Phase I,Neurology,222,89,Academic,2009,0,Completed-Failed
+NCT90558427,Phase I,Other,27,44,Industry,2010,0,Completed-Failed
+NCT48503931,Phase II,Oncology,893,97,Academic,2008,1,Completed-Success
+NCT29164528,Phase I,Oncology,60,59,NIH,2021,1,Completed-Success
+NCT97580056,Phase I,Oncology,12,44,Academic,2020,1,Completed-Success
+NCT30812709,Phase III,Infectious Disease,126,22,Industry,2020,0,Withdrawn
+NCT99589817,Phase II,Infectious Disease,156,24,Academic,2015,1,Completed-Success
+NCT62203051,Phase II,Infectious Disease,188,53,Industry,2006,0,Withdrawn
+NCT49301804,Phase IV,Oncology,1145,40,Industry,2021,1,Completed-Success
+NCT14848287,Phase I,Cardiology,104,37,Industry,2019,1,Completed-Success
+NCT61152700,Phase IV,Oncology,124,52,Industry,2022,1,Completed-Success
+NCT53750190,Phase II,Oncology,28,115,NIH,2014,1,Completed-Success
+NCT79334164,Phase IV,Infectious Disease,508,52,Industry,2010,0,Completed-Failed
+NCT62187215,Phase III,Neurology,195,69,Industry,2020,1,Completed-Success
+NCT88998740,Phase III,Neurology,79,51,NIH,2009,0,Completed-Failed
+NCT65257851,Phase IV,Cardiology,8,108,Industry,2016,0,Terminated
+NCT58518372,Phase II,Oncology,1295,40,Academic,2010,1,Completed-Success
+NCT22842659,Phase IV,Infectious Disease,23,99,Industry,2018,0,Completed-Failed
+NCT43978002,Phase II,Oncology,61,22,Industry,2020,0,Withdrawn
+NCT12373139,Phase II,Infectious Disease,254,47,NIH,2011,0,Completed-Failed
+NCT65553464,Phase II,Infectious Disease,24,116,Industry,2006,1,Completed-Success
+NCT52801198,Phase II,Oncology,15,34,Academic,2010,0,Completed-Failed
+NCT28892008,Phase I,Oncology,6,75,Industry,2013,0,Completed-Failed
+NCT45427853,Phase III,Other,437,22,Industry,2011,1,Completed-Success
+NCT66882318,Phase II,Other,65,86,Industry,2006,0,Completed-Failed
+NCT83190814,Phase III,Infectious Disease,11978,19,Industry,2012,0,Completed-Failed
+NCT20986868,Phase III,Oncology,33,29,Industry,2015,0,Completed-Failed
+NCT50480309,Phase II,Oncology,37,62,Academic,2008,1,Completed-Success
+NCT49521538,Phase II,Infectious Disease,63,55,Industry,2020,1,Completed-Success
+NCT88815702,Phase II,Other,213,62,Industry,2022,0,Terminated
+NCT70972984,Phase I,Oncology,73,106,Industry,2017,1,Completed-Success
+NCT48673354,Phase I,Neurology,371,66,NIH,2009,1,Completed-Success
+NCT65454431,Phase II,Oncology,34,109,NIH,2006,1,Completed-Success
+NCT75557447,Phase II,Other,18,44,Academic,2015,0,Completed-Failed
+NCT93845477,Phase IV,Infectious Disease,10,60,NIH,2005,1,Completed-Success
+NCT87982667,Phase III,Neurology,5,101,Industry,2017,1,Completed-Success
+NCT65860631,Phase II,Oncology,68,41,Industry,2009,0,Withdrawn
+NCT67681017,Phase III,Cardiology,94,119,Academic,2022,0,Completed-Failed
+NCT12667867,Phase I,Oncology,57,42,Academic,2018,1,Completed-Success
+NCT66987271,Phase II,Oncology,958,117,Industry,2017,0,Terminated
+NCT51241273,Phase III,Other,936,19,Industry,2011,0,Completed-Failed
+NCT55718843,Phase II,Other,89,32,NIH,2012,1,Completed-Success
+NCT78452891,Phase II,Other,10,88,Academic,2022,1,Completed-Success
+NCT75432283,Phase IV,Cardiology,63,36,Industry,2011,0,Completed-Failed
+NCT81275364,Phase IV,Neurology,60,115,Academic,2021,0,Terminated
+NCT34244264,Phase III,Oncology,55,78,Industry,2020,0,Terminated
+NCT52734307,Phase III,Oncology,52,107,Industry,2015,0,Terminated
+NCT84993343,Phase III,Oncology,55,86,Industry,2005,0,Terminated
+NCT77606426,Phase I,Cardiology,83,88,Industry,2012,0,Terminated
+NCT55791733,Phase II,Infectious Disease,57,49,Industry,2005,1,Completed-Success
+NCT14578238,Phase I,Oncology,202,73,Academic,2013,1,Completed-Success
+NCT30814992,Phase II,Cardiology,254,53,Industry,2013,0,Completed-Failed
+NCT31288948,Phase II,Neurology,37,62,Academic,2014,0,Withdrawn
+NCT15562067,Phase I,Infectious Disease,998,80,Industry,2015,1,Completed-Success
+NCT48791628,Phase IV,Oncology,34,27,Industry,2005,0,Terminated
+NCT37345820,Phase IV,Oncology,13,9,NIH,2012,1,Completed-Success
+NCT45154828,Phase III,Oncology,262,86,Academic,2016,1,Completed-Success
+NCT30088365,Phase II,Oncology,43,77,NIH,2005,0,Withdrawn
+NCT68842658,Phase IV,Cardiology,240,51,NIH,2014,0,Terminated
+NCT53109628,Phase I,Cardiology,5,64,Industry,2008,0,Completed-Failed
+NCT23021573,Phase III,Cardiology,1198,39,Industry,2019,1,Completed-Success
+NCT62827729,Phase I,Infectious Disease,406,16,NIH,2010,1,Completed-Success
+NCT54620658,Phase III,Neurology,15,36,NIH,2009,0,Completed-Failed
+NCT39933823,Phase II,Oncology,16,16,Academic,2009,0,Terminated
+NCT90155332,Phase IV,Infectious Disease,1823,61,Academic,2022,1,Completed-Success
+NCT94461358,Phase IV,Neurology,49,43,Academic,2007,1,Completed-Success
+NCT65519128,Phase I,Oncology,42,26,Industry,2006,0,Terminated
+NCT61509697,Phase II,Oncology,5,115,Academic,2008,0,Terminated
+NCT96966281,Phase IV,Other,87,99,Academic,2022,1,Completed-Success
+NCT17136029,Phase II,Oncology,105,15,Academic,2013,0,Terminated
+NCT97350522,Phase IV,Cardiology,434,31,Industry,2014,0,Completed-Failed
+NCT69994988,Phase III,Oncology,18,96,Industry,2019,1,Completed-Success
+NCT46869124,Phase II,Cardiology,15,13,Industry,2005,0,Completed-Failed
+NCT31496823,Phase II,Oncology,291,108,Industry,2015,0,Completed-Failed
+NCT16285088,Phase I,Oncology,671,13,NIH,2018,0,Terminated
+NCT59907857,Phase III,Cardiology,14,65,Industry,2014,0,Terminated
+NCT89569119,Phase II,Oncology,751,77,Industry,2020,0,Completed-Failed
+NCT81021806,Phase II,Infectious Disease,157,39,Industry,2012,1,Completed-Success
+NCT17468810,Phase II,Oncology,763,21,Academic,2006,1,Completed-Success
+NCT11635156,Phase III,Oncology,133,110,Industry,2011,0,Terminated
+NCT35301054,Phase IV,Oncology,5,18,Industry,2011,1,Completed-Success
+NCT87264088,Phase IV,Oncology,118,92,Industry,2019,1,Completed-Success
+NCT15001045,Phase II,Other,727,81,Industry,2012,0,Completed-Failed
+NCT81572282,Phase III,Oncology,38,96,Industry,2018,0,Completed-Failed
+NCT38267184,Phase III,Infectious Disease,82,27,Industry,2005,0,Terminated
+NCT14345760,Phase III,Oncology,113,101,NIH,2017,0,Completed-Failed
+NCT33930984,Phase IV,Oncology,5,118,Industry,2007,1,Completed-Success
+NCT46805730,Phase I,Other,1820,32,Industry,2010,1,Completed-Success
+NCT48019582,Phase I,Oncology,38,69,Academic,2019,1,Completed-Success
+NCT68720660,Phase IV,Other,316,7,Industry,2008,1,Completed-Success
+NCT65229238,Phase II,Oncology,130,114,Academic,2007,1,Completed-Success
+NCT28100699,Phase III,Neurology,978,102,Industry,2008,0,Terminated
+NCT11722320,Phase IV,Infectious Disease,272,31,Academic,2009,1,Completed-Success
+NCT23298372,Phase I,Other,104,97,Academic,2022,0,Terminated
+NCT39702914,Phase IV,Cardiology,38,88,NIH,2014,1,Completed-Success
+NCT91550308,Phase II,Infectious Disease,491,112,Industry,2012,1,Completed-Success
+NCT41657524,Phase II,Oncology,8,74,Industry,2016,0,Withdrawn
+NCT41206052,Phase III,Oncology,391,102,Industry,2007,0,Completed-Failed
+NCT40413513,Phase IV,Other,28,89,NIH,2022,1,Completed-Success
+NCT35329097,Phase I,Oncology,971,35,NIH,2012,0,Completed-Failed
+NCT22243026,Phase II,Infectious Disease,189,114,Industry,2005,1,Completed-Success
+NCT66024141,Phase III,Neurology,390,13,Industry,2018,1,Completed-Success
+NCT85356616,Phase III,Oncology,167,43,Industry,2017,1,Completed-Success
+NCT27864557,Phase III,Other,10,66,Industry,2016,0,Terminated
+NCT16195200,Phase I,Neurology,40,86,Industry,2007,1,Completed-Success
+NCT81086130,Phase II,Cardiology,406,113,Industry,2022,0,Terminated
+NCT63363404,Phase II,Other,190,70,Academic,2017,0,Terminated
+NCT94729603,Phase III,Oncology,872,72,NIH,2019,0,Completed-Failed
+NCT52489277,Phase II,Oncology,271,51,NIH,2014,1,Completed-Success
+NCT23832640,Phase I,Infectious Disease,34,95,Industry,2005,0,Completed-Failed
+NCT76360176,Phase IV,Oncology,44,100,Academic,2010,1,Completed-Success
+NCT40061031,Phase I,Neurology,173,77,NIH,2013,1,Completed-Success
+NCT77201057,Phase IV,Other,5,48,Industry,2014,1,Completed-Success
+NCT71902171,Phase III,Infectious Disease,1826,64,Academic,2019,0,Terminated
+NCT90197726,Phase III,Oncology,287,51,Industry,2013,0,Terminated
+NCT95072967,Phase II,Other,935,77,Industry,2018,1,Completed-Success
+NCT75812633,Phase I,Infectious Disease,13,40,Industry,2015,0,Completed-Failed
+NCT97220897,Phase III,Infectious Disease,959,44,Industry,2011,0,Completed-Failed
+NCT42043445,Phase III,Infectious Disease,4218,97,Academic,2006,0,Terminated
+NCT91052418,Phase III,Other,20,56,Industry,2018,0,Completed-Failed
+NCT96601594,Phase I,Cardiology,472,9,Industry,2010,0,Completed-Failed
+NCT46213003,Phase III,Neurology,148,85,Industry,2009,0,Completed-Failed
+NCT26689088,Phase III,Neurology,14,82,NIH,2009,1,Completed-Success
+NCT98720437,Phase III,Oncology,310,89,Industry,2010,0,Completed-Failed
+NCT17102173,Phase III,Infectious Disease,518,56,Academic,2014,0,Terminated
+NCT55388538,Phase III,Neurology,60,10,Academic,2018,0,Completed-Failed
+NCT48720111,Phase III,Infectious Disease,853,60,Industry,2021,0,Completed-Failed
+NCT58515838,Phase I,Neurology,12,106,Industry,2007,0,Completed-Failed
+NCT71356950,Phase II,Other,15,25,Academic,2005,1,Completed-Success
+NCT32064334,Phase I,Cardiology,182,29,Industry,2014,0,Completed-Failed
+NCT24681316,Phase II,Neurology,154,41,Industry,2007,0,Terminated
+NCT71681549,Phase II,Neurology,50,39,Academic,2009,1,Completed-Success
+NCT81209537,Phase I,Neurology,499,114,Industry,2014,0,Completed-Failed
+NCT58840101,Phase II,Infectious Disease,329,117,Industry,2020,0,Terminated
+NCT72468859,Phase I,Oncology,537,59,Industry,2005,0,Completed-Failed
+NCT60305761,Phase III,Infectious Disease,123,39,Industry,2010,0,Completed-Failed
+NCT39367077,Phase IV,Cardiology,366,88,Academic,2013,1,Completed-Success
+NCT71580593,Phase I,Infectious Disease,76,22,Academic,2009,1,Completed-Success
+NCT60011985,Phase IV,Neurology,3231,10,Academic,2018,0,Completed-Failed
+NCT84062621,Phase II,Infectious Disease,43,94,Academic,2014,0,Completed-Failed
+NCT42843745,Phase II,Cardiology,3491,23,Industry,2006,0,Terminated
+NCT29350835,Phase I,Oncology,156,60,Industry,2009,1,Completed-Success
+NCT79562616,Phase II,Neurology,18,58,Industry,2005,0,Completed-Failed
+NCT70084389,Phase III,Infectious Disease,1155,55,Industry,2014,0,Terminated
+NCT67597408,Phase III,Oncology,179,77,NIH,2013,0,Completed-Failed
+NCT20320855,Phase I,Oncology,532,96,Academic,2007,0,Completed-Failed
+NCT28130254,Phase I,Neurology,930,84,Industry,2019,0,Completed-Failed
+NCT81766557,Phase II,Infectious Disease,246,50,Industry,2008,1,Completed-Success
+NCT89945266,Phase II,Oncology,61,18,Industry,2017,1,Completed-Success
+NCT53558992,Phase I,Other,641,21,Industry,2010,1,Completed-Success
+NCT61628164,Phase II,Cardiology,148,91,Industry,2021,0,Terminated
+NCT75377052,Phase III,Other,415,89,Industry,2009,0,Completed-Failed
+NCT97349431,Phase IV,Infectious Disease,5,18,NIH,2019,1,Completed-Success
+NCT91251088,Phase II,Infectious Disease,290,25,Academic,2012,1,Completed-Success
+NCT45409403,Phase IV,Other,56,71,Industry,2009,1,Completed-Success
+NCT26045907,Phase II,Infectious Disease,1772,104,Industry,2017,1,Completed-Success
+NCT72754884,Phase II,Cardiology,377,52,Industry,2005,0,Completed-Failed
+NCT58458273,Phase I,Oncology,212,24,Academic,2005,0,Completed-Failed
+NCT25734209,Phase III,Infectious Disease,307,50,Academic,2011,0,Completed-Failed
+NCT79800140,Phase IV,Oncology,33,42,NIH,2009,1,Completed-Success
+NCT46081386,Phase III,Oncology,1694,59,Industry,2018,0,Withdrawn
+NCT83658410,Phase II,Oncology,2942,11,Academic,2019,0,Completed-Failed
+NCT67395058,Phase III,Oncology,267,19,Industry,2021,0,Terminated
+NCT35827438,Phase I,Other,1612,9,Academic,2022,1,Completed-Success
+NCT26663288,Phase IV,Oncology,63,91,Industry,2011,1,Completed-Success
+NCT23081782,Phase II,Cardiology,44,60,Industry,2022,1,Completed-Success
+NCT69387253,Phase II,Neurology,157,108,Academic,2011,0,Terminated
+NCT53669391,Phase III,Cardiology,284,105,Industry,2012,1,Completed-Success
+NCT78181511,Phase III,Oncology,82,39,Industry,2017,0,Completed-Failed
+NCT48660995,Phase I,Cardiology,332,32,Industry,2022,1,Completed-Success
+NCT18234679,Phase III,Cardiology,234,12,Industry,2015,0,Completed-Failed
+NCT33240984,Phase I,Neurology,33,8,Industry,2013,1,Completed-Success
+NCT32383810,Phase III,Neurology,323,52,Industry,2005,0,Terminated
+NCT75438362,Phase III,Other,542,102,Industry,2012,0,Completed-Failed
+NCT58566364,Phase III,Cardiology,191,7,Industry,2016,0,Completed-Failed
+NCT28727583,Phase III,Oncology,836,111,NIH,2006,0,Terminated
+NCT79019569,Phase II,Cardiology,23,85,Industry,2019,1,Completed-Success
+NCT45156028,Phase I,Oncology,299,30,Industry,2022,1,Completed-Success
+NCT30568697,Phase III,Other,25,65,Industry,2021,0,Terminated
+NCT31900338,Phase II,Oncology,27,84,NIH,2019,0,Terminated
+NCT51311634,Phase II,Oncology,57,29,Academic,2013,0,Terminated
+NCT49902996,Phase II,Neurology,36,20,Industry,2007,0,Completed-Failed
+NCT64481924,Phase I,Cardiology,65,100,Academic,2022,1,Completed-Success
+NCT15723601,Phase III,Infectious Disease,107,19,Academic,2012,1,Completed-Success
+NCT26618153,Phase I,Infectious Disease,520,59,Academic,2005,0,Completed-Failed
+NCT99165628,Phase III,Neurology,91,83,Academic,2019,0,Completed-Failed
+NCT12382357,Phase II,Oncology,13,11,NIH,2014,0,Terminated
+NCT85012933,Phase I,Neurology,820,83,NIH,2016,0,Withdrawn
+NCT23630084,Phase II,Oncology,42,86,Academic,2010,0,Completed-Failed
+NCT62576779,Phase I,Neurology,135,23,Industry,2017,0,Completed-Failed
+NCT90890201,Phase II,Neurology,289,25,Academic,2008,1,Completed-Success
+NCT92537517,Phase III,Oncology,200,67,Academic,2017,0,Completed-Failed
+NCT98132129,Phase I,Infectious Disease,766,86,Industry,2021,1,Completed-Success
+NCT26099248,Phase III,Oncology,304,85,NIH,2005,1,Completed-Success
+NCT24677069,Phase I,Cardiology,40,45,Industry,2009,0,Withdrawn
+NCT85589337,Phase I,Infectious Disease,3896,44,Industry,2021,1,Completed-Success
+NCT22433196,Phase III,Cardiology,198,57,NIH,2022,0,Terminated
+NCT49010202,Phase II,Oncology,118,37,Industry,2011,0,Completed-Failed
+NCT44626632,Phase I,Oncology,630,113,Industry,2020,1,Completed-Success
+NCT87998328,Phase II,Oncology,215,78,Industry,2012,1,Completed-Success
+NCT63237806,Phase II,Oncology,270,32,Industry,2016,1,Completed-Success
+NCT22457080,Phase III,Cardiology,6237,115,Industry,2018,0,Withdrawn
+NCT11222869,Phase II,Neurology,98,57,Industry,2015,1,Completed-Success
+NCT92716910,Phase III,Cardiology,92,102,Industry,2016,0,Terminated
+NCT60066487,Phase IV,Infectious Disease,176,68,NIH,2017,1,Completed-Success
+NCT13125354,Phase II,Other,740,79,NIH,2012,0,Completed-Failed
+NCT72802750,Phase IV,Cardiology,15,68,Industry,2005,1,Completed-Success
+NCT19818159,Phase II,Other,7,22,Academic,2013,1,Completed-Success
+NCT21145552,Phase IV,Infectious Disease,61,118,Industry,2006,1,Completed-Success
+NCT25152994,Phase I,Oncology,12,54,Industry,2018,0,Withdrawn
+NCT85191987,Phase III,Oncology,78,105,Industry,2017,1,Completed-Success
+NCT32937902,Phase II,Cardiology,315,86,NIH,2020,0,Completed-Failed
+NCT86415031,Phase II,Oncology,39,87,NIH,2006,0,Completed-Failed
+NCT77744469,Phase III,Oncology,17,28,Industry,2008,0,Completed-Failed
+NCT84588685,Phase III,Infectious Disease,164,103,Industry,2016,1,Completed-Success
+NCT52758171,Phase I,Cardiology,541,77,Industry,2020,1,Completed-Success
+NCT10067661,Phase I,Cardiology,11,18,Industry,2014,1,Completed-Success
+NCT17585153,Phase III,Oncology,507,28,Academic,2007,0,Terminated
+NCT33335437,Phase III,Infectious Disease,505,62,Industry,2008,0,Terminated
+NCT20466615,Phase IV,Cardiology,620,67,Academic,2010,1,Completed-Success
+NCT44861938,Phase III,Other,923,59,Industry,2009,1,Completed-Success
+NCT96787694,Phase IV,Cardiology,4036,25,NIH,2022,0,Completed-Failed
+NCT12966422,Phase III,Other,86,91,Academic,2007,0,Withdrawn
+NCT60154221,Phase II,Neurology,174,116,Industry,2014,0,Completed-Failed
+NCT13708654,Phase I,Cardiology,79,57,Academic,2015,1,Completed-Success
+NCT67647084,Phase III,Oncology,148,28,Academic,2018,1,Completed-Success
+NCT52573305,Phase III,Cardiology,1479,110,Industry,2015,0,Terminated
+NCT54653349,Phase I,Cardiology,19,40,Industry,2008,0,Terminated
+NCT15872354,Phase II,Cardiology,40,72,NIH,2010,0,Completed-Failed
+NCT57756479,Phase IV,Infectious Disease,1171,39,Industry,2021,1,Completed-Success
+NCT92649048,Phase II,Infectious Disease,685,38,Industry,2017,0,Completed-Failed
+NCT90123510,Phase II,Oncology,86,51,Industry,2014,0,Withdrawn
+NCT19810404,Phase II,Infectious Disease,534,86,Academic,2015,1,Completed-Success
+NCT96205129,Phase I,Oncology,247,50,Academic,2010,1,Completed-Success
+NCT16292518,Phase II,Neurology,1408,24,NIH,2006,0,Completed-Failed
+NCT51142200,Phase II,Oncology,165,99,Industry,2005,0,Terminated
+NCT74413145,Phase I,Oncology,691,92,Industry,2015,1,Completed-Success
+NCT27547389,Phase III,Infectious Disease,7808,20,Academic,2020,0,Completed-Failed
+NCT72132760,Phase II,Cardiology,363,83,Academic,2007,1,Completed-Success
+NCT76689168,Phase III,Infectious Disease,159,71,Industry,2009,1,Completed-Success
+NCT32419480,Phase IV,Oncology,438,44,Industry,2019,1,Completed-Success
+NCT58766345,Phase I,Cardiology,85,118,Industry,2019,1,Completed-Success
+NCT44021442,Phase III,Oncology,5334,23,Academic,2008,0,Terminated
+NCT56523537,Phase II,Other,194,75,NIH,2008,0,Completed-Failed
+NCT35153646,Phase IV,Other,98,64,Academic,2012,1,Completed-Success
+NCT87620693,Phase I,Infectious Disease,42,37,NIH,2011,0,Completed-Failed
+NCT18411883,Phase III,Oncology,769,26,Industry,2021,0,Completed-Failed
+NCT21082322,Phase III,Neurology,544,45,NIH,2019,0,Withdrawn
+NCT26203305,Phase II,Oncology,70,97,Academic,2009,1,Completed-Success
+NCT20848680,Phase I,Infectious Disease,352,32,Industry,2017,0,Completed-Failed
+NCT93031557,Phase III,Oncology,15,7,NIH,2008,1,Completed-Success
+NCT99838873,Phase III,Other,195,102,Industry,2021,1,Completed-Success
+NCT69292991,Phase II,Oncology,292,85,NIH,2021,1,Completed-Success
+NCT45555041,Phase III,Cardiology,1921,44,NIH,2018,0,Completed-Failed
+NCT63028791,Phase II,Neurology,46,91,Academic,2018,0,Withdrawn
+NCT86301164,Phase III,Infectious Disease,21,61,Academic,2021,0,Terminated
+NCT86658629,Phase I,Oncology,38,112,Industry,2012,0,Completed-Failed
+NCT61646180,Phase IV,Other,19,116,Industry,2006,0,Withdrawn
+NCT89357216,Phase II,Infectious Disease,1102,18,Industry,2017,0,Terminated
+NCT42359860,Phase II,Cardiology,1514,61,Academic,2020,1,Completed-Success
+NCT44499221,Phase I,Oncology,239,71,Academic,2020,0,Completed-Failed
+NCT38272916,Phase I,Infectious Disease,926,83,NIH,2010,0,Completed-Failed
+NCT91861231,Phase II,Infectious Disease,181,61,Industry,2008,1,Completed-Success
+NCT29032579,Phase II,Oncology,128,107,Academic,2007,1,Completed-Success
+NCT40354781,Phase III,Oncology,90,110,NIH,2010,0,Terminated
+NCT26514877,Phase I,Neurology,93,33,Academic,2008,1,Completed-Success
+NCT83545310,Phase II,Oncology,14,69,Industry,2022,0,Terminated
+NCT86165878,Phase II,Oncology,220,76,Industry,2010,0,Completed-Failed
+NCT97554946,Phase I,Infectious Disease,139,87,Industry,2009,1,Completed-Success
+NCT88350878,Phase I,Neurology,453,69,Academic,2013,0,Completed-Failed
+NCT27810471,Phase II,Oncology,170,61,Academic,2015,1,Completed-Success
+NCT50636644,Phase II,Cardiology,116,46,NIH,2010,1,Completed-Success
+NCT68534435,Phase II,Oncology,40,105,Industry,2020,0,Completed-Failed
+NCT88550238,Phase II,Oncology,165,46,Industry,2015,0,Terminated
+NCT67975251,Phase III,Oncology,449,105,Academic,2019,0,Completed-Failed
+NCT13094235,Phase I,Neurology,26,113,Academic,2013,1,Completed-Success
+NCT57870026,Phase II,Oncology,169,9,NIH,2013,0,Completed-Failed
+NCT32763342,Phase IV,Oncology,210,62,Academic,2008,1,Completed-Success
+NCT29636869,Phase II,Infectious Disease,50,35,Industry,2014,0,Terminated
+NCT37132021,Phase III,Neurology,61,93,Academic,2013,1,Completed-Success
+NCT43942384,Phase II,Oncology,209,89,NIH,2019,0,Terminated
+NCT72867959,Phase III,Infectious Disease,27,51,Industry,2006,1,Completed-Success
+NCT27807333,Phase III,Oncology,250,61,Industry,2014,0,Completed-Failed
+NCT63228466,Phase II,Infectious Disease,38,36,Industry,2021,1,Completed-Success
+NCT45912253,Phase IV,Cardiology,730,93,Industry,2006,1,Completed-Success
+NCT26263882,Phase I,Cardiology,4948,12,Academic,2021,1,Completed-Success
+NCT49138695,Phase I,Oncology,40,95,Industry,2022,1,Completed-Success
+NCT43799193,Phase III,Oncology,330,82,Industry,2021,1,Completed-Success
+NCT93721515,Phase III,Oncology,49,59,Industry,2006,0,Completed-Failed
+NCT85495044,Phase I,Infectious Disease,707,13,Academic,2005,1,Completed-Success
+NCT58014453,Phase II,Oncology,22,60,Industry,2015,1,Completed-Success
+NCT92405138,Phase I,Neurology,305,74,Academic,2014,1,Completed-Success
+NCT61569363,Phase II,Other,40,49,Industry,2009,0,Completed-Failed
+NCT42686304,Phase III,Other,108,18,Industry,2020,0,Completed-Failed
+NCT85149843,Phase II,Neurology,31,98,Industry,2009,1,Completed-Success
+NCT94740096,Phase II,Cardiology,509,25,Industry,2016,0,Withdrawn
+NCT82456281,Phase II,Cardiology,42,83,Industry,2008,0,Terminated
+NCT86362381,Phase I,Oncology,339,37,Industry,2010,1,Completed-Success
+NCT41699263,Phase II,Cardiology,88,65,NIH,2013,0,Completed-Failed
+NCT90480036,Phase III,Infectious Disease,124,55,Academic,2016,1,Completed-Success
+NCT36216317,Phase IV,Infectious Disease,185,32,Industry,2019,1,Completed-Success
+NCT63215075,Phase III,Neurology,47,30,Industry,2020,0,Completed-Failed
+NCT44970444,Phase I,Oncology,203,57,NIH,2017,1,Completed-Success
+NCT15752810,Phase IV,Oncology,1473,73,Academic,2011,1,Completed-Success
+NCT10571650,Phase III,Other,46,26,Industry,2008,0,Completed-Failed
+NCT98362656,Phase III,Oncology,860,23,Academic,2015,0,Terminated
+NCT82017911,Phase II,Infectious Disease,1404,44,Academic,2012,0,Completed-Failed
+NCT50435721,Phase II,Other,43,20,Academic,2010,1,Completed-Success
+NCT84531076,Phase II,Cardiology,16,58,Industry,2014,0,Terminated
+NCT13757974,Phase I,Infectious Disease,233,43,Industry,2011,1,Completed-Success
+NCT85900553,Phase I,Oncology,65,53,Industry,2011,1,Completed-Success
+NCT71119361,Phase I,Oncology,2447,57,NIH,2008,1,Completed-Success
+NCT52321932,Phase II,Neurology,156,93,Academic,2007,1,Completed-Success
+NCT29931456,Phase III,Cardiology,44,77,Industry,2011,0,Terminated
+NCT69376958,Phase II,Infectious Disease,26,33,NIH,2008,0,Completed-Failed
+NCT21643208,Phase I,Oncology,761,90,NIH,2017,0,Withdrawn
+NCT53928336,Phase IV,Oncology,63,21,NIH,2021,1,Completed-Success
+NCT18112074,Phase IV,Other,158,21,NIH,2011,1,Completed-Success
+NCT28967438,Phase III,Infectious Disease,622,40,NIH,2021,0,Terminated
+NCT22138391,Phase IV,Cardiology,71,22,Industry,2008,1,Completed-Success
+NCT63050917,Phase II,Oncology,138,78,Academic,2015,1,Completed-Success
+NCT34012790,Phase IV,Cardiology,144,104,Academic,2007,1,Completed-Success
+NCT66004002,Phase I,Other,413,57,Industry,2015,1,Completed-Success
+NCT31982813,Phase II,Cardiology,360,98,Industry,2007,0,Terminated
+NCT65616606,Phase I,Oncology,106,108,NIH,2016,1,Completed-Success
+NCT39967940,Phase I,Cardiology,163,87,Industry,2005,0,Withdrawn
+NCT87822269,Phase I,Neurology,84,17,NIH,2008,1,Completed-Success
+NCT19742257,Phase III,Infectious Disease,16,88,Industry,2018,1,Completed-Success
+NCT62044151,Phase III,Other,218,53,Industry,2005,0,Completed-Failed
+NCT13609736,Phase III,Cardiology,2535,27,Industry,2018,1,Completed-Success
+NCT85169697,Phase I,Other,39,54,Industry,2017,1,Completed-Success
+NCT28161634,Phase III,Cardiology,46,57,Academic,2017,0,Completed-Failed
+NCT27163810,Phase III,Oncology,40,84,Academic,2019,1,Completed-Success
+NCT96755840,Phase II,Oncology,440,6,Industry,2021,1,Completed-Success
+NCT22225855,Phase III,Oncology,290,71,Industry,2016,0,Withdrawn
+NCT61424149,Phase II,Other,117,69,Industry,2018,0,Terminated
+NCT82347195,Phase II,Neurology,37,13,Industry,2016,0,Withdrawn
+NCT11135964,Phase IV,Cardiology,170,91,Academic,2022,0,Completed-Failed
+NCT73446855,Phase II,Oncology,14,30,Industry,2008,0,Terminated
+NCT76318090,Phase II,Oncology,184,71,Industry,2018,1,Completed-Success
+NCT70203880,Phase IV,Neurology,548,78,Industry,2017,1,Completed-Success
+NCT12155748,Phase III,Infectious Disease,22,78,Industry,2022,1,Completed-Success
+NCT70676365,Phase I,Oncology,14,82,Industry,2015,1,Completed-Success
+NCT88542651,Phase I,Cardiology,1586,75,Industry,2010,1,Completed-Success
+NCT41808285,Phase I,Oncology,59,99,NIH,2013,0,Completed-Failed
+NCT64256930,Phase III,Oncology,815,84,NIH,2016,0,Completed-Failed
+NCT44427604,Phase II,Infectious Disease,117,56,Academic,2018,1,Completed-Success
+NCT18910852,Phase I,Oncology,116,58,Industry,2019,1,Completed-Success
+NCT82764242,Phase IV,Other,286,20,Industry,2015,1,Completed-Success
+NCT48428026,Phase II,Oncology,39,55,Industry,2010,0,Completed-Failed
+NCT47617741,Phase I,Oncology,181,76,Academic,2018,1,Completed-Success
+NCT16941245,Phase II,Oncology,83,80,NIH,2007,1,Completed-Success
+NCT74770179,Phase III,Neurology,20,109,Industry,2015,0,Completed-Failed
+NCT25876696,Phase I,Infectious Disease,246,43,Industry,2021,0,Completed-Failed
+NCT19451244,Phase II,Cardiology,99,45,Academic,2021,0,Terminated
+NCT84926168,Phase III,Oncology,117,71,Academic,2007,0,Completed-Failed
+NCT27606951,Phase II,Oncology,24,117,Academic,2018,0,Completed-Failed
+NCT72056263,Phase II,Infectious Disease,1615,44,Academic,2011,0,Completed-Failed
+NCT17021862,Phase II,Neurology,552,79,NIH,2007,0,Completed-Failed
+NCT18351245,Phase I,Other,630,113,Industry,2006,0,Withdrawn
+NCT96448549,Phase I,Oncology,93,22,NIH,2021,0,Completed-Failed
+NCT46640608,Phase II,Infectious Disease,11,12,NIH,2013,0,Completed-Failed
+NCT15345854,Phase I,Other,2777,109,Academic,2010,1,Completed-Success
+NCT21683982,Phase I,Infectious Disease,135,44,Industry,2013,0,Terminated
+NCT74365536,Phase III,Neurology,48,73,Industry,2009,0,Terminated
+NCT67821848,Phase IV,Oncology,277,40,Industry,2006,1,Completed-Success
+NCT59875088,Phase III,Other,854,56,Industry,2019,0,Terminated
+NCT80790126,Phase IV,Neurology,143,52,NIH,2013,1,Completed-Success
+NCT48187510,Phase I,Other,1010,41,Industry,2014,1,Completed-Success
+NCT12609089,Phase IV,Cardiology,753,69,Industry,2008,1,Completed-Success
+NCT62840397,Phase I,Infectious Disease,29,100,Academic,2014,1,Completed-Success
+NCT27691444,Phase IV,Other,54,94,Industry,2012,1,Completed-Success
+NCT10953959,Phase IV,Oncology,624,110,Industry,2017,1,Completed-Success
+NCT54132455,Phase III,Oncology,5,18,Industry,2011,1,Completed-Success
+NCT59818662,Phase IV,Cardiology,118,23,Academic,2011,0,Terminated
+NCT20016389,Phase III,Neurology,17,26,Industry,2008,1,Completed-Success
+NCT97255618,Phase II,Other,72,117,NIH,2019,1,Completed-Success
+NCT21630982,Phase II,Oncology,94,70,Industry,2016,0,Withdrawn
+NCT60676914,Phase III,Neurology,86,105,NIH,2020,1,Completed-Success
+NCT36704425,Phase I,Neurology,64,119,Industry,2010,1,Completed-Success
+NCT71298111,Phase III,Oncology,28,13,Industry,2013,0,Completed-Failed
+NCT55014515,Phase IV,Infectious Disease,4618,53,Industry,2007,0,Withdrawn
+NCT64869006,Phase I,Oncology,2443,90,Industry,2012,1,Completed-Success
+NCT25586926,Phase III,Oncology,25,48,Industry,2011,1,Completed-Success
+NCT19496563,Phase IV,Other,1592,58,Industry,2008,1,Completed-Success
+NCT91143014,Phase IV,Cardiology,81,90,Industry,2017,0,Terminated
+NCT55745050,Phase IV,Cardiology,180,32,Academic,2011,1,Completed-Success
+NCT41556003,Phase II,Other,134,24,Industry,2014,1,Completed-Success
+NCT20321336,Phase IV,Infectious Disease,55,28,Industry,2016,1,Completed-Success
+NCT93667964,Phase III,Neurology,649,55,Academic,2007,1,Completed-Success
+NCT87859104,Phase I,Infectious Disease,179,56,NIH,2016,1,Completed-Success
+NCT19803005,Phase II,Neurology,72,48,Industry,2019,1,Completed-Success
+NCT83205955,Phase III,Oncology,20,104,Industry,2012,0,Terminated
+NCT41738453,Phase I,Other,38,109,NIH,2016,1,Completed-Success
+NCT63509641,Phase III,Oncology,12,56,Industry,2010,0,Terminated
+NCT17583354,Phase III,Oncology,151,111,NIH,2014,0,Terminated
+NCT29908425,Phase I,Neurology,24,117,Industry,2006,0,Completed-Failed
+NCT49367797,Phase III,Infectious Disease,99,74,NIH,2017,0,Completed-Failed
+NCT47612325,Phase III,Cardiology,1158,46,Industry,2011,0,Withdrawn
+NCT32468492,Phase II,Infectious Disease,896,77,NIH,2012,0,Completed-Failed
+NCT82506526,Phase I,Neurology,141,16,Industry,2020,1,Completed-Success
+NCT26413486,Phase I,Oncology,130,85,Academic,2015,1,Completed-Success
+NCT21606243,Phase II,Oncology,2489,108,Industry,2008,1,Completed-Success
+NCT93752812,Phase IV,Oncology,324,116,Industry,2021,1,Completed-Success
+NCT20688727,Phase I,Infectious Disease,90,93,Academic,2020,1,Completed-Success
+NCT53842483,Phase III,Oncology,17,90,Industry,2015,0,Completed-Failed
+NCT19828366,Phase I,Infectious Disease,267,57,NIH,2011,1,Completed-Success
+NCT78914332,Phase II,Infectious Disease,514,28,Industry,2017,0,Terminated
+NCT46982407,Phase III,Oncology,57,54,NIH,2021,0,Completed-Failed
+NCT85623580,Phase III,Cardiology,229,43,Industry,2017,1,Completed-Success
+NCT55103150,Phase I,Other,86,52,NIH,2016,1,Completed-Success
+NCT21618627,Phase II,Oncology,112,77,NIH,2011,0,Completed-Failed
+NCT25043403,Phase I,Cardiology,5,12,Industry,2005,1,Completed-Success
+NCT15525633,Phase II,Cardiology,106,71,NIH,2005,1,Completed-Success
+NCT62411802,Phase III,Infectious Disease,635,99,Academic,2018,1,Completed-Success
+NCT79353566,Phase I,Cardiology,57,82,Industry,2019,1,Completed-Success
+NCT30154994,Phase II,Infectious Disease,160,67,Academic,2015,1,Completed-Success
+NCT37695858,Phase II,Infectious Disease,47,92,Industry,2013,0,Terminated
+NCT22920739,Phase IV,Oncology,254,34,Academic,2021,1,Completed-Success
+NCT59282339,Phase IV,Cardiology,107,43,Industry,2008,1,Completed-Success
+NCT17726890,Phase I,Cardiology,36,106,Industry,2011,1,Completed-Success
+NCT32674714,Phase III,Oncology,1095,89,Industry,2005,0,Terminated
+NCT18357956,Phase II,Infectious Disease,597,38,Academic,2013,0,Completed-Failed
+NCT71413011,Phase II,Other,59,34,NIH,2017,0,Withdrawn
+NCT19451337,Phase III,Infectious Disease,313,119,NIH,2006,0,Completed-Failed
+NCT99729573,Phase IV,Infectious Disease,332,84,Industry,2006,1,Completed-Success
+NCT46940933,Phase IV,Other,388,28,Industry,2019,1,Completed-Success
+NCT84504214,Phase III,Cardiology,11,111,Academic,2021,1,Completed-Success
+NCT38688729,Phase II,Cardiology,671,8,Academic,2017,0,Completed-Failed
+NCT52019117,Phase III,Neurology,63,106,Industry,2011,0,Completed-Failed
+NCT34062169,Phase II,Neurology,86,98,Industry,2013,1,Completed-Success
+NCT70628583,Phase III,Infectious Disease,7760,50,Industry,2016,0,Terminated
+NCT35291709,Phase II,Infectious Disease,233,13,Industry,2007,0,Completed-Failed
+NCT40256337,Phase III,Infectious Disease,83,91,Academic,2019,0,Completed-Failed
+NCT86039128,Phase I,Other,5,34,Industry,2011,1,Completed-Success
+NCT35836512,Phase I,Cardiology,1193,7,NIH,2005,1,Completed-Success
+NCT87782638,Phase IV,Oncology,19,110,Industry,2018,1,Completed-Success
+NCT41549031,Phase I,Neurology,32,118,Industry,2020,1,Completed-Success
+NCT46346859,Phase II,Infectious Disease,90,55,NIH,2014,1,Completed-Success
+NCT21309411,Phase I,Oncology,1242,114,Academic,2005,1,Completed-Success
+NCT63689327,Phase I,Infectious Disease,473,70,Industry,2009,1,Completed-Success
+NCT49302467,Phase I,Infectious Disease,117,113,Academic,2007,1,Completed-Success
+NCT47944452,Phase I,Other,235,25,Industry,2021,0,Terminated
+NCT79790583,Phase IV,Oncology,60,57,Academic,2022,1,Completed-Success
+NCT94776775,Phase II,Neurology,182,90,Industry,2022,0,Completed-Failed
+NCT69220571,Phase IV,Cardiology,165,42,Academic,2020,0,Terminated
+NCT65684473,Phase III,Oncology,634,77,Industry,2006,0,Terminated
+NCT37580296,Phase II,Other,633,32,Industry,2019,0,Withdrawn
+NCT86796917,Phase III,Infectious Disease,311,52,NIH,2017,0,Terminated
+NCT73655986,Phase II,Oncology,86,104,Academic,2017,1,Completed-Success
+NCT85996188,Phase III,Infectious Disease,451,11,Industry,2020,1,Completed-Success
+NCT55084109,Phase II,Neurology,129,65,Industry,2012,0,Completed-Failed
+NCT92972373,Phase II,Oncology,29,50,Industry,2015,0,Completed-Failed
+NCT29053322,Phase IV,Oncology,81,49,Academic,2012,1,Completed-Success
+NCT67292182,Phase IV,Oncology,168,88,Academic,2014,1,Completed-Success
+NCT93700525,Phase IV,Oncology,581,23,Academic,2005,1,Completed-Success
+NCT83684580,Phase II,Neurology,112,70,Industry,2016,0,Withdrawn
+NCT79111188,Phase III,Infectious Disease,24,30,Academic,2013,1,Completed-Success
+NCT49816537,Phase II,Oncology,161,32,Industry,2009,1,Completed-Success
+NCT72671672,Phase II,Oncology,175,12,Industry,2013,1,Completed-Success
+NCT94380672,Phase I,Oncology,196,49,Academic,2020,1,Completed-Success
+NCT90908854,Phase III,Other,589,111,NIH,2022,0,Terminated
+NCT47132658,Phase I,Oncology,684,34,Academic,2012,1,Completed-Success
+NCT70749710,Phase II,Other,60,100,Academic,2015,1,Completed-Success
+NCT28492846,Phase IV,Infectious Disease,58,49,Academic,2008,1,Completed-Success
+NCT87652169,Phase I,Oncology,31,112,NIH,2014,1,Completed-Success
+NCT38088632,Phase I,Other,423,41,Industry,2017,1,Completed-Success
+NCT29894388,Phase I,Infectious Disease,1304,24,Industry,2018,0,Completed-Failed
+NCT52827417,Phase IV,Cardiology,92,11,NIH,2006,1,Completed-Success
+NCT98121122,Phase II,Other,103,30,NIH,2008,0,Terminated
+NCT45453171,Phase II,Oncology,1339,36,Industry,2011,1,Completed-Success
+NCT36395160,Phase III,Oncology,316,14,Industry,2021,0,Completed-Failed
+NCT94903513,Phase III,Cardiology,285,89,Industry,2020,0,Withdrawn
+NCT68435658,Phase II,Oncology,24,79,Industry,2017,0,Withdrawn
+NCT81769893,Phase III,Oncology,410,42,NIH,2022,1,Completed-Success
+NCT21149697,Phase III,Oncology,36,32,Industry,2016,0,Withdrawn
+NCT23757649,Phase III,Oncology,27,18,NIH,2005,0,Withdrawn
+NCT61913178,Phase I,Neurology,88,46,Industry,2019,1,Completed-Success
+NCT90535969,Phase IV,Oncology,61,71,Industry,2007,1,Completed-Success
+NCT62418906,Phase II,Infectious Disease,106,119,Industry,2010,0,Withdrawn
+NCT73213072,Phase II,Cardiology,17,90,Academic,2018,0,Completed-Failed
+NCT35146282,Phase II,Infectious Disease,625,102,Academic,2010,1,Completed-Success
+NCT16857658,Phase I,Oncology,805,29,Academic,2005,0,Terminated
+NCT74164715,Phase I,Neurology,7,49,Industry,2010,1,Completed-Success
+NCT37915002,Phase III,Oncology,643,111,Industry,2012,0,Terminated
+NCT78105394,Phase I,Neurology,44,103,Industry,2019,1,Completed-Success
+NCT96487703,Phase II,Other,536,65,Industry,2018,1,Completed-Success
+NCT74991256,Phase II,Infectious Disease,133,14,Academic,2020,1,Completed-Success
+NCT49785651,Phase I,Infectious Disease,154,7,Academic,2020,1,Completed-Success
+NCT64440645,Phase IV,Infectious Disease,112,61,Academic,2005,0,Withdrawn
+NCT21292148,Phase I,Infectious Disease,914,35,Industry,2008,0,Terminated
+NCT46919127,Phase II,Other,23,27,Industry,2014,0,Completed-Failed
+NCT90074928,Phase II,Other,369,115,Industry,2022,1,Completed-Success
+NCT87688894,Phase I,Oncology,774,80,Industry,2006,0,Terminated
+NCT41199893,Phase I,Cardiology,434,112,Academic,2008,1,Completed-Success
+NCT15786265,Phase III,Other,4851,86,Academic,2019,0,Terminated
+NCT66240283,Phase IV,Other,67,105,Industry,2008,0,Completed-Failed
+NCT41299028,Phase I,Infectious Disease,623,18,Industry,2020,1,Completed-Success
+NCT75170480,Phase III,Infectious Disease,126,76,NIH,2019,0,Completed-Failed
+NCT39168464,Phase III,Oncology,943,21,Academic,2022,0,Terminated
+NCT45966581,Phase III,Other,146,102,Academic,2011,1,Completed-Success
+NCT82507733,Phase II,Oncology,82,50,Industry,2019,1,Completed-Success
+NCT26405566,Phase II,Cardiology,1052,70,Industry,2015,0,Completed-Failed
+NCT19427504,Phase II,Oncology,70,16,NIH,2012,1,Completed-Success
+NCT88795078,Phase III,Oncology,17,75,Academic,2005,1,Completed-Success
+NCT17022336,Phase III,Infectious Disease,68,25,Industry,2007,1,Completed-Success
+NCT29655820,Phase I,Other,375,104,Academic,2009,1,Completed-Success
+NCT98213938,Phase II,Oncology,1197,113,Academic,2022,0,Completed-Failed
+NCT89594423,Phase IV,Cardiology,175,68,Industry,2016,1,Completed-Success
+NCT34210749,Phase III,Oncology,1072,106,Industry,2016,0,Completed-Failed
+NCT85761695,Phase IV,Oncology,19,110,Industry,2013,1,Completed-Success
+NCT23691164,Phase III,Infectious Disease,76,95,Industry,2015,1,Completed-Success
+NCT32761900,Phase II,Infectious Disease,96,17,Academic,2021,0,Withdrawn
+NCT21707868,Phase III,Oncology,124,67,Industry,2020,1,Completed-Success
+NCT24246173,Phase III,Oncology,168,99,Academic,2008,0,Terminated
+NCT20055079,Phase I,Oncology,418,97,NIH,2014,1,Completed-Success
+NCT23781009,Phase II,Oncology,76,96,Industry,2019,0,Completed-Failed
+NCT64952704,Phase III,Other,182,47,Industry,2007,0,Terminated
+NCT77812526,Phase I,Other,138,88,Academic,2009,1,Completed-Success
+NCT23769205,Phase III,Oncology,37,74,Academic,2015,1,Completed-Success
+NCT24013403,Phase III,Cardiology,125,63,Academic,2009,0,Terminated
+NCT62991088,Phase IV,Other,119,10,Industry,2011,1,Completed-Success
+NCT75954738,Phase I,Oncology,115,110,Industry,2010,0,Completed-Failed
+NCT49648899,Phase II,Neurology,155,32,Academic,2017,0,Completed-Failed
+NCT87462428,Phase III,Other,166,33,NIH,2006,0,Terminated
+NCT65849014,Phase II,Oncology,77,31,Industry,2015,1,Completed-Success
+NCT47003110,Phase III,Oncology,1001,96,NIH,2009,0,Completed-Failed
+NCT23942402,Phase III,Other,25,54,Industry,2013,1,Completed-Success
+NCT99097673,Phase I,Infectious Disease,50,111,NIH,2010,1,Completed-Success
+NCT91602413,Phase II,Oncology,9604,26,Academic,2021,1,Completed-Success
+NCT20669435,Phase II,Oncology,31,6,Industry,2012,1,Completed-Success
+NCT93750880,Phase II,Infectious Disease,19,97,Academic,2011,1,Completed-Success
+NCT53728950,Phase IV,Cardiology,446,117,Industry,2009,1,Completed-Success
+NCT21484508,Phase III,Neurology,6,63,Industry,2019,0,Terminated
+NCT17449607,Phase III,Other,104,84,Industry,2014,0,Completed-Failed
+NCT97929144,Phase III,Oncology,3709,60,Industry,2020,1,Completed-Success
+NCT23839094,Phase II,Infectious Disease,14,86,Industry,2013,0,Completed-Failed
+NCT26701250,Phase IV,Infectious Disease,7,31,Academic,2011,1,Completed-Success
+NCT62934615,Phase III,Infectious Disease,15,89,Academic,2015,0,Withdrawn
+NCT46992982,Phase III,Oncology,571,30,Industry,2013,0,Completed-Failed
+NCT77185082,Phase IV,Other,802,82,NIH,2021,1,Completed-Success
+NCT33656190,Phase II,Neurology,68,38,Academic,2013,0,Terminated
+NCT94656124,Phase III,Infectious Disease,413,94,NIH,2007,0,Completed-Failed
+NCT15579079,Phase I,Cardiology,1194,77,Academic,2012,1,Completed-Success
+NCT54489781,Phase II,Oncology,2166,74,Industry,2020,0,Completed-Failed
+NCT90170222,Phase II,Infectious Disease,102,11,Industry,2011,0,Completed-Failed
+NCT39822180,Phase IV,Cardiology,5,28,Academic,2011,1,Completed-Success
+NCT63517362,Phase IV,Infectious Disease,43,35,Industry,2017,0,Completed-Failed
+NCT93463150,Phase III,Other,78,83,Industry,2007,0,Completed-Failed
+NCT18860935,Phase III,Cardiology,100,59,Industry,2016,1,Completed-Success
+NCT34444321,Phase III,Infectious Disease,111,92,Industry,2012,0,Completed-Failed
+NCT95808215,Phase IV,Neurology,794,16,Industry,2017,0,Terminated
+NCT25105101,Phase II,Oncology,1003,36,Industry,2020,0,Terminated
+NCT50576287,Phase II,Infectious Disease,114,11,Industry,2011,0,Completed-Failed
+NCT61309687,Phase I,Oncology,771,16,Academic,2008,1,Completed-Success
+NCT86106218,Phase III,Infectious Disease,253,82,Academic,2016,1,Completed-Success
+NCT39677043,Phase III,Neurology,163,17,Industry,2021,0,Withdrawn
+NCT60831524,Phase II,Infectious Disease,578,71,Industry,2005,0,Completed-Failed
+NCT79071029,Phase I,Neurology,165,58,Industry,2021,1,Completed-Success
+NCT85094484,Phase III,Cardiology,3250,104,Industry,2006,0,Completed-Failed
+NCT10611213,Phase I,Oncology,17,41,Industry,2010,1,Completed-Success
+NCT61100382,Phase III,Neurology,68,22,Industry,2016,0,Terminated
+NCT59349430,Phase IV,Oncology,122,33,Academic,2015,1,Completed-Success
+NCT65842822,Phase II,Oncology,286,97,Industry,2015,0,Completed-Failed
+NCT45393865,Phase I,Infectious Disease,994,27,Industry,2022,0,Completed-Failed
+NCT83678496,Phase III,Oncology,143,107,Industry,2012,0,Completed-Failed
+NCT97558294,Phase III,Oncology,17,12,Academic,2011,0,Terminated
+NCT28803796,Phase II,Cardiology,525,20,NIH,2018,1,Completed-Success
+NCT16202258,Phase IV,Infectious Disease,460,101,Academic,2020,1,Completed-Success
+NCT98225315,Phase I,Infectious Disease,8,16,Academic,2016,1,Completed-Success
+NCT86989724,Phase II,Other,147,29,Industry,2013,1,Completed-Success
+NCT75174203,Phase III,Cardiology,13,72,Industry,2020,0,Terminated
+NCT80635601,Phase IV,Neurology,54,35,NIH,2020,1,Completed-Success
+NCT85899393,Phase I,Oncology,38,75,Industry,2013,0,Completed-Failed
+NCT28786176,Phase III,Cardiology,499,71,NIH,2017,1,Completed-Success
+NCT31232430,Phase III,Neurology,176,66,Academic,2009,0,Completed-Failed
+NCT50473321,Phase II,Cardiology,21,83,Academic,2014,0,Terminated
+NCT64148094,Phase I,Cardiology,555,46,Industry,2011,1,Completed-Success
+NCT30153729,Phase IV,Infectious Disease,17,87,Academic,2013,1,Completed-Success
+NCT92932418,Phase I,Oncology,243,56,Industry,2018,1,Completed-Success
+NCT22790902,Phase II,Infectious Disease,43,49,Industry,2019,0,Terminated
+NCT87582731,Phase II,Infectious Disease,85,100,Industry,2017,1,Completed-Success
+NCT87973011,Phase IV,Neurology,316,18,NIH,2014,0,Completed-Failed
+NCT16193956,Phase III,Oncology,324,95,Industry,2018,0,Completed-Failed
+NCT23579173,Phase III,Other,1102,113,Industry,2016,0,Completed-Failed
+NCT99323229,Phase II,Other,131,17,Industry,2010,0,Completed-Failed
+NCT91638280,Phase III,Oncology,235,87,Academic,2016,0,Terminated
+NCT84380340,Phase III,Oncology,76,14,Academic,2017,0,Completed-Failed
+NCT66761259,Phase III,Other,194,118,Academic,2012,1,Completed-Success
+NCT13266402,Phase IV,Other,286,90,Industry,2020,1,Completed-Success
+NCT57044083,Phase I,Infectious Disease,128,53,Industry,2006,0,Completed-Failed
+NCT34899065,Phase III,Oncology,9,54,Academic,2011,0,Withdrawn
+NCT68436437,Phase I,Infectious Disease,244,58,Industry,2016,1,Completed-Success
+NCT74910615,Phase II,Cardiology,256,61,NIH,2011,0,Terminated
+NCT97994960,Phase II,Oncology,53,45,Academic,2018,1,Completed-Success
+NCT24072989,Phase II,Neurology,21,112,Industry,2013,1,Completed-Success
+NCT90235127,Phase II,Oncology,1358,29,Industry,2022,1,Completed-Success
+NCT81370810,Phase III,Oncology,310,103,Academic,2015,0,Terminated
+NCT93976173,Phase II,Infectious Disease,105,77,Industry,2020,0,Completed-Failed
+NCT19944790,Phase III,Infectious Disease,26,113,Industry,2015,0,Terminated
+NCT89908991,Phase II,Oncology,43,38,Academic,2022,1,Completed-Success
+NCT91447632,Phase I,Infectious Disease,1047,28,Industry,2015,0,Terminated
+NCT78841329,Phase III,Oncology,182,82,Academic,2008,0,Completed-Failed
+NCT63505232,Phase II,Oncology,64,59,Industry,2022,0,Withdrawn
+NCT90218637,Phase II,Oncology,318,58,Academic,2017,1,Completed-Success
+NCT54599847,Phase III,Other,43,54,Industry,2008,0,Withdrawn
+NCT58730049,Phase II,Infectious Disease,1409,83,Industry,2014,0,Terminated
+NCT46413676,Phase I,Infectious Disease,1129,83,NIH,2009,1,Completed-Success
+NCT43877350,Phase II,Cardiology,73,85,Academic,2007,1,Completed-Success
+NCT71658869,Phase IV,Other,57,54,Industry,2020,1,Completed-Success
+NCT96131989,Phase III,Oncology,5,107,Industry,2012,0,Completed-Failed
+NCT76374125,Phase III,Cardiology,16,65,Academic,2011,1,Completed-Success
+NCT77225603,Phase III,Cardiology,19,108,Industry,2018,0,Completed-Failed
+NCT41251097,Phase I,Cardiology,181,95,NIH,2019,1,Completed-Success
+NCT76268268,Phase II,Oncology,90,95,NIH,2021,0,Completed-Failed
+NCT25985249,Phase III,Cardiology,19,70,Academic,2005,0,Completed-Failed
+NCT88987338,Phase I,Oncology,97,37,Industry,2010,1,Completed-Success
+NCT53309893,Phase II,Cardiology,316,84,Industry,2019,0,Terminated
+NCT44569361,Phase II,Neurology,327,26,Academic,2016,1,Completed-Success
+NCT20971177,Phase II,Oncology,8,23,Industry,2006,0,Completed-Failed
+NCT70200291,Phase IV,Neurology,122,99,Industry,2009,0,Withdrawn
+NCT30080673,Phase I,Oncology,18,65,Industry,2013,1,Completed-Success
+NCT84052985,Phase II,Neurology,573,18,Industry,2018,1,Completed-Success
+NCT16238795,Phase I,Infectious Disease,481,29,Industry,2022,0,Completed-Failed
+NCT91266262,Phase IV,Oncology,38,35,Industry,2012,1,Completed-Success
+NCT65098996,Phase I,Oncology,47,7,Academic,2006,1,Completed-Success
+NCT57226729,Phase II,Other,74,88,Industry,2013,1,Completed-Success
+NCT74504149,Phase III,Oncology,5,116,Industry,2011,0,Completed-Failed
+NCT61048404,Phase III,Oncology,245,113,Industry,2022,1,Completed-Success
+NCT68771482,Phase II,Oncology,98,116,Academic,2020,0,Terminated
+NCT80860062,Phase II,Cardiology,636,30,Industry,2009,0,Completed-Failed
+NCT67701082,Phase II,Infectious Disease,28,55,Academic,2019,0,Withdrawn
+NCT25732903,Phase II,Oncology,58,19,NIH,2009,1,Completed-Success
+NCT13138145,Phase I,Oncology,15,11,Industry,2015,1,Completed-Success
+NCT39063435,Phase II,Oncology,32,81,Industry,2018,1,Completed-Success
+NCT44780908,Phase II,Oncology,25,89,Industry,2007,1,Completed-Success
+NCT47738488,Phase II,Infectious Disease,661,92,NIH,2014,1,Completed-Success
+NCT92125254,Phase III,Cardiology,52,35,Academic,2010,0,Withdrawn
+NCT56361481,Phase IV,Oncology,178,35,NIH,2007,0,Completed-Failed
+NCT45055276,Phase III,Infectious Disease,83,43,Industry,2006,0,Completed-Failed
+NCT63775257,Phase I,Infectious Disease,22,63,NIH,2017,1,Completed-Success
+NCT44954715,Phase I,Other,115,99,Industry,2022,0,Completed-Failed
+NCT99813693,Phase IV,Other,364,46,Industry,2006,0,Terminated
+NCT91250937,Phase II,Neurology,24,99,NIH,2019,1,Completed-Success
+NCT77800621,Phase I,Oncology,499,62,NIH,2009,1,Completed-Success
+NCT77499583,Phase III,Oncology,41,41,Industry,2019,0,Completed-Failed
+NCT53470977,Phase III,Oncology,71,69,Industry,2021,0,Terminated
+NCT53092987,Phase III,Oncology,328,118,Industry,2006,0,Completed-Failed
+NCT92822506,Phase II,Infectious Disease,54,103,Industry,2022,0,Terminated
+NCT97182130,Phase I,Neurology,157,21,Industry,2019,1,Completed-Success
+NCT50381731,Phase IV,Neurology,92,93,NIH,2007,1,Completed-Success
+NCT34694812,Phase II,Neurology,180,83,Academic,2009,1,Completed-Success
+NCT71399188,Phase III,Infectious Disease,5,95,Academic,2015,1,Completed-Success
+NCT41970599,Phase III,Cardiology,9,77,Academic,2013,1,Completed-Success
+NCT61207679,Phase III,Oncology,373,19,Industry,2009,0,Terminated
+NCT49787171,Phase II,Oncology,703,36,Academic,2005,0,Completed-Failed
+NCT11270896,Phase II,Cardiology,37,71,Academic,2018,1,Completed-Success
+NCT21952314,Phase III,Oncology,102,117,Industry,2009,0,Completed-Failed
+NCT78168486,Phase IV,Infectious Disease,230,73,Academic,2012,1,Completed-Success
+NCT81531239,Phase IV,Oncology,419,70,Industry,2018,1,Completed-Success
+NCT26770274,Phase I,Cardiology,7,60,Academic,2020,1,Completed-Success
+NCT60709813,Phase I,Neurology,39,89,NIH,2010,1,Completed-Success
+NCT41354977,Phase IV,Oncology,90,83,Industry,2012,0,Completed-Failed
+NCT41873646,Phase III,Neurology,426,45,Academic,2006,1,Completed-Success
+NCT81240343,Phase IV,Oncology,6295,30,Industry,2013,1,Completed-Success
+NCT52955157,Phase I,Infectious Disease,105,30,Academic,2009,1,Completed-Success
+NCT69365444,Phase III,Cardiology,17,8,Industry,2009,1,Completed-Success
+NCT74445751,Phase III,Cardiology,271,74,Industry,2008,0,Completed-Failed
+NCT95518073,Phase III,Other,1076,107,Industry,2020,0,Completed-Failed
+NCT46905710,Phase II,Oncology,174,31,Academic,2020,1,Completed-Success
+NCT62673683,Phase I,Cardiology,38,45,Industry,2020,0,Completed-Failed
+NCT34755666,Phase III,Cardiology,624,43,NIH,2011,1,Completed-Success
+NCT15703394,Phase II,Other,401,43,Industry,2022,0,Withdrawn
+NCT96654442,Phase II,Oncology,31,73,NIH,2005,0,Withdrawn
+NCT21415376,Phase IV,Neurology,262,12,Academic,2007,0,Terminated
+NCT86176890,Phase II,Cardiology,662,99,Industry,2012,0,Completed-Failed
+NCT23283692,Phase III,Oncology,873,35,Industry,2005,1,Completed-Success
+NCT99817241,Phase I,Infectious Disease,134,24,Academic,2011,1,Completed-Success
+NCT33567809,Phase III,Oncology,86,108,Academic,2011,1,Completed-Success
+NCT65182836,Phase IV,Cardiology,935,40,Academic,2012,1,Completed-Success
+NCT12721864,Phase I,Other,24,109,Industry,2021,1,Completed-Success
+NCT64278856,Phase I,Cardiology,286,38,Industry,2015,1,Completed-Success
+NCT43458471,Phase II,Cardiology,19,38,NIH,2019,1,Completed-Success
+NCT50539152,Phase I,Infectious Disease,733,83,Industry,2013,1,Completed-Success
+NCT38104320,Phase III,Oncology,100,43,Industry,2021,0,Terminated
+NCT84842172,Phase IV,Oncology,995,15,Industry,2015,0,Completed-Failed
+NCT13875754,Phase II,Infectious Disease,310,62,Academic,2010,0,Completed-Failed
+NCT29482215,Phase II,Oncology,23,33,Academic,2013,0,Completed-Failed
+NCT67696034,Phase II,Oncology,1257,83,Industry,2022,0,Completed-Failed
+NCT38356738,Phase III,Infectious Disease,1520,105,Industry,2006,1,Completed-Success
+NCT75564145,Phase I,Oncology,557,43,Industry,2008,1,Completed-Success
+NCT88021860,Phase III,Oncology,47,21,Industry,2022,0,Completed-Failed
+NCT20047595,Phase III,Infectious Disease,93,26,Industry,2005,1,Completed-Success
+NCT40908587,Phase III,Oncology,184,97,NIH,2015,0,Completed-Failed
+NCT32564965,Phase I,Other,51,102,Industry,2007,1,Completed-Success
+NCT50131083,Phase III,Neurology,1879,11,Industry,2012,0,Withdrawn
+NCT83976082,Phase I,Cardiology,184,46,NIH,2009,0,Completed-Failed
+NCT19004644,Phase I,Oncology,5,20,Industry,2009,1,Completed-Success
+NCT57517690,Phase IV,Neurology,246,113,Academic,2015,0,Withdrawn
+NCT60760636,Phase III,Neurology,88,8,Industry,2016,1,Completed-Success
+NCT47639184,Phase I,Neurology,132,48,Industry,2013,1,Completed-Success
+NCT64706505,Phase I,Oncology,85,52,NIH,2017,0,Completed-Failed
+NCT23143608,Phase I,Cardiology,497,104,Academic,2007,1,Completed-Success
+NCT46532022,Phase II,Neurology,795,19,Industry,2017,0,Completed-Failed
+NCT55745469,Phase I,Cardiology,226,71,Academic,2015,1,Completed-Success
+NCT98780367,Phase I,Cardiology,89,34,NIH,2015,0,Completed-Failed
+NCT46045138,Phase II,Infectious Disease,139,9,Industry,2011,0,Terminated
+NCT67874183,Phase III,Infectious Disease,152,31,Industry,2021,0,Completed-Failed
+NCT69912158,Phase III,Oncology,44,17,NIH,2020,0,Completed-Failed
+NCT48808656,Phase III,Cardiology,353,7,Industry,2018,0,Completed-Failed
+NCT20880726,Phase I,Oncology,295,22,Academic,2005,1,Completed-Success
+NCT32992356,Phase IV,Infectious Disease,1496,40,Academic,2015,1,Completed-Success
+NCT30515189,Phase III,Oncology,975,15,Academic,2017,0,Completed-Failed
+NCT62534223,Phase III,Infectious Disease,53,117,Industry,2005,0,Terminated
+NCT33388869,Phase III,Oncology,507,91,Industry,2006,0,Completed-Failed
+NCT60795719,Phase IV,Cardiology,35,110,Academic,2013,1,Completed-Success
+NCT98798296,Phase II,Neurology,421,48,Industry,2017,1,Completed-Success
+NCT20563214,Phase I,Oncology,68,26,Industry,2009,0,Completed-Failed
+NCT34374842,Phase III,Oncology,31,20,Industry,2013,0,Withdrawn
+NCT91252249,Phase III,Oncology,225,40,Industry,2017,0,Completed-Failed
+NCT97384552,Phase III,Other,5,117,NIH,2009,1,Completed-Success
+NCT38172140,Phase II,Infectious Disease,10,90,Industry,2019,1,Completed-Success
+NCT68701337,Phase I,Infectious Disease,113,90,NIH,2011,1,Completed-Success
+NCT45119150,Phase II,Oncology,167,90,Industry,2018,0,Terminated
+NCT65471391,Phase IV,Cardiology,85,65,Academic,2020,1,Completed-Success
+NCT87632265,Phase III,Neurology,13,49,Industry,2010,0,Terminated
+NCT91597126,Phase II,Neurology,43,101,Academic,2006,0,Withdrawn
+NCT33387092,Phase II,Cardiology,266,10,Academic,2020,1,Completed-Success
+NCT29156053,Phase II,Oncology,355,108,Industry,2009,0,Completed-Failed
+NCT49678201,Phase IV,Oncology,144,78,NIH,2008,1,Completed-Success
+NCT11524102,Phase III,Oncology,841,23,Industry,2018,1,Completed-Success
+NCT21579149,Phase III,Oncology,269,26,Academic,2010,1,Completed-Success
+NCT52607220,Phase II,Oncology,48,77,NIH,2012,1,Completed-Success
+NCT62715014,Phase III,Oncology,97,113,NIH,2007,1,Completed-Success
+NCT79144712,Phase I,Infectious Disease,18,103,NIH,2008,1,Completed-Success
+NCT31900146,Phase III,Other,126,79,Industry,2005,1,Completed-Success
+NCT87937327,Phase II,Cardiology,786,56,Industry,2006,1,Completed-Success
+NCT19913841,Phase II,Neurology,414,46,Industry,2017,0,Terminated
+NCT76626362,Phase III,Cardiology,1215,29,Industry,2013,0,Completed-Failed
+NCT39061846,Phase IV,Oncology,94,109,Academic,2016,1,Completed-Success
+NCT70523996,Phase I,Neurology,1117,29,Industry,2014,0,Terminated
+NCT33468625,Phase III,Oncology,111,101,Academic,2014,0,Completed-Failed
+NCT88566365,Phase II,Cardiology,1349,102,Industry,2022,0,Completed-Failed
+NCT13433382,Phase II,Oncology,143,43,Industry,2016,0,Withdrawn
+NCT85779042,Phase I,Other,428,49,Academic,2020,1,Completed-Success
+NCT38348817,Phase II,Oncology,1356,62,Industry,2010,0,Completed-Failed
+NCT80503913,Phase II,Oncology,111,64,Academic,2014,0,Withdrawn
+NCT93952230,Phase I,Other,205,118,Industry,2019,0,Withdrawn
+NCT34728848,Phase II,Oncology,1025,39,Academic,2013,0,Completed-Failed
+NCT20822814,Phase IV,Cardiology,121,80,Industry,2006,1,Completed-Success
+NCT99967767,Phase I,Cardiology,20,100,Industry,2022,1,Completed-Success
+NCT58356322,Phase III,Neurology,3694,87,Academic,2016,0,Completed-Failed
+NCT62879148,Phase II,Other,73,28,NIH,2007,0,Completed-Failed
+NCT72076001,Phase III,Other,188,91,Industry,2011,0,Withdrawn
+NCT52942594,Phase II,Oncology,840,48,Industry,2013,0,Completed-Failed
+NCT47747492,Phase I,Neurology,59,87,Industry,2012,1,Completed-Success
+NCT25170521,Phase I,Cardiology,32,45,Industry,2010,1,Completed-Success
+NCT35841846,Phase I,Cardiology,217,52,Academic,2005,1,Completed-Success
+NCT22267883,Phase I,Oncology,10,46,Academic,2018,1,Completed-Success
+NCT52639398,Phase III,Cardiology,96,52,Industry,2020,0,Terminated
+NCT21984398,Phase IV,Other,214,108,Industry,2020,1,Completed-Success
+NCT45396080,Phase III,Other,98,25,Academic,2008,1,Completed-Success
+NCT40715395,Phase III,Infectious Disease,14,82,Industry,2010,1,Completed-Success
+NCT50686940,Phase I,Oncology,1621,114,Academic,2019,1,Completed-Success
+NCT33215061,Phase II,Infectious Disease,173,70,Industry,2012,0,Terminated
+NCT36854296,Phase II,Neurology,1269,73,Academic,2005,1,Completed-Success
+NCT92058636,Phase I,Cardiology,100,29,Industry,2017,1,Completed-Success
+NCT13828433,Phase II,Infectious Disease,39,105,Academic,2022,1,Completed-Success
+NCT96621344,Phase II,Oncology,222,41,Industry,2022,1,Completed-Success
+NCT57149071,Phase II,Infectious Disease,107,50,Industry,2017,1,Completed-Success
+NCT98334828,Phase II,Infectious Disease,25,7,Academic,2018,1,Completed-Success
+NCT17152747,Phase III,Other,1345,33,Industry,2015,1,Completed-Success
+NCT71029245,Phase III,Cardiology,58,31,Industry,2011,0,Withdrawn
+NCT58344513,Phase II,Oncology,9,28,Industry,2022,1,Completed-Success
+NCT11020154,Phase IV,Infectious Disease,1088,84,Industry,2008,0,Terminated
+NCT48499601,Phase IV,Oncology,69,41,NIH,2021,1,Completed-Success
+NCT16733215,Phase II,Other,59,96,Academic,2018,0,Terminated
+NCT85304674,Phase II,Infectious Disease,10,11,Industry,2014,0,Completed-Failed
+NCT42339834,Phase II,Infectious Disease,2021,40,Academic,2010,1,Completed-Success
+NCT50739629,Phase IV,Infectious Disease,21,108,Industry,2022,1,Completed-Success
+NCT39900787,Phase IV,Cardiology,162,43,NIH,2008,1,Completed-Success
+NCT83823165,Phase I,Cardiology,583,40,Industry,2015,0,Completed-Failed
+NCT37259197,Phase II,Cardiology,279,105,Academic,2017,1,Completed-Success
+NCT57784180,Phase III,Oncology,135,79,Industry,2012,1,Completed-Success
+NCT57379179,Phase II,Oncology,11,99,Industry,2014,1,Completed-Success
+NCT20760888,Phase I,Oncology,44,58,Industry,2015,1,Completed-Success
+NCT88414095,Phase IV,Cardiology,196,110,Industry,2007,0,Completed-Failed
+NCT75856750,Phase III,Oncology,45,43,Academic,2019,0,Withdrawn
+NCT88483721,Phase III,Cardiology,201,98,Industry,2012,0,Terminated
+NCT59464216,Phase IV,Neurology,412,64,NIH,2022,1,Completed-Success
+NCT74884070,Phase III,Other,628,48,Industry,2005,0,Terminated
+NCT90884100,Phase II,Infectious Disease,23,108,Academic,2012,0,Terminated
+NCT68075712,Phase III,Infectious Disease,4003,119,NIH,2007,0,Completed-Failed
+NCT96015965,Phase I,Oncology,469,9,Academic,2005,1,Completed-Success
+NCT24372528,Phase III,Cardiology,148,10,NIH,2020,1,Completed-Success
+NCT81829506,Phase I,Neurology,760,73,Academic,2013,1,Completed-Success
+NCT56695565,Phase III,Oncology,5157,105,Industry,2021,0,Completed-Failed
+NCT77658103,Phase I,Infectious Disease,17,50,Academic,2020,0,Completed-Failed
+NCT35722525,Phase I,Neurology,105,85,Industry,2010,0,Completed-Failed
+NCT48963185,Phase I,Other,5,30,Industry,2011,0,Terminated
+NCT74674115,Phase I,Oncology,198,83,Industry,2020,1,Completed-Success
+NCT73813565,Phase III,Cardiology,256,16,Academic,2012,1,Completed-Success
+NCT56571160,Phase III,Oncology,139,34,Industry,2014,0,Completed-Failed
+NCT86767936,Phase II,Oncology,55,39,Industry,2018,1,Completed-Success
+NCT27562548,Phase I,Other,6,91,Industry,2015,1,Completed-Success
+NCT91485805,Phase I,Neurology,259,19,NIH,2006,1,Completed-Success
+NCT69488206,Phase I,Neurology,1317,29,Industry,2016,1,Completed-Success
+NCT77506574,Phase I,Oncology,61,64,Industry,2017,1,Completed-Success
+NCT50057648,Phase IV,Neurology,287,44,Industry,2019,1,Completed-Success
+NCT81425912,Phase I,Infectious Disease,14,31,NIH,2016,0,Terminated
+NCT91242298,Phase II,Oncology,294,48,NIH,2017,1,Completed-Success
+NCT63520377,Phase I,Infectious Disease,82,41,Academic,2012,1,Completed-Success
+NCT81894820,Phase I,Oncology,47,44,NIH,2020,1,Completed-Success
+NCT31882940,Phase II,Neurology,47,66,Industry,2007,0,Terminated
+NCT48580196,Phase III,Cardiology,82,21,NIH,2017,1,Completed-Success
+NCT58665285,Phase I,Oncology,263,107,Industry,2016,1,Completed-Success
+NCT68327846,Phase I,Oncology,20,64,Industry,2006,1,Completed-Success
+NCT27687991,Phase II,Oncology,81,101,Industry,2005,0,Completed-Failed
+NCT49509310,Phase I,Oncology,139,11,Academic,2012,1,Completed-Success
+NCT41061293,Phase I,Cardiology,28,103,Academic,2013,1,Completed-Success
+NCT40272855,Phase IV,Neurology,2197,61,Industry,2012,1,Completed-Success
+NCT94445004,Phase III,Oncology,41,13,NIH,2021,1,Completed-Success
+NCT97767265,Phase III,Oncology,54,99,Industry,2013,0,Completed-Failed
+NCT56316696,Phase II,Cardiology,34,32,Industry,2010,1,Completed-Success
+NCT20679043,Phase II,Neurology,2203,76,Industry,2019,0,Completed-Failed
+NCT65498298,Phase II,Oncology,340,32,Academic,2017,0,Completed-Failed
+NCT32470291,Phase III,Oncology,36,94,Academic,2016,1,Completed-Success
+NCT60763061,Phase III,Cardiology,780,51,Industry,2017,1,Completed-Success
+NCT70072820,Phase I,Oncology,200,46,Academic,2011,1,Completed-Success
+NCT87921522,Phase II,Oncology,218,84,Industry,2022,0,Terminated
+NCT64496748,Phase II,Neurology,88,30,Academic,2018,0,Completed-Failed
+NCT61195209,Phase IV,Cardiology,48,91,NIH,2015,1,Completed-Success
+NCT77411050,Phase III,Cardiology,246,23,Industry,2018,0,Terminated
+NCT97093473,Phase II,Neurology,65,17,NIH,2021,1,Completed-Success
+NCT49043896,Phase I,Cardiology,2264,92,Academic,2006,1,Completed-Success
+NCT17456985,Phase III,Oncology,22,56,Industry,2020,0,Terminated
+NCT33544744,Phase I,Infectious Disease,1486,114,NIH,2014,0,Completed-Failed
+NCT94912633,Phase II,Oncology,125,44,Industry,2012,0,Terminated
+NCT68865527,Phase I,Oncology,232,94,Industry,2009,0,Terminated
+NCT37381509,Phase III,Cardiology,517,15,Industry,2011,0,Terminated
+NCT93836420,Phase I,Neurology,57,99,Industry,2017,0,Completed-Failed
+NCT30521013,Phase II,Other,542,79,Academic,2020,0,Completed-Failed
+NCT11514542,Phase IV,Cardiology,5,103,Academic,2009,1,Completed-Success
+NCT47735088,Phase I,Oncology,50,115,NIH,2020,1,Completed-Success
+NCT88427656,Phase II,Oncology,37,82,Industry,2019,0,Completed-Failed
+NCT25135763,Phase II,Neurology,22,59,Industry,2013,0,Completed-Failed
+NCT85785788,Phase I,Cardiology,107,34,Industry,2016,0,Terminated
+NCT53951994,Phase III,Cardiology,264,107,Industry,2012,1,Completed-Success
+NCT75489314,Phase I,Neurology,425,46,NIH,2017,0,Terminated
+NCT45383985,Phase II,Cardiology,213,114,Academic,2009,0,Withdrawn
+NCT46595773,Phase III,Neurology,54,14,Industry,2018,1,Completed-Success
+NCT24315679,Phase III,Oncology,258,68,NIH,2020,1,Completed-Success
+NCT34440805,Phase III,Neurology,178,82,Academic,2015,0,Completed-Failed
+NCT31765239,Phase II,Neurology,604,42,Industry,2016,1,Completed-Success
+NCT34586222,Phase I,Oncology,475,19,Academic,2019,1,Completed-Success
+NCT25527000,Phase III,Cardiology,155,106,Industry,2016,0,Completed-Failed
+NCT95561923,Phase II,Oncology,38,78,Industry,2013,0,Terminated
+NCT85532173,Phase III,Other,55,77,Industry,2005,1,Completed-Success
+NCT80337892,Phase III,Oncology,65,44,Industry,2007,0,Completed-Failed
+NCT95607690,Phase III,Cardiology,92,45,Industry,2016,0,Completed-Failed
+NCT20569320,Phase II,Oncology,221,59,Industry,2017,0,Completed-Failed
+NCT79448631,Phase II,Cardiology,433,8,Industry,2010,0,Completed-Failed
+NCT77001666,Phase III,Oncology,137,60,Academic,2014,0,Terminated
+NCT29391451,Phase II,Oncology,152,116,NIH,2014,0,Completed-Failed
+NCT44045468,Phase I,Infectious Disease,184,109,Academic,2020,1,Completed-Success
+NCT69047560,Phase IV,Other,68,38,Industry,2005,1,Completed-Success
+NCT66378562,Phase IV,Oncology,37,101,Industry,2020,0,Terminated
+NCT87960088,Phase II,Oncology,10,76,Industry,2008,0,Terminated
+NCT46264673,Phase I,Neurology,52,24,Industry,2010,0,Completed-Failed
+NCT88931275,Phase II,Infectious Disease,301,39,Academic,2006,0,Withdrawn
+NCT27920169,Phase III,Other,51,83,Academic,2022,0,Completed-Failed
+NCT81087566,Phase IV,Oncology,103,55,Academic,2014,1,Completed-Success
+NCT94212996,Phase I,Cardiology,298,52,Academic,2008,1,Completed-Success
+NCT80706570,Phase I,Oncology,324,51,Industry,2005,1,Completed-Success
+NCT10605409,Phase IV,Oncology,29,61,Industry,2019,0,Withdrawn
+NCT19462743,Phase II,Cardiology,662,62,Academic,2014,1,Completed-Success
+NCT21377787,Phase II,Cardiology,805,88,Industry,2022,0,Completed-Failed
+NCT31827621,Phase IV,Neurology,27,56,Industry,2020,1,Completed-Success
+NCT51892167,Phase I,Oncology,43,59,Industry,2017,0,Terminated
+NCT45280122,Phase III,Infectious Disease,885,95,Industry,2019,0,Completed-Failed
+NCT30057988,Phase I,Infectious Disease,119,86,Industry,2006,1,Completed-Success
+NCT85306159,Phase II,Other,5,33,Academic,2008,1,Completed-Success
+NCT15809041,Phase III,Oncology,18,24,NIH,2005,1,Completed-Success
+NCT89655365,Phase II,Oncology,102,32,Industry,2011,0,Terminated
+NCT16155579,Phase IV,Infectious Disease,25,53,Industry,2015,1,Completed-Success
+NCT77511983,Phase III,Cardiology,79,24,Academic,2014,0,Terminated
+NCT93665691,Phase II,Oncology,155,102,Industry,2005,1,Completed-Success
+NCT68544068,Phase I,Other,1330,56,Industry,2015,0,Completed-Failed
+NCT42027216,Phase II,Oncology,95,12,Industry,2014,1,Completed-Success
+NCT43957164,Phase II,Other,741,34,Industry,2018,1,Completed-Success
+NCT60837727,Phase I,Oncology,1265,48,Academic,2018,0,Withdrawn
+NCT79058877,Phase II,Cardiology,1275,74,Academic,2011,1,Completed-Success
+NCT11132658,Phase II,Other,227,99,Industry,2015,1,Completed-Success
+NCT62316857,Phase III,Oncology,7,118,Industry,2008,0,Completed-Failed
+NCT47877058,Phase III,Other,296,112,Industry,2006,0,Completed-Failed
+NCT27434167,Phase III,Infectious Disease,715,63,Industry,2011,0,Terminated
+NCT35177127,Phase I,Other,131,13,NIH,2018,0,Terminated
+NCT63811239,Phase I,Cardiology,2032,47,Academic,2011,1,Completed-Success
+NCT23881178,Phase III,Oncology,539,81,Industry,2016,0,Completed-Failed
+NCT99089996,Phase II,Oncology,348,47,Academic,2007,1,Completed-Success
+NCT83135852,Phase I,Oncology,757,18,Academic,2019,0,Completed-Failed
+NCT75111328,Phase III,Oncology,244,31,Academic,2009,1,Completed-Success
+NCT25590661,Phase III,Oncology,5,23,Industry,2012,0,Withdrawn
+NCT79475474,Phase II,Oncology,70,47,Industry,2018,1,Completed-Success
+NCT19456807,Phase I,Infectious Disease,894,56,Academic,2008,1,Completed-Success
+NCT39342048,Phase III,Neurology,44,118,Industry,2011,1,Completed-Success
+NCT14684346,Phase III,Oncology,106,89,NIH,2011,0,Terminated
+NCT27824559,Phase III,Oncology,30,21,Academic,2022,0,Completed-Failed
+NCT99605800,Phase III,Cardiology,2155,106,NIH,2018,1,Completed-Success
+NCT95641772,Phase III,Oncology,1848,8,Industry,2012,0,Completed-Failed
+NCT52827096,Phase II,Oncology,39,96,NIH,2016,1,Completed-Success
+NCT61900771,Phase I,Oncology,185,84,Industry,2014,0,Withdrawn
+NCT59352346,Phase III,Other,53,103,NIH,2018,0,Terminated
+NCT21667877,Phase III,Neurology,373,50,Industry,2013,0,Withdrawn
+NCT17393979,Phase III,Infectious Disease,318,27,Industry,2010,0,Completed-Failed
+NCT20115078,Phase I,Cardiology,501,109,Academic,2009,1,Completed-Success
+NCT38506244,Phase I,Infectious Disease,244,28,Industry,2005,0,Terminated
+NCT35214698,Phase IV,Cardiology,12126,64,Industry,2005,0,Terminated
+NCT27486878,Phase III,Cardiology,31,67,NIH,2021,0,Completed-Failed
+NCT67195030,Phase IV,Cardiology,11,118,Industry,2015,1,Completed-Success
+NCT32098345,Phase III,Oncology,82,73,Academic,2016,0,Terminated
+NCT26620937,Phase III,Oncology,14,59,Industry,2007,0,Terminated
+NCT41984287,Phase III,Infectious Disease,15,62,Academic,2010,0,Completed-Failed
+NCT52413492,Phase IV,Other,33,110,Academic,2015,1,Completed-Success
+NCT20528294,Phase III,Cardiology,37,28,Industry,2017,0,Terminated
+NCT29369886,Phase III,Neurology,35,116,Industry,2015,0,Terminated
+NCT14810833,Phase I,Other,322,65,Academic,2012,0,Withdrawn
+NCT33480675,Phase II,Oncology,69,78,Industry,2014,0,Terminated
+NCT94328141,Phase III,Cardiology,113,93,Industry,2006,1,Completed-Success
+NCT38500556,Phase II,Cardiology,567,90,Academic,2018,1,Completed-Success
+NCT42073692,Phase I,Other,47,110,Industry,2020,0,Completed-Failed
+NCT47316107,Phase II,Other,99,115,Industry,2021,0,Completed-Failed
+NCT37427110,Phase I,Cardiology,256,60,Academic,2015,0,Terminated
+NCT34192961,Phase I,Oncology,8,85,Industry,2006,0,Completed-Failed
+NCT34859871,Phase II,Neurology,5,68,Industry,2009,0,Completed-Failed
+NCT69844250,Phase IV,Oncology,249,61,Industry,2020,1,Completed-Success
+NCT63412976,Phase II,Neurology,310,60,Academic,2020,1,Completed-Success
+NCT39263888,Phase I,Other,3282,30,Academic,2006,0,Completed-Failed
+NCT52106078,Phase I,Infectious Disease,188,31,Academic,2020,0,Completed-Failed
+NCT17281505,Phase III,Cardiology,507,54,Industry,2009,1,Completed-Success
+NCT48679227,Phase II,Infectious Disease,110,68,Industry,2012,1,Completed-Success
+NCT48965695,Phase III,Infectious Disease,231,50,Industry,2018,0,Terminated
+NCT47518167,Phase III,Oncology,1809,78,Industry,2014,0,Completed-Failed
+NCT36540396,Phase III,Neurology,6,84,NIH,2006,1,Completed-Success
+NCT24812143,Phase II,Other,276,44,Industry,2007,0,Completed-Failed
+NCT66825157,Phase III,Other,3653,102,Industry,2022,0,Withdrawn
+NCT18989138,Phase II,Oncology,226,70,Industry,2006,1,Completed-Success
+NCT57364509,Phase IV,Other,1764,74,Academic,2013,0,Terminated
+NCT89146438,Phase III,Neurology,57,61,Academic,2006,0,Terminated
+NCT53020873,Phase II,Oncology,141,14,Academic,2011,0,Terminated
+NCT83663899,Phase II,Oncology,156,113,NIH,2011,0,Terminated
+NCT42735803,Phase I,Oncology,5,75,Industry,2018,1,Completed-Success
+NCT25886372,Phase III,Other,25,33,Industry,2009,1,Completed-Success
+NCT47622748,Phase I,Cardiology,28,50,Industry,2012,1,Completed-Success
+NCT42456981,Phase III,Cardiology,509,31,Academic,2022,1,Completed-Success
+NCT85176851,Phase II,Oncology,549,33,Academic,2010,1,Completed-Success
+NCT11656671,Phase III,Cardiology,241,45,Industry,2018,0,Terminated
+NCT99567715,Phase III,Oncology,510,20,Academic,2022,0,Terminated
+NCT32922481,Phase III,Infectious Disease,116,11,Academic,2021,0,Withdrawn
+NCT52081603,Phase III,Cardiology,900,32,NIH,2013,0,Completed-Failed
+NCT94669146,Phase I,Oncology,150,43,Academic,2017,1,Completed-Success
+NCT53497663,Phase I,Neurology,161,73,Academic,2020,0,Withdrawn
+NCT98785936,Phase III,Oncology,99,80,Industry,2014,0,Completed-Failed
+NCT30833173,Phase II,Cardiology,414,90,Academic,2014,1,Completed-Success
+NCT94483977,Phase II,Infectious Disease,78,69,NIH,2008,0,Completed-Failed
+NCT30718453,Phase I,Cardiology,642,35,Industry,2016,1,Completed-Success
+NCT19161408,Phase II,Oncology,27,87,Academic,2012,1,Completed-Success
+NCT62374647,Phase I,Oncology,28,104,Academic,2019,1,Completed-Success
+NCT72242810,Phase IV,Other,416,8,Industry,2019,1,Completed-Success
+NCT47214417,Phase I,Oncology,129,67,Academic,2012,1,Completed-Success
+NCT30353727,Phase III,Neurology,75,17,Industry,2012,0,Completed-Failed
+NCT95050030,Phase I,Other,564,96,NIH,2013,0,Completed-Failed
+NCT10549148,Phase III,Oncology,59,35,Academic,2021,0,Terminated
+NCT46328139,Phase II,Oncology,109,90,Industry,2012,0,Withdrawn
+NCT31845218,Phase IV,Cardiology,1210,43,Industry,2016,1,Completed-Success
+NCT12773939,Phase IV,Other,1493,90,Academic,2019,0,Withdrawn
+NCT45490172,Phase II,Other,1569,65,Industry,2008,0,Withdrawn
+NCT46989387,Phase IV,Infectious Disease,97,43,Industry,2010,1,Completed-Success
+NCT23426716,Phase IV,Neurology,940,109,Industry,2020,1,Completed-Success
+NCT48710304,Phase III,Oncology,35,20,Industry,2009,0,Completed-Failed
+NCT57718021,Phase III,Other,38,23,Industry,2017,0,Withdrawn
+NCT95440590,Phase I,Other,5,57,Academic,2019,1,Completed-Success
+NCT36996639,Phase III,Oncology,1824,34,NIH,2021,0,Completed-Failed
+NCT97649202,Phase I,Oncology,40,117,Academic,2009,1,Completed-Success
+NCT20774986,Phase I,Oncology,122,107,Academic,2011,1,Completed-Success
+NCT14421590,Phase IV,Oncology,37,65,Industry,2007,0,Withdrawn
+NCT46089369,Phase II,Neurology,421,26,Industry,2017,1,Completed-Success
+NCT21546081,Phase III,Infectious Disease,84,22,Industry,2018,0,Completed-Failed
+NCT39221379,Phase III,Oncology,20,110,Academic,2020,0,Completed-Failed
+NCT95604304,Phase IV,Oncology,287,23,NIH,2017,1,Completed-Success
+NCT46265058,Phase IV,Other,17,62,Academic,2006,0,Withdrawn
+NCT69644300,Phase I,Cardiology,42,42,NIH,2018,1,Completed-Success
+NCT54924392,Phase I,Infectious Disease,6,65,Academic,2011,0,Withdrawn
+NCT41670310,Phase II,Oncology,17,43,Industry,2009,0,Terminated
+NCT68237814,Phase I,Other,193,17,Industry,2018,1,Completed-Success
+NCT67641756,Phase I,Neurology,7,80,Industry,2013,0,Terminated
+NCT36552476,Phase II,Oncology,16,117,Industry,2014,1,Completed-Success
+NCT83548874,Phase III,Oncology,147,118,Academic,2011,1,Completed-Success
+NCT18674163,Phase III,Oncology,65,89,Industry,2018,0,Completed-Failed
+NCT95388417,Phase II,Oncology,2945,78,Academic,2018,0,Terminated
+NCT58548947,Phase III,Cardiology,2323,6,Academic,2006,0,Terminated
+NCT37209162,Phase I,Other,40,63,Industry,2021,1,Completed-Success
+NCT67396048,Phase I,Infectious Disease,342,8,Industry,2008,1,Completed-Success
+NCT10224695,Phase III,Neurology,456,68,Industry,2017,0,Completed-Failed
+NCT63773276,Phase III,Infectious Disease,60,26,Industry,2022,0,Completed-Failed
+NCT36267668,Phase III,Cardiology,15,28,Academic,2007,0,Completed-Failed
+NCT24063918,Phase I,Neurology,145,14,Industry,2009,0,Terminated
+NCT67884623,Phase III,Oncology,114,88,Academic,2005,1,Completed-Success
+NCT68454884,Phase III,Infectious Disease,77,114,NIH,2013,0,Completed-Failed
+NCT68093498,Phase III,Cardiology,288,60,NIH,2012,0,Completed-Failed
+NCT53353746,Phase III,Oncology,48,115,NIH,2007,0,Completed-Failed
+NCT30610500,Phase IV,Infectious Disease,26,24,Industry,2006,0,Terminated
+NCT75402242,Phase III,Infectious Disease,174,67,Industry,2005,0,Terminated
+NCT23245696,Phase III,Other,264,92,Industry,2016,1,Completed-Success
+NCT45402297,Phase IV,Infectious Disease,25,96,Industry,2017,0,Terminated
+NCT92030459,Phase III,Neurology,597,96,NIH,2014,0,Completed-Failed
+NCT34363941,Phase II,Infectious Disease,10,44,Academic,2021,0,Completed-Failed
+NCT58123406,Phase III,Neurology,62,105,Industry,2015,1,Completed-Success
+NCT65229602,Phase II,Cardiology,100,81,Industry,2009,0,Completed-Failed
+NCT11074961,Phase I,Other,57,32,Industry,2013,0,Withdrawn
+NCT98511758,Phase III,Infectious Disease,63,51,Academic,2017,1,Completed-Success
+NCT21950571,Phase IV,Cardiology,2456,39,Academic,2015,1,Completed-Success
+NCT29155151,Phase IV,Cardiology,41,38,NIH,2008,0,Completed-Failed
+NCT61465754,Phase II,Infectious Disease,5778,97,NIH,2015,1,Completed-Success
+NCT22866619,Phase II,Oncology,285,100,Industry,2013,1,Completed-Success
+NCT79583832,Phase I,Oncology,170,101,Industry,2011,1,Completed-Success
+NCT99858638,Phase IV,Oncology,303,55,Industry,2020,1,Completed-Success
+NCT79551130,Phase IV,Other,6600,25,Industry,2009,1,Completed-Success
+NCT14437677,Phase III,Oncology,33,45,NIH,2010,1,Completed-Success
+NCT57347699,Phase III,Oncology,27,104,Academic,2005,1,Completed-Success
+NCT86716230,Phase III,Neurology,47,100,Academic,2020,0,Completed-Failed
+NCT15241218,Phase III,Oncology,155,63,Industry,2022,0,Terminated
+NCT76777436,Phase I,Infectious Disease,11,36,Industry,2017,1,Completed-Success
+NCT36821567,Phase II,Oncology,153,43,Industry,2005,1,Completed-Success
+NCT65482283,Phase III,Other,1882,91,Industry,2014,1,Completed-Success
+NCT15481140,Phase III,Neurology,186,50,Academic,2011,1,Completed-Success
+NCT33991831,Phase II,Neurology,95,46,Industry,2009,1,Completed-Success
+NCT72697275,Phase IV,Infectious Disease,58,14,Academic,2017,0,Completed-Failed
+NCT75658413,Phase I,Neurology,571,14,Academic,2020,0,Terminated
+NCT64856856,Phase II,Oncology,43,68,Industry,2018,1,Completed-Success
+NCT15290717,Phase III,Oncology,2367,84,Academic,2015,0,Completed-Failed
+NCT29659206,Phase III,Oncology,2697,82,Industry,2006,1,Completed-Success
+NCT10797968,Phase III,Cardiology,218,27,Academic,2012,0,Terminated
+NCT68224509,Phase II,Infectious Disease,145,21,Academic,2017,0,Completed-Failed
+NCT65940773,Phase I,Infectious Disease,696,37,NIH,2011,1,Completed-Success
+NCT39163439,Phase III,Oncology,766,71,Industry,2016,0,Completed-Failed
+NCT29651515,Phase III,Infectious Disease,44,95,Industry,2012,0,Completed-Failed
+NCT17339838,Phase I,Cardiology,67,19,Industry,2020,1,Completed-Success
+NCT93629045,Phase III,Infectious Disease,20,43,Industry,2022,0,Terminated
+NCT67661940,Phase II,Neurology,274,103,Academic,2008,0,Withdrawn
+NCT91576052,Phase III,Oncology,403,13,NIH,2016,0,Completed-Failed
+NCT80047063,Phase III,Neurology,19,105,Industry,2020,1,Completed-Success
+NCT77007551,Phase I,Cardiology,74,26,Industry,2021,1,Completed-Success
+NCT86107468,Phase I,Oncology,19,61,Industry,2008,1,Completed-Success
+NCT59909831,Phase III,Oncology,38,51,Industry,2013,0,Terminated
+NCT52721553,Phase III,Cardiology,339,48,Industry,2009,0,Terminated
+NCT85134271,Phase III,Neurology,49,97,Industry,2021,0,Withdrawn
+NCT98240465,Phase III,Infectious Disease,94,51,Academic,2021,1,Completed-Success
+NCT58055661,Phase III,Oncology,12,113,Industry,2006,1,Completed-Success
+NCT35554414,Phase IV,Neurology,196,53,Industry,2006,1,Completed-Success
+NCT36931806,Phase II,Cardiology,138,75,Academic,2011,1,Completed-Success
+NCT23476005,Phase II,Infectious Disease,49,89,Industry,2008,0,Terminated
+NCT54721695,Phase II,Infectious Disease,111,36,Academic,2017,1,Completed-Success
+NCT13151882,Phase I,Oncology,194,38,Academic,2015,0,Completed-Failed
+NCT42134444,Phase III,Cardiology,43,49,Academic,2007,0,Terminated
+NCT40319320,Phase II,Infectious Disease,16,76,Industry,2006,1,Completed-Success
+NCT80318880,Phase IV,Other,2226,13,Industry,2020,0,Completed-Failed
+NCT75062907,Phase III,Infectious Disease,57,78,Academic,2007,1,Completed-Success
+NCT16737320,Phase III,Infectious Disease,128,7,Academic,2019,0,Completed-Failed
+NCT45943815,Phase II,Cardiology,676,22,Industry,2021,1,Completed-Success
+NCT33773962,Phase I,Other,29542,57,Industry,2020,1,Completed-Success
+NCT60495701,Phase I,Neurology,22,50,Industry,2011,1,Completed-Success
+NCT58018519,Phase II,Infectious Disease,291,42,Industry,2020,1,Completed-Success
+NCT99859624,Phase I,Cardiology,51,47,Academic,2009,0,Completed-Failed
+NCT48836811,Phase III,Cardiology,66,49,Industry,2006,1,Completed-Success
+NCT86934008,Phase IV,Infectious Disease,50,86,Industry,2005,1,Completed-Success
+NCT46097069,Phase IV,Oncology,27,43,Academic,2017,1,Completed-Success
+NCT85142815,Phase III,Infectious Disease,139,104,Industry,2020,0,Withdrawn
+NCT88888398,Phase I,Oncology,16,116,Academic,2009,1,Completed-Success
+NCT68438965,Phase IV,Other,614,108,Academic,2007,1,Completed-Success
+NCT74274067,Phase IV,Oncology,161,99,Industry,2019,0,Withdrawn
+NCT19734816,Phase I,Other,279,11,Academic,2020,1,Completed-Success
+NCT51965471,Phase III,Infectious Disease,73,73,Academic,2015,1,Completed-Success
+NCT26052465,Phase II,Cardiology,85,56,Industry,2022,0,Terminated
+NCT69963387,Phase III,Infectious Disease,228,106,Industry,2013,1,Completed-Success
+NCT52590048,Phase IV,Oncology,25,40,Industry,2012,1,Completed-Success
+NCT86070913,Phase I,Infectious Disease,86,63,NIH,2009,0,Withdrawn
+NCT22851424,Phase IV,Oncology,40,62,Academic,2021,1,Completed-Success
+NCT42356072,Phase III,Cardiology,39,78,Industry,2009,0,Terminated
+NCT39536204,Phase IV,Infectious Disease,6,11,Academic,2018,1,Completed-Success
+NCT95936029,Phase II,Neurology,1106,18,Industry,2011,0,Completed-Failed
+NCT18388512,Phase III,Oncology,52,64,Academic,2013,1,Completed-Success
+NCT61599948,Phase I,Oncology,849,91,Academic,2021,0,Completed-Failed
+NCT79056627,Phase II,Infectious Disease,737,97,Industry,2007,1,Completed-Success
+NCT70350105,Phase I,Other,21,35,Academic,2012,0,Completed-Failed
+NCT51208934,Phase IV,Cardiology,29,105,Academic,2017,0,Completed-Failed
+NCT43138881,Phase III,Infectious Disease,6910,7,Academic,2020,1,Completed-Success
+NCT47436581,Phase IV,Infectious Disease,2051,63,Industry,2014,1,Completed-Success
+NCT31650278,Phase IV,Oncology,141,41,Academic,2022,1,Completed-Success
+NCT67376857,Phase I,Other,218,77,NIH,2007,1,Completed-Success
+NCT18439469,Phase II,Cardiology,57,50,Industry,2016,0,Completed-Failed
+NCT34455289,Phase I,Oncology,283,111,Industry,2020,1,Completed-Success
+NCT93050481,Phase I,Cardiology,50,119,Industry,2022,1,Completed-Success
+NCT48400142,Phase I,Oncology,7,14,Academic,2021,0,Completed-Failed
+NCT64332385,Phase II,Other,20,70,Academic,2011,0,Terminated
+NCT52664041,Phase II,Oncology,153,82,Industry,2012,0,Withdrawn
+NCT58243574,Phase I,Cardiology,27,55,NIH,2021,0,Terminated
+NCT70711339,Phase I,Oncology,134,84,Industry,2011,0,Withdrawn
+NCT56462256,Phase I,Cardiology,29,37,Academic,2005,0,Completed-Failed
+NCT70344167,Phase IV,Neurology,45,103,Industry,2012,1,Completed-Success
+NCT59092554,Phase III,Cardiology,533,48,Industry,2014,0,Withdrawn
+NCT91500098,Phase IV,Cardiology,215,100,Industry,2016,1,Completed-Success
+NCT11443717,Phase II,Other,146,83,Industry,2005,0,Completed-Failed
+NCT14409352,Phase II,Oncology,554,59,Academic,2008,0,Completed-Failed
+NCT98997222,Phase III,Oncology,305,52,Academic,2008,0,Withdrawn
+NCT92438366,Phase II,Oncology,1299,19,Industry,2013,1,Completed-Success
+NCT53148703,Phase II,Other,74,53,Industry,2019,0,Completed-Failed
+NCT85530792,Phase I,Infectious Disease,77,60,Industry,2019,1,Completed-Success
+NCT52307399,Phase I,Neurology,21,34,Academic,2011,1,Completed-Success
+NCT11308507,Phase II,Cardiology,77,52,Academic,2016,1,Completed-Success
+NCT97952701,Phase II,Oncology,630,68,Industry,2007,0,Completed-Failed
+NCT19331795,Phase III,Oncology,1043,24,Academic,2013,0,Completed-Failed
+NCT89491182,Phase I,Oncology,626,96,Industry,2018,1,Completed-Success
+NCT19986298,Phase I,Infectious Disease,10,14,NIH,2017,1,Completed-Success
+NCT77209598,Phase III,Oncology,753,106,NIH,2016,0,Terminated
+NCT85655174,Phase I,Oncology,9,42,Academic,2005,1,Completed-Success
+NCT29628490,Phase II,Other,570,112,NIH,2020,0,Withdrawn
+NCT95111891,Phase IV,Other,85,97,Academic,2016,0,Completed-Failed
+NCT80189955,Phase I,Oncology,425,57,Academic,2014,1,Completed-Success
+NCT26002437,Phase I,Oncology,20,62,Academic,2006,0,Withdrawn
+NCT30606265,Phase II,Oncology,859,93,Industry,2022,0,Completed-Failed
+NCT21091989,Phase II,Cardiology,16,33,Industry,2017,0,Completed-Failed
+NCT73644057,Phase III,Neurology,54,41,Industry,2010,0,Completed-Failed
+NCT62200318,Phase III,Oncology,33,69,Academic,2016,0,Terminated
+NCT89790594,Phase I,Oncology,10,23,Industry,2008,1,Completed-Success
+NCT50819838,Phase III,Neurology,171,94,Industry,2005,0,Completed-Failed
+NCT43283771,Phase II,Cardiology,2228,40,Industry,2015,1,Completed-Success
+NCT65145321,Phase I,Oncology,8105,73,Industry,2012,0,Terminated
+NCT14755469,Phase III,Cardiology,171,83,Academic,2006,1,Completed-Success
+NCT92162634,Phase II,Oncology,792,44,NIH,2006,0,Completed-Failed
+NCT36098641,Phase II,Infectious Disease,210,95,Academic,2020,1,Completed-Success
+NCT24150540,Phase I,Neurology,313,13,Academic,2005,1,Completed-Success
+NCT55221400,Phase II,Neurology,88,93,Academic,2008,1,Completed-Success
+NCT11992825,Phase II,Infectious Disease,198,85,Industry,2010,0,Completed-Failed
+NCT80941842,Phase III,Other,332,89,Industry,2018,0,Terminated
+NCT40559798,Phase I,Infectious Disease,62,20,NIH,2019,0,Completed-Failed
+NCT16152941,Phase II,Neurology,132,12,Industry,2011,1,Completed-Success
+NCT46286070,Phase II,Infectious Disease,135,22,Industry,2011,0,Completed-Failed
+NCT20556086,Phase III,Other,512,91,Academic,2022,0,Completed-Failed
+NCT63307679,Phase III,Other,29,91,Industry,2006,0,Terminated
+NCT33289643,Phase III,Oncology,137,69,Industry,2019,1,Completed-Success
+NCT99597893,Phase III,Other,2612,17,Industry,2005,0,Terminated
+NCT11940369,Phase IV,Neurology,850,87,Industry,2021,0,Completed-Failed
+NCT51681557,Phase II,Neurology,1123,61,Industry,2017,0,Completed-Failed
+NCT95103140,Phase II,Oncology,153,51,Industry,2016,0,Completed-Failed
+NCT58226615,Phase III,Neurology,240,52,Academic,2019,1,Completed-Success
+NCT35955176,Phase IV,Neurology,667,84,Academic,2009,1,Completed-Success
+NCT91718171,Phase IV,Oncology,1541,106,Industry,2011,1,Completed-Success
+NCT61721929,Phase II,Other,7,21,NIH,2012,0,Completed-Failed
+NCT17778748,Phase I,Oncology,20,74,Industry,2018,1,Completed-Success
+NCT51654364,Phase II,Oncology,1058,7,Industry,2008,1,Completed-Success
+NCT62182965,Phase III,Infectious Disease,97,97,Industry,2018,1,Completed-Success
+NCT79055694,Phase II,Cardiology,54,110,Academic,2014,1,Completed-Success
+NCT42997728,Phase II,Cardiology,22,59,Industry,2020,1,Completed-Success
+NCT87066032,Phase III,Oncology,64,32,Academic,2015,0,Withdrawn
+NCT46159646,Phase II,Other,18,36,Academic,2018,0,Terminated
+NCT51478073,Phase IV,Oncology,3417,46,Industry,2018,0,Terminated
+NCT20717207,Phase II,Oncology,143,41,Academic,2006,1,Completed-Success
+NCT92649491,Phase II,Oncology,136,52,NIH,2017,0,Completed-Failed
+NCT26169764,Phase II,Cardiology,358,48,Industry,2007,0,Terminated
+NCT19384451,Phase III,Other,628,70,Industry,2022,0,Terminated
+NCT81297755,Phase I,Cardiology,613,55,Academic,2008,1,Completed-Success
+NCT86123517,Phase I,Neurology,742,98,Academic,2020,1,Completed-Success
+NCT91173011,Phase IV,Oncology,57,6,Industry,2008,1,Completed-Success
+NCT30808635,Phase I,Infectious Disease,94,77,Industry,2019,1,Completed-Success
+NCT48049943,Phase III,Infectious Disease,470,62,Industry,2005,1,Completed-Success
+NCT61756593,Phase III,Infectious Disease,67,21,Industry,2020,1,Completed-Success
+NCT70111794,Phase II,Oncology,147,33,Industry,2019,1,Completed-Success
+NCT79472863,Phase III,Cardiology,269,91,NIH,2020,0,Terminated
+NCT14790691,Phase I,Infectious Disease,481,87,Academic,2005,1,Completed-Success
+NCT37950196,Phase III,Neurology,10,27,Industry,2021,0,Terminated
+NCT98111969,Phase II,Infectious Disease,433,46,Academic,2009,0,Terminated
+NCT86961279,Phase III,Oncology,104,81,NIH,2009,0,Terminated
+NCT63423843,Phase I,Cardiology,428,24,Industry,2011,0,Completed-Failed
+NCT27066318,Phase III,Oncology,475,94,Industry,2017,0,Terminated
+NCT60277283,Phase I,Other,1655,55,Industry,2016,0,Completed-Failed
+NCT76447109,Phase II,Cardiology,1130,64,Academic,2008,1,Completed-Success
+NCT21186361,Phase I,Oncology,1118,74,Industry,2008,0,Terminated
+NCT36256629,Phase I,Other,1294,39,NIH,2010,0,Terminated
+NCT76146940,Phase III,Infectious Disease,229,44,Industry,2019,0,Terminated
+NCT47998210,Phase II,Oncology,155,79,Industry,2010,1,Completed-Success
+NCT38175911,Phase IV,Cardiology,549,116,Industry,2016,1,Completed-Success
+NCT71688718,Phase IV,Oncology,445,12,Industry,2018,0,Completed-Failed
+NCT83195232,Phase III,Neurology,93,106,Academic,2022,0,Completed-Failed
+NCT38207970,Phase I,Neurology,272,116,NIH,2016,1,Completed-Success
+NCT21950831,Phase II,Other,140,57,Industry,2019,0,Completed-Failed
+NCT44812381,Phase III,Infectious Disease,41,65,NIH,2012,0,Terminated
+NCT42386345,Phase II,Infectious Disease,1028,57,Academic,2013,0,Withdrawn
+NCT90716715,Phase I,Neurology,161,84,Industry,2009,1,Completed-Success
+NCT21360589,Phase III,Oncology,3206,111,Academic,2009,1,Completed-Success
+NCT64181889,Phase III,Infectious Disease,12,29,Industry,2010,0,Terminated
+NCT39124900,Phase III,Infectious Disease,64,31,Academic,2007,0,Completed-Failed
+NCT55677380,Phase I,Oncology,155,95,Industry,2009,1,Completed-Success
+NCT38487589,Phase III,Infectious Disease,817,115,Academic,2005,0,Withdrawn
+NCT25648245,Phase I,Neurology,270,95,Industry,2015,1,Completed-Success
+NCT43523310,Phase I,Neurology,236,15,Academic,2005,0,Withdrawn
+NCT73640055,Phase IV,Oncology,27,22,Academic,2011,1,Completed-Success
+NCT82648934,Phase I,Oncology,26,83,Industry,2019,1,Completed-Success
+NCT76500568,Phase II,Oncology,240,7,Industry,2021,0,Completed-Failed
+NCT37364435,Phase I,Other,19,117,Industry,2012,1,Completed-Success
+NCT16491878,Phase IV,Oncology,66,82,Academic,2006,1,Completed-Success
+NCT41241029,Phase III,Cardiology,314,32,Industry,2017,1,Completed-Success
+NCT79069690,Phase III,Oncology,34,78,Academic,2016,0,Terminated
+NCT12844664,Phase III,Cardiology,1649,76,Industry,2009,0,Terminated
+NCT44932801,Phase I,Infectious Disease,930,53,Industry,2017,1,Completed-Success
+NCT71144226,Phase II,Neurology,14,79,Industry,2010,0,Terminated
+NCT12090212,Phase II,Oncology,36,14,Industry,2019,1,Completed-Success
+NCT48785284,Phase I,Cardiology,5,91,Academic,2015,1,Completed-Success
+NCT64503422,Phase II,Oncology,45,28,NIH,2008,0,Withdrawn
+NCT31320139,Phase IV,Cardiology,468,76,Industry,2005,0,Completed-Failed
+NCT35227191,Phase I,Other,79,117,Industry,2019,1,Completed-Success
+NCT14600108,Phase II,Oncology,296,78,Industry,2016,1,Completed-Success
+NCT88502806,Phase I,Neurology,15,32,Academic,2013,1,Completed-Success
+NCT79963054,Phase I,Cardiology,491,93,Industry,2015,1,Completed-Success
+NCT78393246,Phase IV,Oncology,64,98,Academic,2009,0,Terminated
+NCT84304906,Phase II,Infectious Disease,151,86,NIH,2011,1,Completed-Success
+NCT47407753,Phase II,Oncology,129,89,Industry,2012,1,Completed-Success
+NCT57230658,Phase III,Cardiology,22,76,Academic,2005,1,Completed-Success
+NCT29432053,Phase I,Neurology,26,48,Industry,2005,1,Completed-Success
+NCT68016013,Phase II,Oncology,633,109,Industry,2007,0,Terminated
+NCT88981711,Phase II,Infectious Disease,270,12,Industry,2012,0,Withdrawn
+NCT94928457,Phase III,Neurology,716,97,Industry,2015,0,Withdrawn
+NCT58436828,Phase IV,Other,241,88,Industry,2005,0,Withdrawn
+NCT66437579,Phase III,Infectious Disease,183,68,Industry,2018,0,Completed-Failed
+NCT80366045,Phase II,Other,11,89,Industry,2005,0,Terminated
+NCT99148776,Phase III,Infectious Disease,98,49,Industry,2010,1,Completed-Success
+NCT61255428,Phase I,Infectious Disease,142,44,Academic,2010,1,Completed-Success
+NCT57602635,Phase I,Neurology,2778,45,NIH,2007,1,Completed-Success
+NCT92795008,Phase I,Infectious Disease,415,12,Industry,2014,1,Completed-Success
+NCT20856760,Phase II,Infectious Disease,1486,75,Industry,2016,0,Completed-Failed
+NCT56350911,Phase II,Infectious Disease,363,30,Industry,2014,1,Completed-Success
+NCT76575221,Phase III,Neurology,51,110,NIH,2006,0,Completed-Failed
+NCT58830419,Phase IV,Neurology,176,64,Academic,2017,1,Completed-Success
+NCT28720027,Phase II,Infectious Disease,211,18,Industry,2020,1,Completed-Success
+NCT33284856,Phase II,Oncology,36,108,Industry,2017,0,Completed-Failed
+NCT60629738,Phase I,Infectious Disease,83,109,Industry,2008,1,Completed-Success
+NCT85814820,Phase I,Cardiology,109,91,Industry,2008,0,Terminated
+NCT65757486,Phase III,Oncology,1649,118,NIH,2015,0,Withdrawn
+NCT42446436,Phase II,Neurology,6,86,NIH,2018,0,Completed-Failed
+NCT19714891,Phase III,Infectious Disease,905,117,Industry,2007,0,Completed-Failed
+NCT35258148,Phase I,Oncology,36,91,Industry,2005,1,Completed-Success
+NCT12320688,Phase I,Oncology,18,103,Industry,2009,1,Completed-Success
+NCT11805808,Phase II,Oncology,871,67,Industry,2021,0,Terminated
+NCT86818039,Phase I,Other,444,13,NIH,2005,0,Terminated
+NCT48090551,Phase I,Oncology,974,118,Industry,2008,1,Completed-Success
+NCT97901550,Phase III,Oncology,493,50,Industry,2010,0,Withdrawn
+NCT88774891,Phase I,Infectious Disease,3260,23,Industry,2019,0,Completed-Failed
+NCT47176570,Phase III,Oncology,343,93,Academic,2008,0,Completed-Failed
+NCT88037948,Phase II,Oncology,117,65,Academic,2005,1,Completed-Success
+NCT22617619,Phase I,Oncology,248,65,Industry,2021,1,Completed-Success
+NCT94823921,Phase II,Infectious Disease,958,111,Industry,2015,0,Completed-Failed
+NCT87064525,Phase III,Cardiology,46,7,Industry,2021,1,Completed-Success
+NCT63175588,Phase II,Infectious Disease,55,71,NIH,2005,0,Completed-Failed
+NCT97818521,Phase III,Infectious Disease,93,96,Industry,2013,1,Completed-Success
+NCT44761500,Phase I,Other,6,19,Industry,2018,1,Completed-Success
+NCT74437248,Phase III,Infectious Disease,182,53,Industry,2019,0,Completed-Failed
+NCT35560098,Phase I,Oncology,8,108,Academic,2005,1,Completed-Success
+NCT73131845,Phase III,Oncology,160,61,Industry,2006,0,Completed-Failed
+NCT25702852,Phase III,Infectious Disease,543,17,Industry,2022,1,Completed-Success
+NCT51055392,Phase IV,Neurology,72,101,Academic,2022,1,Completed-Success
+NCT41073264,Phase II,Oncology,1836,97,Academic,2010,1,Completed-Success
+NCT54336333,Phase I,Cardiology,16,60,Academic,2012,1,Completed-Success
+NCT13040267,Phase I,Oncology,886,33,NIH,2005,1,Completed-Success
+NCT86794548,Phase III,Infectious Disease,408,115,Industry,2019,0,Completed-Failed
+NCT57876337,Phase II,Neurology,11,94,Industry,2014,0,Completed-Failed
+NCT31217066,Phase III,Oncology,8657,9,NIH,2008,0,Withdrawn
+NCT84645629,Phase I,Cardiology,134,95,Industry,2014,1,Completed-Success
+NCT71468641,Phase II,Oncology,39,41,Academic,2015,0,Completed-Failed
+NCT55658328,Phase I,Neurology,17,55,Academic,2009,0,Completed-Failed
+NCT70644657,Phase IV,Oncology,106,8,Industry,2013,0,Withdrawn
+NCT28673436,Phase III,Neurology,122,6,Industry,2009,0,Terminated
+NCT85643942,Phase IV,Oncology,173,22,Academic,2015,1,Completed-Success
+NCT84044638,Phase II,Other,94,76,Academic,2007,0,Terminated
+NCT28144439,Phase III,Infectious Disease,383,67,Academic,2008,0,Terminated
+NCT76984430,Phase III,Cardiology,82,53,Industry,2014,0,Terminated
+NCT96314161,Phase II,Oncology,8,67,Industry,2011,0,Withdrawn
+NCT55587883,Phase III,Other,118,74,Industry,2005,1,Completed-Success
+NCT14273445,Phase IV,Oncology,5,24,Industry,2010,1,Completed-Success
+NCT72926675,Phase IV,Oncology,252,108,Industry,2012,1,Completed-Success
+NCT13184790,Phase III,Infectious Disease,34,115,NIH,2021,0,Terminated
+NCT43134205,Phase II,Oncology,189,39,Academic,2011,1,Completed-Success
+NCT89638835,Phase II,Oncology,1065,104,Academic,2005,0,Withdrawn
+NCT83790799,Phase IV,Other,35,54,Industry,2013,0,Completed-Failed
+NCT19963441,Phase I,Other,729,85,Industry,2015,0,Completed-Failed
+NCT71647593,Phase III,Infectious Disease,77,109,NIH,2006,1,Completed-Success
+NCT70769147,Phase III,Other,2058,119,Industry,2015,1,Completed-Success
+NCT83798006,Phase III,Infectious Disease,85,52,Industry,2007,0,Withdrawn
+NCT36336263,Phase IV,Oncology,42,108,Industry,2021,1,Completed-Success
+NCT14990961,Phase II,Cardiology,416,96,NIH,2014,0,Completed-Failed
+NCT13646804,Phase II,Cardiology,77,110,NIH,2007,0,Withdrawn
+NCT10647296,Phase I,Other,42,107,Industry,2007,1,Completed-Success
+NCT61880950,Phase II,Oncology,72,119,NIH,2011,1,Completed-Success
+NCT80231815,Phase II,Cardiology,138,55,Industry,2006,0,Completed-Failed
+NCT36844511,Phase II,Oncology,1111,94,Industry,2005,1,Completed-Success
+NCT77908965,Phase III,Oncology,8,31,Academic,2011,0,Completed-Failed
+NCT99763925,Phase IV,Oncology,153,61,NIH,2015,1,Completed-Success
+NCT32791342,Phase I,Other,378,83,Academic,2010,0,Withdrawn
+NCT32015777,Phase II,Neurology,198,19,Academic,2008,0,Completed-Failed
+NCT33116992,Phase IV,Neurology,1058,83,Academic,2018,0,Withdrawn
+NCT52439798,Phase I,Infectious Disease,132,30,Academic,2007,0,Withdrawn
+NCT40555353,Phase I,Oncology,112,105,NIH,2008,1,Completed-Success
+NCT85230621,Phase I,Oncology,360,9,Academic,2012,1,Completed-Success
+NCT88929433,Phase III,Oncology,172,116,NIH,2022,0,Withdrawn
+NCT99588014,Phase I,Infectious Disease,82,84,NIH,2008,0,Terminated
+NCT44831079,Phase IV,Neurology,321,37,Industry,2015,1,Completed-Success
+NCT89540080,Phase II,Infectious Disease,55,87,Academic,2020,0,Terminated
+NCT93149786,Phase II,Oncology,59,83,Industry,2007,1,Completed-Success
+NCT71247832,Phase I,Oncology,67,70,Industry,2011,1,Completed-Success
+NCT18704813,Phase II,Oncology,1129,111,Academic,2006,1,Completed-Success
+NCT63376963,Phase III,Infectious Disease,5,66,Industry,2005,1,Completed-Success
+NCT97030560,Phase III,Other,268,25,Industry,2005,1,Completed-Success
+NCT39461504,Phase III,Cardiology,156,79,NIH,2010,1,Completed-Success
+NCT24497054,Phase III,Neurology,11,15,Industry,2011,0,Withdrawn
+NCT21319247,Phase IV,Infectious Disease,236,93,Industry,2009,0,Terminated
+NCT71585037,Phase III,Infectious Disease,302,39,NIH,2022,0,Terminated
+NCT91022004,Phase III,Oncology,359,66,Industry,2017,0,Withdrawn
+NCT56048559,Phase I,Other,5,97,Industry,2005,1,Completed-Success
+NCT73072616,Phase I,Neurology,1152,32,Industry,2014,0,Terminated
+NCT65160409,Phase I,Oncology,49,45,Industry,2013,0,Withdrawn
+NCT30717501,Phase III,Infectious Disease,415,70,Academic,2021,1,Completed-Success
+NCT16851803,Phase II,Infectious Disease,451,38,Academic,2005,0,Completed-Failed
+NCT23045697,Phase II,Cardiology,39,73,Industry,2005,1,Completed-Success
+NCT58120511,Phase IV,Other,399,76,Academic,2011,0,Completed-Failed
+NCT82851397,Phase IV,Cardiology,83,14,Industry,2008,1,Completed-Success
+NCT34101438,Phase IV,Infectious Disease,6,21,Industry,2016,1,Completed-Success
+NCT46181576,Phase II,Oncology,855,10,Academic,2020,0,Completed-Failed
+NCT12825896,Phase III,Oncology,46,103,Academic,2018,0,Completed-Failed
+NCT20427148,Phase II,Oncology,41,28,Academic,2014,0,Terminated
+NCT14876872,Phase I,Oncology,81,48,Industry,2018,1,Completed-Success
+NCT29397196,Phase I,Neurology,223,119,Industry,2011,1,Completed-Success
+NCT41935646,Phase II,Cardiology,136,94,Industry,2008,0,Completed-Failed
+NCT94607464,Phase II,Oncology,337,62,Industry,2006,0,Withdrawn
+NCT75969098,Phase III,Neurology,19,56,Academic,2022,0,Completed-Failed
+NCT25099203,Phase I,Oncology,48,18,Industry,2020,0,Completed-Failed
+NCT75244261,Phase III,Oncology,124,29,Academic,2013,0,Completed-Failed
+NCT72419437,Phase II,Oncology,2557,16,Industry,2009,0,Terminated
+NCT93428995,Phase II,Infectious Disease,125,57,Industry,2013,0,Completed-Failed
+NCT58719461,Phase II,Oncology,755,22,Industry,2012,1,Completed-Success
+NCT12887698,Phase II,Infectious Disease,157,42,Industry,2020,1,Completed-Success
+NCT62764241,Phase III,Infectious Disease,71,18,NIH,2022,0,Completed-Failed
+NCT22417420,Phase II,Other,102,67,Industry,2008,0,Terminated
+NCT81140328,Phase I,Oncology,115,96,Industry,2020,0,Completed-Failed
+NCT30167958,Phase I,Oncology,367,89,Academic,2008,1,Completed-Success
+NCT32910282,Phase II,Oncology,1166,102,Academic,2010,0,Completed-Failed
+NCT12887296,Phase IV,Cardiology,254,111,Industry,2007,1,Completed-Success
+NCT77084285,Phase II,Oncology,880,101,Industry,2022,0,Terminated
+NCT66861493,Phase III,Neurology,34,13,Academic,2019,1,Completed-Success
+NCT34733272,Phase III,Infectious Disease,79,61,NIH,2012,0,Completed-Failed
+NCT78209364,Phase IV,Infectious Disease,50,98,NIH,2022,0,Completed-Failed
+NCT61908238,Phase III,Cardiology,237,109,Industry,2007,1,Completed-Success
+NCT32371392,Phase III,Oncology,86,88,NIH,2010,0,Completed-Failed
+NCT79070841,Phase III,Oncology,443,75,Industry,2019,0,Completed-Failed
+NCT14032654,Phase IV,Oncology,36,49,Industry,2016,1,Completed-Success
+NCT44218900,Phase II,Cardiology,158,65,Academic,2009,0,Terminated
+NCT33277458,Phase II,Oncology,415,108,Industry,2011,0,Completed-Failed
+NCT68231611,Phase I,Oncology,6,117,Industry,2019,1,Completed-Success
+NCT84087004,Phase III,Other,3577,46,Industry,2011,0,Withdrawn
+NCT58076248,Phase III,Oncology,97,26,Industry,2017,1,Completed-Success
+NCT21748768,Phase I,Neurology,7,91,Academic,2007,1,Completed-Success
+NCT90720176,Phase III,Neurology,188,47,Academic,2017,0,Withdrawn
+NCT72005983,Phase II,Oncology,156,79,Industry,2007,1,Completed-Success
+NCT39718818,Phase I,Oncology,131,79,Industry,2006,1,Completed-Success
+NCT46591531,Phase IV,Oncology,656,34,NIH,2008,1,Completed-Success
+NCT72994533,Phase I,Cardiology,455,85,Academic,2021,1,Completed-Success
+NCT55938649,Phase I,Cardiology,232,70,Industry,2010,1,Completed-Success
+NCT51655138,Phase III,Neurology,291,22,NIH,2015,0,Completed-Failed
+NCT62374471,Phase III,Other,126,35,Academic,2010,0,Withdrawn
+NCT61379821,Phase I,Cardiology,2128,31,Industry,2006,1,Completed-Success
+NCT85488205,Phase III,Oncology,16,58,Industry,2021,1,Completed-Success
+NCT50133569,Phase II,Oncology,182,115,Industry,2007,0,Completed-Failed
+NCT11912584,Phase I,Neurology,163,24,Academic,2016,1,Completed-Success
+NCT30554754,Phase I,Oncology,502,58,Industry,2018,1,Completed-Success
+NCT57732820,Phase III,Oncology,41,90,Industry,2006,0,Completed-Failed
+NCT94111129,Phase II,Cardiology,10,22,Industry,2009,0,Completed-Failed
+NCT70037447,Phase IV,Infectious Disease,187,51,NIH,2014,0,Completed-Failed
+NCT91955631,Phase III,Other,226,109,Industry,2014,0,Terminated
+NCT24677441,Phase IV,Cardiology,1386,90,NIH,2013,1,Completed-Success
+NCT54804549,Phase II,Oncology,22,58,NIH,2017,0,Completed-Failed
+NCT44301851,Phase IV,Other,838,110,Industry,2014,1,Completed-Success
+NCT15438684,Phase II,Oncology,5172,109,Industry,2010,0,Terminated
+NCT75147544,Phase II,Oncology,84,69,Industry,2015,1,Completed-Success
+NCT32315019,Phase I,Infectious Disease,21,50,NIH,2008,1,Completed-Success
+NCT85902244,Phase I,Oncology,80,54,Industry,2018,1,Completed-Success
+NCT20104107,Phase III,Infectious Disease,151,24,Industry,2021,0,Terminated
+NCT44125539,Phase II,Oncology,345,76,Industry,2006,0,Completed-Failed
+NCT70795662,Phase I,Infectious Disease,61,86,Industry,2014,1,Completed-Success
+NCT93173418,Phase III,Infectious Disease,1529,70,NIH,2007,1,Completed-Success
+NCT73923119,Phase II,Neurology,27,42,Academic,2011,0,Terminated
+NCT88014806,Phase III,Neurology,10,75,NIH,2011,1,Completed-Success
+NCT12086213,Phase II,Oncology,780,31,Industry,2005,0,Withdrawn
+NCT87411194,Phase III,Infectious Disease,5,7,Industry,2012,0,Completed-Failed
+NCT88308332,Phase III,Infectious Disease,109,64,NIH,2005,0,Completed-Failed
+NCT52491924,Phase II,Oncology,15938,101,Industry,2012,0,Completed-Failed
+NCT45553686,Phase II,Neurology,145,117,NIH,2018,0,Completed-Failed
+NCT42482294,Phase II,Cardiology,27,10,Industry,2018,0,Completed-Failed
+NCT47710964,Phase III,Oncology,136,42,Industry,2006,1,Completed-Success
+NCT83701774,Phase II,Infectious Disease,137,36,Academic,2012,1,Completed-Success
+NCT99268938,Phase I,Oncology,188,81,NIH,2014,1,Completed-Success
+NCT31794866,Phase I,Cardiology,400,104,NIH,2011,1,Completed-Success
+NCT51464131,Phase II,Oncology,31,99,Industry,2017,1,Completed-Success
+NCT54810380,Phase II,Other,1865,53,Industry,2019,1,Completed-Success
+NCT43812949,Phase III,Neurology,214,11,Academic,2015,0,Completed-Failed
+NCT40315282,Phase I,Infectious Disease,441,20,Academic,2018,0,Terminated
+NCT42945953,Phase II,Cardiology,57,20,Academic,2015,0,Terminated
+NCT53300173,Phase III,Other,1022,66,Industry,2006,0,Terminated
+NCT83537404,Phase III,Cardiology,100,21,NIH,2006,0,Completed-Failed
+NCT39105135,Phase II,Oncology,225,25,Academic,2016,1,Completed-Success
+NCT25560243,Phase II,Infectious Disease,36,82,Academic,2019,1,Completed-Success
+NCT69468269,Phase II,Neurology,33,49,Industry,2021,1,Completed-Success
+NCT14338843,Phase IV,Cardiology,416,47,Industry,2018,1,Completed-Success
+NCT43978658,Phase I,Cardiology,76,51,NIH,2020,0,Completed-Failed
+NCT89165063,Phase IV,Neurology,41,100,Academic,2012,1,Completed-Success
+NCT81226787,Phase III,Other,56,39,NIH,2021,0,Completed-Failed
+NCT44253388,Phase II,Other,423,69,NIH,2009,0,Completed-Failed
+NCT41349379,Phase I,Oncology,57,34,Academic,2016,1,Completed-Success
+NCT55844569,Phase II,Infectious Disease,124,8,Industry,2010,1,Completed-Success
+NCT77284075,Phase II,Neurology,151,14,Industry,2022,0,Withdrawn
+NCT89590438,Phase I,Neurology,8,80,Industry,2009,0,Completed-Failed
+NCT70251070,Phase III,Cardiology,16,80,Industry,2010,0,Completed-Failed
+NCT66379703,Phase IV,Oncology,245,30,Industry,2013,1,Completed-Success
+NCT62215024,Phase III,Neurology,49,91,Industry,2019,1,Completed-Success
+NCT30668329,Phase III,Cardiology,724,47,Industry,2014,0,Completed-Failed
+NCT38186921,Phase I,Oncology,632,51,Industry,2021,1,Completed-Success
+NCT59402807,Phase II,Infectious Disease,436,78,Industry,2016,1,Completed-Success
+NCT88500947,Phase I,Oncology,2274,89,Industry,2013,1,Completed-Success
+NCT73546819,Phase III,Oncology,131,64,Industry,2019,0,Terminated
+NCT23952821,Phase IV,Oncology,392,26,Academic,2018,1,Completed-Success
+NCT91503616,Phase III,Infectious Disease,61,79,Industry,2005,1,Completed-Success
+NCT62237687,Phase I,Infectious Disease,5875,27,Industry,2021,1,Completed-Success
+NCT45009897,Phase II,Cardiology,2908,34,Academic,2005,0,Terminated
+NCT89690286,Phase III,Cardiology,151,68,Academic,2017,0,Completed-Failed
+NCT69714426,Phase II,Neurology,265,78,Industry,2012,0,Completed-Failed
+NCT21098252,Phase III,Oncology,1140,66,Academic,2017,0,Completed-Failed
+NCT43766262,Phase III,Oncology,119,69,NIH,2020,1,Completed-Success
+NCT65771029,Phase III,Neurology,55,74,Academic,2006,1,Completed-Success
+NCT38728437,Phase II,Oncology,550,45,Industry,2017,0,Terminated
+NCT75176852,Phase II,Other,166,80,Academic,2022,1,Completed-Success
+NCT49541461,Phase I,Neurology,195,6,Industry,2007,1,Completed-Success
+NCT50071048,Phase II,Infectious Disease,42,111,Academic,2017,0,Withdrawn
+NCT63660697,Phase II,Other,11,70,NIH,2017,0,Terminated
+NCT84006537,Phase III,Oncology,211,67,Industry,2008,0,Terminated
+NCT89557591,Phase III,Oncology,576,59,NIH,2022,1,Completed-Success
+NCT30523385,Phase I,Cardiology,105,108,Industry,2010,1,Completed-Success
+NCT83111160,Phase II,Infectious Disease,1280,65,NIH,2008,0,Completed-Failed
+NCT95661847,Phase I,Other,51,51,Academic,2008,0,Completed-Failed
+NCT51538255,Phase I,Oncology,30,10,Industry,2011,0,Terminated
+NCT87827225,Phase III,Infectious Disease,134,118,Academic,2011,1,Completed-Success
+NCT34245082,Phase I,Cardiology,131,27,Industry,2020,1,Completed-Success
+NCT99380419,Phase II,Cardiology,471,95,Industry,2020,1,Completed-Success
+NCT66728215,Phase I,Oncology,46,58,Academic,2009,1,Completed-Success
+NCT53440658,Phase IV,Infectious Disease,1155,75,Industry,2019,1,Completed-Success
+NCT41886947,Phase III,Neurology,2836,37,Academic,2008,1,Completed-Success
+NCT85111483,Phase I,Oncology,139,117,Industry,2017,0,Completed-Failed
+NCT75174694,Phase II,Neurology,967,16,Industry,2011,1,Completed-Success
+NCT58532681,Phase III,Cardiology,30,15,NIH,2016,0,Withdrawn
+NCT17667857,Phase IV,Neurology,744,116,Industry,2013,0,Completed-Failed
+NCT81537554,Phase I,Cardiology,714,44,Academic,2021,0,Completed-Failed
+NCT71279200,Phase IV,Oncology,541,103,Academic,2006,1,Completed-Success
+NCT85998646,Phase IV,Cardiology,144,36,Academic,2020,1,Completed-Success
+NCT60526894,Phase IV,Neurology,5,17,NIH,2011,0,Terminated
+NCT80805040,Phase III,Infectious Disease,56,113,Academic,2022,0,Completed-Failed
+NCT87840866,Phase III,Other,58,85,Industry,2011,1,Completed-Success
+NCT91806561,Phase II,Infectious Disease,34,43,NIH,2005,0,Completed-Failed
+NCT27789600,Phase III,Oncology,178,72,Industry,2007,0,Completed-Failed
+NCT27644180,Phase II,Infectious Disease,79,71,Industry,2015,1,Completed-Success
+NCT18437712,Phase III,Other,43,57,NIH,2019,0,Terminated
+NCT82892046,Phase II,Oncology,30,10,Academic,2007,1,Completed-Success
+NCT59375650,Phase III,Neurology,50,16,Academic,2017,0,Completed-Failed
+NCT67312219,Phase III,Other,798,30,Academic,2008,0,Completed-Failed
+NCT90256454,Phase I,Infectious Disease,55,40,Academic,2012,1,Completed-Success
+NCT76346143,Phase III,Oncology,68,40,NIH,2008,0,Terminated
+NCT65666186,Phase II,Cardiology,74,27,Industry,2022,1,Completed-Success
+NCT66681097,Phase III,Oncology,246,42,Industry,2011,1,Completed-Success
+NCT39565896,Phase II,Neurology,294,91,Industry,2015,0,Completed-Failed
+NCT78315725,Phase II,Infectious Disease,5,60,Academic,2008,0,Withdrawn
+NCT40131276,Phase IV,Infectious Disease,687,80,Industry,2017,1,Completed-Success
+NCT13119612,Phase II,Neurology,1279,101,Industry,2013,1,Completed-Success
+NCT82045464,Phase III,Infectious Disease,30,104,Industry,2013,1,Completed-Success
+NCT91756929,Phase II,Infectious Disease,34,100,NIH,2007,1,Completed-Success
+NCT59133346,Phase II,Infectious Disease,75,114,Academic,2016,1,Completed-Success
+NCT24160134,Phase II,Infectious Disease,47,77,Industry,2015,0,Completed-Failed
+NCT42833108,Phase III,Infectious Disease,207,69,Industry,2015,0,Terminated
+NCT94143761,Phase II,Neurology,8,25,Industry,2021,1,Completed-Success
+NCT32406697,Phase I,Infectious Disease,27,111,Industry,2018,1,Completed-Success
+NCT45609212,Phase II,Infectious Disease,1493,103,Industry,2020,1,Completed-Success
+NCT34768424,Phase I,Cardiology,36,9,NIH,2014,0,Completed-Failed
+NCT31200624,Phase IV,Oncology,958,23,NIH,2008,0,Terminated
+NCT77951050,Phase IV,Oncology,252,56,Industry,2014,0,Terminated
+NCT24578363,Phase II,Other,9,73,Industry,2016,1,Completed-Success
+NCT36659117,Phase III,Cardiology,384,25,Industry,2013,1,Completed-Success
+NCT54494354,Phase II,Cardiology,124,14,Industry,2019,0,Withdrawn
+NCT50670787,Phase III,Cardiology,74,85,Industry,2013,0,Completed-Failed
+NCT34003801,Phase III,Oncology,214,31,Industry,2011,0,Completed-Failed
+NCT78233769,Phase IV,Cardiology,302,107,Industry,2016,0,Terminated
+NCT82668141,Phase II,Infectious Disease,428,30,Academic,2018,0,Completed-Failed
+NCT73975459,Phase III,Infectious Disease,869,73,Academic,2020,0,Completed-Failed
+NCT97144164,Phase II,Infectious Disease,273,46,Academic,2007,0,Withdrawn
+NCT92424160,Phase IV,Oncology,18,64,Industry,2015,0,Completed-Failed
+NCT18593059,Phase I,Oncology,72,50,NIH,2012,1,Completed-Success
+NCT28757506,Phase III,Other,12265,46,NIH,2012,0,Withdrawn
+NCT56692999,Phase III,Infectious Disease,439,43,Industry,2007,0,Completed-Failed
+NCT43957754,Phase III,Infectious Disease,5187,24,Industry,2014,1,Completed-Success
+NCT58302504,Phase I,Oncology,1203,19,Industry,2017,1,Completed-Success
+NCT39737667,Phase IV,Oncology,213,26,Industry,2013,1,Completed-Success
+NCT31088012,Phase I,Cardiology,233,20,Industry,2010,0,Terminated
+NCT91861168,Phase III,Infectious Disease,140,8,Academic,2019,0,Terminated
+NCT93163963,Phase I,Infectious Disease,10,42,Industry,2020,1,Completed-Success
+NCT31958273,Phase II,Oncology,152,119,Industry,2009,1,Completed-Success
+NCT67349051,Phase II,Neurology,912,51,Industry,2017,0,Completed-Failed
+NCT92061828,Phase II,Oncology,60,21,NIH,2006,1,Completed-Success
+NCT41918507,Phase I,Oncology,275,19,Industry,2010,1,Completed-Success
+NCT74261658,Phase I,Infectious Disease,532,14,Academic,2005,1,Completed-Success
+NCT75147039,Phase II,Oncology,37,116,Industry,2019,1,Completed-Success
+NCT47632148,Phase III,Oncology,75,12,Industry,2019,0,Withdrawn
+NCT31814501,Phase IV,Cardiology,32,19,Academic,2018,1,Completed-Success
+NCT17334901,Phase I,Cardiology,43,11,Industry,2011,1,Completed-Success
+NCT61879723,Phase II,Neurology,21,90,Industry,2009,1,Completed-Success
+NCT60825596,Phase I,Infectious Disease,38,20,Industry,2020,0,Completed-Failed
+NCT93144761,Phase I,Oncology,1247,57,Academic,2021,1,Completed-Success
+NCT98055042,Phase III,Oncology,37,77,Academic,2015,0,Withdrawn
+NCT22132693,Phase III,Other,179,39,Industry,2019,0,Terminated
+NCT66852293,Phase I,Cardiology,69,109,Academic,2020,1,Completed-Success
+NCT24931115,Phase I,Cardiology,869,6,Industry,2007,1,Completed-Success
+NCT34005377,Phase I,Oncology,1060,101,Academic,2010,1,Completed-Success
+NCT92438757,Phase III,Infectious Disease,542,118,Industry,2017,0,Completed-Failed
+NCT61112289,Phase IV,Oncology,234,74,Academic,2005,1,Completed-Success
+NCT48020566,Phase I,Cardiology,104,99,NIH,2018,1,Completed-Success
+NCT87202069,Phase I,Other,24,91,NIH,2006,1,Completed-Success
+NCT96437411,Phase IV,Other,2738,25,Industry,2006,1,Completed-Success
+NCT91831756,Phase IV,Infectious Disease,47,85,NIH,2019,1,Completed-Success
+NCT52778076,Phase II,Infectious Disease,401,12,Industry,2022,1,Completed-Success
+NCT20758430,Phase I,Other,727,12,NIH,2013,1,Completed-Success
+NCT30778286,Phase I,Cardiology,64,55,Industry,2007,0,Withdrawn
+NCT67697272,Phase III,Oncology,704,119,Industry,2008,0,Completed-Failed
+NCT71108534,Phase II,Infectious Disease,466,7,Industry,2019,0,Terminated
+NCT29661007,Phase I,Oncology,1982,52,Industry,2009,1,Completed-Success
+NCT23863529,Phase III,Infectious Disease,73,19,Academic,2009,1,Completed-Success
+NCT22569021,Phase I,Infectious Disease,21,36,NIH,2014,1,Completed-Success
+NCT80605469,Phase III,Cardiology,69,55,Academic,2020,0,Completed-Failed
+NCT65280248,Phase II,Infectious Disease,203,66,Academic,2016,1,Completed-Success
+NCT49970870,Phase I,Oncology,161,46,Academic,2018,0,Withdrawn
+NCT36471311,Phase III,Infectious Disease,82,19,Industry,2015,1,Completed-Success
+NCT15311499,Phase II,Neurology,8,10,Industry,2010,0,Terminated
+NCT26413328,Phase IV,Cardiology,300,80,Industry,2014,1,Completed-Success
+NCT94194703,Phase II,Oncology,2859,109,Industry,2007,1,Completed-Success
+NCT47201803,Phase II,Other,297,10,Industry,2019,0,Completed-Failed
+NCT63628551,Phase III,Other,370,69,Industry,2015,0,Terminated
+NCT70988371,Phase II,Oncology,350,34,Industry,2006,1,Completed-Success
+NCT36356226,Phase IV,Oncology,269,80,Industry,2010,0,Completed-Failed
+NCT99884303,Phase II,Neurology,600,10,NIH,2021,0,Completed-Failed
+NCT42325149,Phase II,Neurology,268,118,Industry,2022,0,Completed-Failed
+NCT78255980,Phase I,Other,92,101,Industry,2008,1,Completed-Success
+NCT33255666,Phase II,Other,44,41,Academic,2013,0,Completed-Failed
+NCT96012533,Phase III,Cardiology,102,84,Industry,2014,0,Completed-Failed
+NCT89157203,Phase III,Infectious Disease,237,24,Industry,2006,0,Completed-Failed
+NCT99124711,Phase I,Oncology,92,69,Industry,2015,1,Completed-Success
+NCT89885559,Phase I,Oncology,237,27,Industry,2015,1,Completed-Success
+NCT47396843,Phase III,Infectious Disease,286,39,Industry,2015,1,Completed-Success
+NCT75749277,Phase IV,Cardiology,517,61,Industry,2005,1,Completed-Success
+NCT40267797,Phase I,Cardiology,1016,22,Academic,2018,1,Completed-Success
+NCT38570055,Phase II,Neurology,166,81,Academic,2005,0,Completed-Failed
+NCT32636262,Phase II,Oncology,20,94,Industry,2013,0,Completed-Failed
+NCT99920287,Phase IV,Cardiology,88,61,Industry,2005,0,Completed-Failed
+NCT21654304,Phase I,Oncology,158,22,Industry,2008,0,Terminated
+NCT73292404,Phase I,Infectious Disease,9,79,Academic,2005,1,Completed-Success
+NCT68272527,Phase III,Neurology,1191,97,Industry,2014,0,Terminated
+NCT39370827,Phase I,Cardiology,183,87,Academic,2019,1,Completed-Success
+NCT13341861,Phase II,Other,262,23,Academic,2008,1,Completed-Success
+NCT23116915,Phase II,Oncology,1150,50,Industry,2018,0,Completed-Failed
+NCT12615804,Phase II,Infectious Disease,57,101,Industry,2009,0,Withdrawn
+NCT31089933,Phase II,Oncology,351,83,Industry,2019,0,Terminated
+NCT46968086,Phase II,Infectious Disease,125,61,Industry,2019,1,Completed-Success
+NCT66318065,Phase I,Neurology,112,85,Industry,2020,1,Completed-Success
+NCT80379073,Phase III,Cardiology,46,55,Industry,2020,0,Terminated
+NCT35381224,Phase III,Other,1805,63,Industry,2008,0,Completed-Failed
+NCT21045633,Phase III,Oncology,84,23,Industry,2013,1,Completed-Success
+NCT97210744,Phase I,Other,423,85,Academic,2005,1,Completed-Success
+NCT51765312,Phase I,Oncology,8,86,Industry,2009,0,Completed-Failed
+NCT64915906,Phase II,Other,871,12,NIH,2013,0,Withdrawn
+NCT51672086,Phase II,Oncology,719,81,NIH,2009,0,Terminated
+NCT30989593,Phase II,Oncology,171,103,NIH,2008,1,Completed-Success
+NCT39396163,Phase III,Infectious Disease,105,15,Academic,2020,1,Completed-Success
+NCT77342646,Phase I,Other,270,74,Industry,2006,0,Completed-Failed
+NCT33683333,Phase I,Oncology,4597,90,Industry,2020,1,Completed-Success
+NCT66444322,Phase II,Infectious Disease,10,8,Academic,2022,0,Completed-Failed
+NCT31586325,Phase III,Neurology,479,88,Academic,2006,0,Terminated
+NCT61914894,Phase I,Infectious Disease,37,114,Academic,2020,1,Completed-Success
+NCT27503547,Phase III,Oncology,144,49,NIH,2005,0,Terminated
+NCT42963684,Phase II,Infectious Disease,102,104,Industry,2020,0,Withdrawn
+NCT78903155,Phase IV,Infectious Disease,78,75,Industry,2007,1,Completed-Success
+NCT14952075,Phase IV,Other,146,19,Industry,2019,1,Completed-Success
+NCT46432549,Phase II,Neurology,27,9,Industry,2015,0,Completed-Failed
+NCT31258833,Phase I,Infectious Disease,694,114,Industry,2014,1,Completed-Success
+NCT22670380,Phase II,Other,10,23,Academic,2021,0,Completed-Failed
+NCT34151842,Phase I,Infectious Disease,333,98,Academic,2008,0,Completed-Failed
+NCT87540509,Phase III,Oncology,90,104,Industry,2021,0,Completed-Failed
+NCT22774615,Phase III,Oncology,25,57,NIH,2008,0,Completed-Failed
+NCT15287913,Phase III,Infectious Disease,201,43,Academic,2005,0,Withdrawn
+NCT21476429,Phase III,Oncology,14,85,Academic,2018,0,Completed-Failed
+NCT79913666,Phase II,Other,157,25,Industry,2015,1,Completed-Success
+NCT47711695,Phase I,Neurology,17,93,NIH,2011,0,Terminated
+NCT36779149,Phase III,Oncology,296,104,Academic,2021,0,Completed-Failed
+NCT89110216,Phase II,Cardiology,37,49,Industry,2008,0,Completed-Failed
+NCT53069838,Phase III,Cardiology,75,56,Industry,2014,1,Completed-Success
+NCT84193473,Phase II,Other,230,24,NIH,2021,0,Completed-Failed
+NCT42002177,Phase I,Other,46,73,Industry,2008,0,Completed-Failed
+NCT30892578,Phase IV,Infectious Disease,136,102,Industry,2022,1,Completed-Success
+NCT20091985,Phase I,Neurology,15,71,Industry,2021,0,Terminated
+NCT95138637,Phase IV,Cardiology,382,18,Academic,2010,1,Completed-Success
+NCT39464339,Phase IV,Cardiology,2095,67,Academic,2011,1,Completed-Success
+NCT55275089,Phase III,Oncology,9782,66,Industry,2010,1,Completed-Success
+NCT78599551,Phase III,Oncology,170,114,Industry,2016,0,Completed-Failed
+NCT52866200,Phase III,Infectious Disease,484,35,NIH,2013,0,Completed-Failed
+NCT64388673,Phase IV,Oncology,10,103,Academic,2022,1,Completed-Success
+NCT42318232,Phase II,Oncology,1413,35,NIH,2006,0,Completed-Failed
+NCT55545724,Phase II,Cardiology,475,56,Industry,2021,1,Completed-Success
+NCT88445365,Phase III,Oncology,71,93,Industry,2005,0,Completed-Failed
+NCT15272864,Phase II,Cardiology,949,53,Industry,2013,1,Completed-Success
+NCT80897827,Phase II,Infectious Disease,101,113,Academic,2010,1,Completed-Success
+NCT64206558,Phase II,Other,74,38,Industry,2006,0,Terminated
+NCT88649101,Phase III,Infectious Disease,302,110,Industry,2010,0,Completed-Failed
+NCT70980032,Phase IV,Oncology,30,118,Industry,2013,0,Terminated
+NCT63699693,Phase I,Cardiology,687,79,Industry,2007,1,Completed-Success
+NCT73607605,Phase IV,Neurology,30,87,Academic,2020,0,Terminated
+NCT82294637,Phase III,Other,30,24,Industry,2019,1,Completed-Success
+NCT89837564,Phase III,Infectious Disease,37,76,Academic,2016,0,Completed-Failed
+NCT31609907,Phase III,Oncology,463,62,NIH,2012,1,Completed-Success
+NCT21021186,Phase III,Other,58,24,Industry,2010,0,Completed-Failed
+NCT75702370,Phase I,Oncology,19,93,Academic,2007,1,Completed-Success
+NCT64549381,Phase III,Cardiology,59,84,NIH,2008,1,Completed-Success
+NCT53193996,Phase I,Infectious Disease,141,46,NIH,2014,0,Terminated
+NCT34362375,Phase IV,Oncology,25,47,Industry,2018,1,Completed-Success
+NCT50733588,Phase IV,Oncology,26,92,Industry,2019,1,Completed-Success
+NCT36231747,Phase II,Oncology,3522,57,Industry,2011,0,Terminated
+NCT53663896,Phase I,Cardiology,40,9,Academic,2011,1,Completed-Success
+NCT69276366,Phase III,Other,91,107,Academic,2012,0,Completed-Failed
+NCT85013292,Phase II,Oncology,85,9,Academic,2014,0,Completed-Failed
+NCT88510011,Phase IV,Neurology,78,10,Industry,2006,1,Completed-Success
+NCT12322523,Phase I,Oncology,376,46,Industry,2019,0,Completed-Failed
+NCT36379085,Phase I,Infectious Disease,615,113,Academic,2005,1,Completed-Success
+NCT14746771,Phase IV,Oncology,93,92,Industry,2014,1,Completed-Success
+NCT18640145,Phase III,Other,23,109,Academic,2010,1,Completed-Success
+NCT61173179,Phase III,Neurology,1003,106,Industry,2017,1,Completed-Success
+NCT43065406,Phase II,Cardiology,128,66,Industry,2014,1,Completed-Success
+NCT77973509,Phase III,Neurology,1989,80,Industry,2016,0,Completed-Failed
+NCT11428127,Phase III,Cardiology,5,60,Industry,2010,0,Completed-Failed
+NCT85968554,Phase III,Other,198,80,Industry,2010,0,Completed-Failed
+NCT47809281,Phase III,Cardiology,2638,18,Industry,2005,0,Completed-Failed
+NCT59223966,Phase III,Other,87,19,Industry,2016,0,Completed-Failed
+NCT18336900,Phase II,Infectious Disease,105,65,Industry,2014,0,Completed-Failed
+NCT28392993,Phase II,Oncology,231,77,Industry,2018,0,Withdrawn
+NCT78082045,Phase III,Infectious Disease,64,30,Academic,2019,0,Terminated
+NCT28268849,Phase I,Oncology,92,87,Industry,2008,0,Withdrawn
+NCT42363575,Phase III,Cardiology,89,49,Academic,2005,0,Completed-Failed
+NCT79170638,Phase I,Infectious Disease,57,113,Academic,2012,0,Terminated
+NCT74119240,Phase III,Cardiology,937,87,Academic,2007,0,Completed-Failed
+NCT97746642,Phase III,Oncology,296,15,NIH,2018,0,Terminated
+NCT71910920,Phase I,Oncology,216,76,Industry,2021,1,Completed-Success
+NCT84085474,Phase I,Infectious Disease,499,55,Academic,2006,1,Completed-Success
+NCT62097172,Phase I,Other,99,49,NIH,2019,1,Completed-Success
+NCT16210715,Phase III,Infectious Disease,46,19,NIH,2010,0,Completed-Failed
+NCT76088429,Phase III,Infectious Disease,60,20,Industry,2009,1,Completed-Success
+NCT41335282,Phase I,Cardiology,148,21,Industry,2018,1,Completed-Success
+NCT30020303,Phase III,Cardiology,30,7,Industry,2013,0,Completed-Failed
+NCT27686927,Phase II,Oncology,70,35,Academic,2012,1,Completed-Success
+NCT50467715,Phase II,Infectious Disease,68,35,Academic,2007,0,Withdrawn
+NCT45174147,Phase IV,Oncology,3593,87,Industry,2022,1,Completed-Success
+NCT53570727,Phase II,Other,5,36,Industry,2012,0,Terminated
+NCT16314768,Phase II,Oncology,113,113,Academic,2020,1,Completed-Success
+NCT69680868,Phase I,Infectious Disease,1975,117,Industry,2019,1,Completed-Success
+NCT18815995,Phase I,Oncology,178,82,NIH,2019,1,Completed-Success
+NCT85173084,Phase II,Oncology,459,25,Academic,2020,0,Withdrawn
+NCT28321829,Phase I,Neurology,172,54,Industry,2005,1,Completed-Success
+NCT95183718,Phase III,Oncology,54,119,Academic,2014,0,Completed-Failed
+NCT33912113,Phase II,Oncology,5,40,Industry,2009,1,Completed-Success
+NCT34525886,Phase II,Infectious Disease,201,28,Academic,2022,1,Completed-Success
+NCT56573028,Phase I,Oncology,46,111,NIH,2007,1,Completed-Success
+NCT59839731,Phase II,Oncology,44,102,NIH,2008,0,Completed-Failed
+NCT62762173,Phase III,Neurology,70,107,Industry,2008,0,Completed-Failed
+NCT40590972,Phase IV,Neurology,2033,104,Industry,2015,0,Terminated
+NCT55038050,Phase I,Other,5471,105,Industry,2013,1,Completed-Success
+NCT43843291,Phase IV,Neurology,205,66,Industry,2005,1,Completed-Success
+NCT65339989,Phase III,Cardiology,73,89,Industry,2020,0,Terminated
+NCT74587277,Phase III,Oncology,25,60,Industry,2013,0,Withdrawn
+NCT98635846,Phase II,Neurology,299,72,Industry,2015,0,Completed-Failed
+NCT73842020,Phase I,Neurology,2152,13,Industry,2010,0,Terminated
+NCT61877884,Phase I,Neurology,102,45,Industry,2021,1,Completed-Success
+NCT92913877,Phase III,Infectious Disease,5,64,NIH,2016,1,Completed-Success
+NCT57378941,Phase II,Oncology,405,37,Academic,2012,1,Completed-Success
+NCT52537345,Phase IV,Neurology,650,98,Industry,2020,0,Completed-Failed
+NCT47811773,Phase II,Cardiology,13,12,Industry,2009,0,Completed-Failed
+NCT64091482,Phase I,Other,193,7,Industry,2005,1,Completed-Success
+NCT62959636,Phase III,Oncology,292,90,Industry,2021,1,Completed-Success
+NCT92430197,Phase II,Oncology,132,11,Industry,2012,1,Completed-Success
+NCT49031525,Phase II,Oncology,45,97,Academic,2014,1,Completed-Success
+NCT52147406,Phase III,Neurology,681,117,Academic,2022,0,Completed-Failed
+NCT94388500,Phase IV,Oncology,81,111,Academic,2019,1,Completed-Success
+NCT54194441,Phase III,Oncology,15,41,Industry,2017,1,Completed-Success
+NCT62010809,Phase III,Other,6,37,NIH,2014,0,Completed-Failed
+NCT19426807,Phase III,Oncology,983,50,NIH,2013,0,Completed-Failed
+NCT27438118,Phase IV,Neurology,374,47,Industry,2017,1,Completed-Success
+NCT57246348,Phase II,Infectious Disease,169,58,Industry,2007,0,Completed-Failed
+NCT62058324,Phase I,Neurology,76,115,Industry,2007,1,Completed-Success
+NCT28463212,Phase II,Cardiology,67,14,Industry,2005,0,Completed-Failed
+NCT40596308,Phase I,Other,29,80,Academic,2006,1,Completed-Success
+NCT58774836,Phase III,Other,77,92,Industry,2015,0,Completed-Failed
+NCT97132497,Phase III,Oncology,6,119,Industry,2018,0,Completed-Failed
+NCT19091044,Phase III,Oncology,49,80,Industry,2014,0,Completed-Failed
+NCT58890527,Phase I,Oncology,93,54,Industry,2011,0,Completed-Failed
+NCT92051235,Phase III,Cardiology,370,7,NIH,2005,0,Withdrawn
+NCT78660194,Phase II,Other,139,72,Academic,2011,0,Withdrawn
+NCT78080112,Phase III,Infectious Disease,489,16,Academic,2019,1,Completed-Success
+NCT81766715,Phase III,Cardiology,1122,55,Industry,2015,1,Completed-Success
+NCT82487614,Phase II,Oncology,725,40,Academic,2010,0,Completed-Failed
+NCT12607411,Phase I,Neurology,300,20,Industry,2011,1,Completed-Success
+NCT78802303,Phase I,Other,151,112,Academic,2011,1,Completed-Success
+NCT28608310,Phase III,Oncology,34,80,Industry,2005,0,Withdrawn
+NCT93713817,Phase IV,Infectious Disease,450,36,Industry,2014,0,Terminated
+NCT19447933,Phase III,Oncology,1843,97,Industry,2019,1,Completed-Success
+NCT99809441,Phase I,Cardiology,247,67,Industry,2012,0,Completed-Failed
+NCT62295219,Phase II,Infectious Disease,2633,33,NIH,2007,0,Completed-Failed
+NCT89916795,Phase III,Oncology,15,101,Industry,2019,0,Withdrawn
+NCT41216359,Phase III,Infectious Disease,26,30,Industry,2008,1,Completed-Success
+NCT13815144,Phase I,Oncology,535,89,Industry,2010,1,Completed-Success
+NCT97322332,Phase I,Infectious Disease,220,97,NIH,2014,1,Completed-Success
+NCT93649971,Phase III,Cardiology,1064,30,Industry,2022,0,Terminated
+NCT77925916,Phase II,Oncology,145,80,Academic,2020,0,Terminated
+NCT84705449,Phase II,Neurology,40,88,NIH,2022,0,Withdrawn
+NCT26177172,Phase I,Cardiology,107,97,Industry,2010,0,Completed-Failed
+NCT90411177,Phase II,Infectious Disease,14,6,Industry,2021,0,Completed-Failed
+NCT83378188,Phase IV,Oncology,27,64,Industry,2022,1,Completed-Success
+NCT44982512,Phase IV,Neurology,638,74,Academic,2017,1,Completed-Success
+NCT86599400,Phase III,Other,549,79,Industry,2011,0,Completed-Failed
+NCT46075711,Phase II,Oncology,255,47,Industry,2016,0,Completed-Failed
+NCT34281104,Phase I,Oncology,11,115,Academic,2006,1,Completed-Success
+NCT20488951,Phase II,Oncology,86,39,Academic,2016,1,Completed-Success
+NCT22485000,Phase II,Cardiology,23,105,Industry,2016,1,Completed-Success
+NCT32897064,Phase III,Oncology,866,71,Industry,2008,0,Completed-Failed
+NCT12726016,Phase II,Infectious Disease,61,23,Industry,2008,1,Completed-Success
+NCT10442939,Phase I,Cardiology,29,82,Industry,2022,1,Completed-Success
+NCT69772463,Phase I,Cardiology,155,10,Industry,2020,0,Completed-Failed
+NCT30060188,Phase II,Infectious Disease,56,25,NIH,2018,0,Completed-Failed
+NCT40822201,Phase I,Infectious Disease,1374,71,Industry,2021,1,Completed-Success
+NCT23135871,Phase I,Cardiology,49,80,NIH,2021,0,Completed-Failed
+NCT64254875,Phase IV,Oncology,18,67,Academic,2007,1,Completed-Success
+NCT62404938,Phase II,Oncology,5,99,Industry,2010,0,Completed-Failed
+NCT23331233,Phase II,Other,141,101,Academic,2017,0,Completed-Failed
+NCT58743175,Phase IV,Oncology,63,37,Industry,2013,1,Completed-Success
+NCT96405050,Phase IV,Cardiology,17,63,NIH,2013,1,Completed-Success
+NCT64221525,Phase III,Other,883,55,NIH,2012,0,Completed-Failed
+NCT60120903,Phase III,Oncology,403,43,Industry,2021,0,Completed-Failed
+NCT45281840,Phase II,Infectious Disease,142,60,Industry,2020,0,Terminated
+NCT96687822,Phase II,Cardiology,1148,33,Industry,2020,0,Withdrawn
+NCT71808528,Phase II,Other,400,79,Industry,2020,0,Completed-Failed
+NCT27832891,Phase III,Other,43,91,Industry,2018,0,Completed-Failed
+NCT66348502,Phase III,Neurology,31,86,Industry,2018,0,Withdrawn
+NCT89061847,Phase II,Oncology,506,27,Academic,2018,1,Completed-Success
+NCT42038060,Phase I,Cardiology,268,48,Industry,2018,0,Completed-Failed
+NCT61296836,Phase III,Infectious Disease,191,88,Academic,2016,1,Completed-Success
+NCT90246175,Phase I,Infectious Disease,41,86,Academic,2010,1,Completed-Success
+NCT93860395,Phase III,Oncology,369,93,Industry,2017,1,Completed-Success
+NCT62492736,Phase III,Oncology,47,41,NIH,2020,0,Terminated
+NCT34795222,Phase III,Neurology,127,101,Industry,2013,1,Completed-Success
+NCT81214087,Phase III,Infectious Disease,1300,115,Industry,2006,0,Completed-Failed
+NCT54766028,Phase IV,Oncology,55,57,Academic,2007,1,Completed-Success
+NCT39084871,Phase II,Infectious Disease,14,41,Industry,2014,0,Terminated
+NCT21963776,Phase III,Neurology,30,33,Academic,2006,0,Withdrawn
+NCT51164396,Phase III,Neurology,659,83,NIH,2014,1,Completed-Success
+NCT99681330,Phase I,Oncology,217,63,NIH,2012,0,Terminated
+NCT47609879,Phase I,Oncology,122,41,Academic,2021,0,Completed-Failed
+NCT59896930,Phase II,Oncology,69,75,Academic,2005,1,Completed-Success
+NCT62005527,Phase II,Other,307,14,Industry,2010,0,Withdrawn
+NCT28557968,Phase III,Cardiology,41,26,Industry,2011,0,Terminated
