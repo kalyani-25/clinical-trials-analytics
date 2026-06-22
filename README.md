@@ -83,5 +83,5 @@ install.packages(c("meta", "dplyr"))
 - Healthcare/life sciences data storytelling
 - Dashboard-ready data preparation
 
-## How This Helps in a Data Scientist Role
+## How This Project Helps
 This project demonstrates the ability to analyze clinical research data, summarize study-level performance trends, build reproducible analytics workflows, and communicate findings for clinical and life sciences stakeholders.
